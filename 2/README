@@ -1,0 +1,68 @@
+pdb4amber -i frame-1.pdb --nohyd -o temp.pdb && pdb4amber -i temp.pdb --reduce -o frame-1-fixed.pdb && rm temp.pdb
+
+vmd -e ntd-ctd.tcl
+pdb4amber -i frame-1.pdb -o frame-1-fixed.pdb --nohyd
+pdb4amber -i frame-1-ntd.pdb -o frame-1-ntd-fixed.pdb --nohyd
+pdb4amber -i frame-1-ctd.pdb -o frame-1-ctd-fixed.pdb --nohyd
+
+python rename.py
+#returns frame-$-done.pdb
+
+
+
+$AMBERHOME/bin/tleap -s -f tleap.in	
+# THIS IS IN TLEAP.IN ###############
+source leaprc.protein.ff14SB
+source leaprc.water.tip3p
+
+# Load PDB files
+com = loadpdb frame-1-done.pdb
+rec = loadpdb frame-1-ntd-done.pdb
+lig = loadpdb frame-1-ctd-done.pdb
+
+# Set atomic radii for implicit solvent calculations
+set default PBRadii mbondi2
+
+# Save topology and coordinate files
+saveamberparm com frame-1.prmtop frame-1.inpcrd
+saveamberparm rec frame-1-ntd.prmtop frame-1-ntd.inpcrd
+saveamberparm lig frame-1-ctd.prmtop frame-1-ctd.inpcrd
+#################
+
+solvatebox com TIP3PBOX 12.0
+charge com    	#if not neutral solvate and add counterions
+addions com Na+ 4
+charge com
+
+saveamberparm com complex-solvated.prmtop complex-solvated.inpcrd
+quit
+
+RUN PARMED DONT SAVE PRMTOP IN TLEAP
+
+EQUILIBRIATE
+sbatch pmemd-equilibriate.sh
+./process_mdout.pl heat.out density.out equil.out
+sbatch pmemd-run.sh
+
+#using construct123 as complex, 1-2 as receptor, 3 as ligand
+$AMBERHOME/bin/MMPBSA.py -O -i mmpbsa.in -o FINAL_RESULTS_MMPBSA.dat -do FINAL_DECOMP_MMPBSA.dat -sp complex-solvated.prmtop -cp frame-1.prmtop -rp frame-1-ntd.prmtop -lp frame-1-ctd.prmtop -y *.mdcrd
+
+
+
+
+$AMBERHOME/bin/tleap -s -f $AMBERHOME/dat/leap/cmd/leaprc.protein.ff14SB -f $AMBERHOME/dat/leap/cmd/leaprc.water.tip3p
+
+
+
+parmed frame-1.prmtop << EOF
+strip :150-221
+outparm frame-1-ntd.prmtop frame-1-ntd.inpcrd
+EOF
+
+parmed frame-1.prmtop << EOF
+strip :1-149
+outparm frame-1-ctd.prmtop frame-1-ctd.inpcrd
+EOF
+
+
+    

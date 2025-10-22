@@ -1,0 +1,3 @@
+trajin equil.nc 1 250 1
+reference protein_solvated.inpcrd
+rms reference out equil.rmsd @CA,C,N

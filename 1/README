@@ -1,0 +1,62 @@
+
+
+
+pdb4amber -i frame-2.pdb -o fixed.pdb --nohyd
+python rename.py
+
+
+
+
+$AMBERHOME/bin/tleap -s -f tleap.in	
+# THIS IS IN TLEAP.IN ###############
+source leaprc.protein.ff14SB
+source leaprc.water.tip3p
+
+com = loadpdb frame-1-done.pdb
+
+set default PBRadii mbondi2
+
+# Save topology and coordinate files
+saveamberparm com frame-1.prmtop frame-1.inpcrd
+
+solvatebox com TIP3PBOX 12.0
+charge com    	#if not neutral solvate and add counterions
+addions com Na+ 4
+charge com
+
+saveamberparm com complex-solvated.prmtop complex-solvated.inpcrd
+quit
+#################
+
+parmed frame.prmtop << EOF
+strip :150-221
+outparm frame-ntd.prmtop frame-ntd.inpcrd
+EOF
+
+parmed frame.prmtop << EOF
+strip :1-149
+outparm frame-ctd.prmtop frame-ctd.inpcrd
+EOF
+
+
+
+
+EQUILIBRIATE
+sbatch pmemd-equilibriate.sh
+./process_mdout.pl heat.out density.out equil.out
+sbatch pmemd-run.sh
+
+#using construct123 as complex, 1-2 as receptor, 3 as ligand
+$AMBERHOME/bin/MMPBSA.py -O -i mmpbsa.in -o FINAL_RESULTS_MMPBSA.dat -do FINAL_DECOMP_MMPBSA.dat -sp complex-solvated.prmtop -cp frame.prmtop -rp frame-ntd.prmtop -lp frame-ctd.prmtop -y *.mdcrd
+
+
+
+
+$AMBERHOME/bin/tleap -s -f $AMBERHOME/dat/leap/cmd/leaprc.protein.ff14SB -f $AMBERHOME/dat/leap/cmd/leaprc.water.tip3p
+
+
+
+
+
+
+    
