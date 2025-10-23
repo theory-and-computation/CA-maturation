@@ -1,0 +1,9 @@
+To rerun:
+
+First, run get-colvars.py to create text files with the collective variables in each umbrella sampling window in the 1-timeseries/ folder.
+
+Then, run gen-wham-cc-inp.py to create config files for the WHAM program. Some of these config files will go into the 2-windowparams/ folder. Edit this file to change the histogram bin size.
+
+Finally, run the wham executable: ./wham
+To save information about each bin, pipe to an output file: ./wham > wham-cc.out
+

@@ -1,0 +1,70 @@
+colvar {
+   name dist
+   distance {
+      group1 { 
+         atomsFile       restraints/CA-mature.rstrnt.pdb
+         atomsCol        O
+         atomsColValue   4.0
+            }
+      group2 { 
+         atomsFile       restraints/CA-mature.rstrnt.pdb
+         atomsCol        O
+         atomsColValue   7.0
+      }
+   }
+}
+
+colvar {
+   name theta
+   dihedral {
+      group1 { 
+         atomsFile       restraints/CA-mature.rstrnt.pdb
+         atomsCol        O
+         atomsColValue   1.0 
+      }
+      group2 { 
+         atomsFile       restraints/CA-mature.rstrnt.pdb
+         atomsCol        O
+         atomsColValue   4.0
+      }
+      group3 { 
+         atomsFile       restraints/CA-mature.rstrnt.pdb
+         atomsCol        O
+         atomsColValue   5.0
+      }
+      group4 { 
+         atomsFile       restraints/CA-mature.rstrnt.pdb
+         atomsCol        O
+         atomsColValue   6.0
+      }
+   }
+}
+harmonic {
+   name theta-trans
+   colvars theta
+   centers %s
+   forceConstant 0.2
+}
+
+harmonic {
+   name dist-trans
+   colvars dist
+   centers %s
+   forceConstant 12.0
+}
+
+colvar {
+  name alpha2
+  alpha {
+  psfSegID 0A0
+         residueRange 111-118
+}
+}
+
+colvar {
+ name alpha3
+ alpha {
+ psfSegID 0A0
+         residueRange 131-145
+	 }
+}
