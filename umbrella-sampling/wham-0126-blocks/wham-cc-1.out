@@ -1,0 +1,5612 @@
+Output Files
+Total sampling, biased distribution: bia-1.dat
+Unbiased distribution: rho-1.dat
+Free energy map: pmf-1.dat
+Number of Dimensions: 2
+
+First Position in Histogram of Variable 1: -36.2
+Last Position in Histogram of Variable  1: 118.8
+Width of bins:                             2.5
+Number of bins:  
+ 
+First Position in Histogram of Variable 2: 37.3
+Last Position in Histogram of Variable  2: 51.3
+Width of bins:                             0.5
+Number of bins:  
+ 
+Tolerance for WHAM iterations:       1e-06
+Maximum number of iterations:        10000
+Total number of windows:              620
+-----------------------------------------------------------
+
+Reading time-series:                                   
+
+./1-timeseries/00.0-38.1.dat
+./2-windowparams/0.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 1.51267    rms X0 = 1.6604
+Average X1 = 38.2515    rms X1 = 0.269309
+Histogram size is 23
+
+./1-timeseries/00.0-38.8.dat
+./2-windowparams/0.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 0.938442    rms X0 = 1.88016
+Average X1 = 38.9363    rms X1 = 0.234385
+Histogram size is 32
+
+./1-timeseries/00.0-39.5.dat
+./2-windowparams/0.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 1.7456    rms X0 = 2.24374
+Average X1 = 39.4671    rms X1 = 0.227018
+Histogram size is 42
+
+./1-timeseries/00.0-40.2.dat
+./2-windowparams/0.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 0.761365    rms X0 = 1.86988
+Average X1 = 40.1515    rms X1 = 0.241398
+Histogram size is 52
+
+./1-timeseries/00.0-40.9.dat
+./2-windowparams/0.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 1.8025    rms X0 = 2.16198
+Average X1 = 41.0015    rms X1 = 0.240602
+Histogram size is 65
+
+./1-timeseries/00.0-41.6.dat
+./2-windowparams/0.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 0.678911    rms X0 = 1.73823
+Average X1 = 41.6516    rms X1 = 0.211201
+Histogram size is 73
+
+./1-timeseries/00.0-42.3.dat
+./2-windowparams/0.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 1.23566    rms X0 = 1.88173
+Average X1 = 42.2881    rms X1 = 0.219222
+Histogram size is 80
+
+./1-timeseries/00.0-42.9.dat
+./2-windowparams/0.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 0.161976    rms X0 = 1.70924
+Average X1 = 42.8984    rms X1 = 0.230929
+Histogram size is 89
+
+./1-timeseries/00.0-43.6.dat
+./2-windowparams/0.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 0.446226    rms X0 = 1.80919
+Average X1 = 43.5851    rms X1 = 0.220054
+Histogram size is 100
+
+./1-timeseries/00.0-44.3.dat
+./2-windowparams/0.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 1.18988    rms X0 = 1.64052
+Average X1 = 44.2817    rms X1 = 0.225119
+Histogram size is 107
+
+./1-timeseries/00.0-45.0.dat
+./2-windowparams/0.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 0.345462    rms X0 = 1.74763
+Average X1 = 45.0282    rms X1 = 0.229155
+Histogram size is 116
+
+./1-timeseries/00.0-45.7.dat
+./2-windowparams/0.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 0.316716    rms X0 = 1.76139
+Average X1 = 45.6746    rms X1 = 0.214833
+Histogram size is 128
+
+./1-timeseries/00.0-46.4.dat
+./2-windowparams/0.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 0.109114    rms X0 = 1.71388
+Average X1 = 46.4161    rms X1 = 0.222208
+Histogram size is 136
+
+./1-timeseries/00.0-47.1.dat
+./2-windowparams/0.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 0.47804    rms X0 = 1.8403
+Average X1 = 47.0719    rms X1 = 0.227084
+Histogram size is 148
+
+./1-timeseries/00.0-47.7.dat
+./2-windowparams/0.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 0.789042    rms X0 = 1.59013
+Average X1 = 47.6366    rms X1 = 0.2195
+Histogram size is 155
+
+./1-timeseries/00.0-48.4.dat
+./2-windowparams/0.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 0.236411    rms X0 = 1.74884
+Average X1 = 48.3796    rms X1 = 0.23168
+Histogram size is 165
+
+./1-timeseries/00.0-49.1.dat
+./2-windowparams/0.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 1.26337    rms X0 = 1.71882
+Average X1 = 48.9904    rms X1 = 0.226248
+Histogram size is 174
+
+./1-timeseries/00.0-49.8.dat
+./2-windowparams/0.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 0.172875    rms X0 = 1.8581
+Average X1 = 49.7926    rms X1 = 0.221704
+Histogram size is 185
+
+./1-timeseries/00.0-50.5.dat
+./2-windowparams/0.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 0.54169    rms X0 = 1.68674
+Average X1 = 50.2996    rms X1 = 0.218516
+Histogram size is 191
+
+./1-timeseries/00.0-51.2.dat
+./2-windowparams/0.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 0.347996    rms X0 = 1.69721
+Average X1 = 51.0359    rms X1 = 0.22266
+Histogram size is 202
+
+./1-timeseries/05.0-38.1.dat
+./2-windowparams/5.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 6.99583    rms X0 = 1.75118
+Average X1 = 38.4169    rms X1 = 0.205836
+Histogram size is 211
+
+./1-timeseries/05.0-38.8.dat
+./2-windowparams/5.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 6.73686    rms X0 = 1.70686
+Average X1 = 38.8492    rms X1 = 0.22409
+Histogram size is 212
+
+./1-timeseries/05.0-39.5.dat
+./2-windowparams/5.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 4.44355    rms X0 = 2.15674
+Average X1 = 39.5348    rms X1 = 0.228555
+Histogram size is 215
+
+./1-timeseries/05.0-40.2.dat
+./2-windowparams/5.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 7.34713    rms X0 = 1.695
+Average X1 = 40.335    rms X1 = 0.226929
+Histogram size is 220
+
+./1-timeseries/05.0-40.9.dat
+./2-windowparams/5.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 8.5706    rms X0 = 1.66497
+Average X1 = 41.0243    rms X1 = 0.211118
+Histogram size is 226
+
+./1-timeseries/05.0-41.6.dat
+./2-windowparams/5.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 5.54809    rms X0 = 1.7875
+Average X1 = 41.6473    rms X1 = 0.217687
+Histogram size is 228
+
+./1-timeseries/05.0-42.3.dat
+./2-windowparams/5.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 5.78426    rms X0 = 2.08165
+Average X1 = 42.306    rms X1 = 0.20468
+Histogram size is 232
+
+./1-timeseries/05.0-42.9.dat
+./2-windowparams/5.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 5.17436    rms X0 = 1.76534
+Average X1 = 42.9007    rms X1 = 0.233204
+Histogram size is 235
+
+./1-timeseries/05.0-43.6.dat
+./2-windowparams/5.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 5.24835    rms X0 = 1.8439
+Average X1 = 43.6271    rms X1 = 0.225098
+Histogram size is 237
+
+./1-timeseries/05.0-44.3.dat
+./2-windowparams/5.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 7.1253    rms X0 = 1.63859
+Average X1 = 44.379    rms X1 = 0.210547
+Histogram size is 242
+
+./1-timeseries/05.0-45.0.dat
+./2-windowparams/5.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 5.40623    rms X0 = 1.76399
+Average X1 = 45.0211    rms X1 = 0.22477
+Histogram size is 244
+
+./1-timeseries/05.0-45.7.dat
+./2-windowparams/5.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 5.13782    rms X0 = 1.98356
+Average X1 = 45.7125    rms X1 = 0.217454
+Histogram size is 248
+
+./1-timeseries/05.0-46.4.dat
+./2-windowparams/5.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 6.02714    rms X0 = 1.71947
+Average X1 = 46.3846    rms X1 = 0.214811
+Histogram size is 251
+
+./1-timeseries/05.0-47.1.dat
+./2-windowparams/5.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 5.90941    rms X0 = 1.75079
+Average X1 = 47.0814    rms X1 = 0.222433
+Histogram size is 256
+
+./1-timeseries/05.0-47.7.dat
+./2-windowparams/5.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 6.08457    rms X0 = 1.71968
+Average X1 = 47.6231    rms X1 = 0.227494
+Histogram size is 258
+
+./1-timeseries/05.0-48.4.dat
+./2-windowparams/5.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 5.11087    rms X0 = 1.79224
+Average X1 = 48.2777    rms X1 = 0.231181
+Histogram size is 260
+
+./1-timeseries/05.0-49.1.dat
+./2-windowparams/5.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 5.14913    rms X0 = 1.93569
+Average X1 = 49.0814    rms X1 = 0.229839
+Histogram size is 263
+
+./1-timeseries/05.0-49.8.dat
+./2-windowparams/5.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 5.20704    rms X0 = 1.95929
+Average X1 = 49.6908    rms X1 = 0.224453
+Histogram size is 266
+
+./1-timeseries/05.0-50.5.dat
+./2-windowparams/5.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 5.00614    rms X0 = 1.6978
+Average X1 = 50.4286    rms X1 = 0.212216
+Histogram size is 268
+
+./1-timeseries/05.0-51.2.dat
+./2-windowparams/5.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 5.24389    rms X0 = 1.73914
+Average X1 = 51.053    rms X1 = 0.224756
+Histogram size is 273
+
+./1-timeseries/100.0-38.1.dat
+./2-windowparams/100.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 101.239    rms X0 = 1.74862
+Average X1 = 38.2721    rms X1 = 0.234533
+Histogram size is 298
+
+./1-timeseries/100.0-38.8.dat
+./2-windowparams/100.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 99.7595    rms X0 = 1.7724
+Average X1 = 38.9258    rms X1 = 0.217674
+Histogram size is 304
+
+./1-timeseries/100.0-39.5.dat
+./2-windowparams/100.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 100.973    rms X0 = 1.57452
+Average X1 = 39.4907    rms X1 = 0.219318
+Histogram size is 312
+
+./1-timeseries/100.0-40.2.dat
+./2-windowparams/100.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 100.169    rms X0 = 1.84798
+Average X1 = 40.2216    rms X1 = 0.22427
+Histogram size is 325
+
+./1-timeseries/100.0-40.9.dat
+./2-windowparams/100.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 99.7159    rms X0 = 1.69185
+Average X1 = 40.8645    rms X1 = 0.239168
+Histogram size is 329
+
+./1-timeseries/100.0-41.6.dat
+./2-windowparams/100.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 99.1336    rms X0 = 1.79404
+Average X1 = 41.5405    rms X1 = 0.218305
+Histogram size is 340
+
+./1-timeseries/100.0-42.3.dat
+./2-windowparams/100.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 100.128    rms X0 = 2.01169
+Average X1 = 42.2647    rms X1 = 0.226566
+Histogram size is 353
+
+./1-timeseries/100.0-42.9.dat
+./2-windowparams/100.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 100.067    rms X0 = 1.95635
+Average X1 = 42.854    rms X1 = 0.225088
+Histogram size is 361
+
+./1-timeseries/100.0-43.6.dat
+./2-windowparams/100.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 100.159    rms X0 = 1.78836
+Average X1 = 43.5123    rms X1 = 0.224027
+Histogram size is 371
+
+./1-timeseries/100.0-44.3.dat
+./2-windowparams/100.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 99.9899    rms X0 = 1.7733
+Average X1 = 44.1882    rms X1 = 0.2216
+Histogram size is 380
+
+./1-timeseries/100.0-45.0.dat
+./2-windowparams/100.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 99.7405    rms X0 = 1.67927
+Average X1 = 44.914    rms X1 = 0.217246
+Histogram size is 387
+
+./1-timeseries/100.0-45.7.dat
+./2-windowparams/100.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 100.021    rms X0 = 1.78345
+Average X1 = 45.6354    rms X1 = 0.214409
+Histogram size is 400
+
+./1-timeseries/100.0-46.4.dat
+./2-windowparams/100.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 99.4008    rms X0 = 1.76213
+Average X1 = 46.3788    rms X1 = 0.21612
+Histogram size is 408
+
+./1-timeseries/100.0-47.1.dat
+./2-windowparams/100.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 99.9173    rms X0 = 1.73812
+Average X1 = 47.095    rms X1 = 0.224764
+Histogram size is 418
+
+./1-timeseries/100.0-47.7.dat
+./2-windowparams/100.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 100.039    rms X0 = 1.76264
+Average X1 = 47.6509    rms X1 = 0.218834
+Histogram size is 426
+
+./1-timeseries/100.0-48.4.dat
+./2-windowparams/100.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 99.7384    rms X0 = 1.76892
+Average X1 = 48.3735    rms X1 = 0.238685
+Histogram size is 436
+
+./1-timeseries/100.0-49.1.dat
+./2-windowparams/100.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 99.9846    rms X0 = 1.71779
+Average X1 = 49.0632    rms X1 = 0.227469
+Histogram size is 446
+
+./1-timeseries/100.0-49.8.dat
+./2-windowparams/100.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 100.008    rms X0 = 1.75129
+Average X1 = 49.8133    rms X1 = 0.219455
+Histogram size is 455
+
+./1-timeseries/100.0-50.5.dat
+./2-windowparams/100.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 99.9833    rms X0 = 1.69348
+Average X1 = 50.4626    rms X1 = 0.216893
+Histogram size is 464
+
+./1-timeseries/100.0-51.2.dat
+./2-windowparams/100.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 99.9846    rms X0 = 1.7522
+Average X1 = 51.1086    rms X1 = 0.21855
+Histogram size is 475
+
+./1-timeseries/-10.0-38.1.dat
+./2-windowparams/-10.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -9.3715    rms X0 = 1.89256
+Average X1 = 38.3042    rms X1 = 0.256716
+Histogram size is 491
+
+./1-timeseries/10.0-38.1.dat
+./2-windowparams/10.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 11.4657    rms X0 = 1.66759
+Average X1 = 38.3848    rms X1 = 0.216571
+Histogram size is 498
+
+./1-timeseries/-10.0-38.8.dat
+./2-windowparams/-10.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -9.6911    rms X0 = 1.61773
+Average X1 = 38.7905    rms X1 = 0.225201
+Histogram size is 501
+
+./1-timeseries/10.0-38.8.dat
+./2-windowparams/10.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 9.67181    rms X0 = 2.09096
+Average X1 = 38.8857    rms X1 = 0.231483
+Histogram size is 502
+
+./1-timeseries/-10.0-39.5.dat
+./2-windowparams/-10.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -7.07829    rms X0 = 1.70349
+Average X1 = 39.4491    rms X1 = 0.219744
+Histogram size is 506
+
+./1-timeseries/10.0-39.5.dat
+./2-windowparams/10.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 11.8654    rms X0 = 2.00623
+Average X1 = 39.4439    rms X1 = 0.231559
+Histogram size is 509
+
+./1-timeseries/-10.0-40.2.dat
+./2-windowparams/-10.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -9.53568    rms X0 = 1.79349
+Average X1 = 40.2471    rms X1 = 0.233662
+Histogram size is 517
+
+./1-timeseries/10.0-40.2.dat
+./2-windowparams/10.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 11.2993    rms X0 = 2.27827
+Average X1 = 40.3262    rms X1 = 0.22196
+Histogram size is 520
+
+./1-timeseries/-10.0-40.9.dat
+./2-windowparams/-10.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -8.95299    rms X0 = 1.88484
+Average X1 = 40.9425    rms X1 = 0.240144
+Histogram size is 526
+
+./1-timeseries/10.0-40.9.dat
+./2-windowparams/10.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 11.3871    rms X0 = 2.14166
+Average X1 = 40.9129    rms X1 = 0.238654
+Histogram size is 528
+
+./1-timeseries/-10.0-41.6.dat
+./2-windowparams/-10.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -9.19917    rms X0 = 1.67948
+Average X1 = 41.5838    rms X1 = 0.245146
+Histogram size is 533
+
+./1-timeseries/10.0-41.6.dat
+./2-windowparams/10.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 10.1461    rms X0 = 1.88198
+Average X1 = 41.5707    rms X1 = 0.221747
+Histogram size is 535
+
+./1-timeseries/-10.0-42.3.dat
+./2-windowparams/-10.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -9.79221    rms X0 = 2.03775
+Average X1 = 42.3484    rms X1 = 0.227282
+Histogram size is 542
+
+./1-timeseries/10.0-42.3.dat
+./2-windowparams/10.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 12.0746    rms X0 = 1.96072
+Average X1 = 42.2759    rms X1 = 0.22938
+Histogram size is 547
+
+./1-timeseries/-10.0-42.9.dat
+./2-windowparams/-10.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -9.89264    rms X0 = 1.72286
+Average X1 = 42.9116    rms X1 = 0.233323
+Histogram size is 551
+
+./1-timeseries/10.0-42.9.dat
+./2-windowparams/10.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 9.94175    rms X0 = 1.74518
+Average X1 = 42.8992    rms X1 = 0.23001
+Histogram size is 552
+
+./1-timeseries/-10.0-43.6.dat
+./2-windowparams/-10.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -9.23052    rms X0 = 1.82832
+Average X1 = 43.5403    rms X1 = 0.224169
+Histogram size is 556
+
+./1-timeseries/10.0-43.6.dat
+./2-windowparams/10.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 10.0097    rms X0 = 1.73598
+Average X1 = 43.6464    rms X1 = 0.227909
+Histogram size is 557
+
+./1-timeseries/-10.0-44.3.dat
+./2-windowparams/-10.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -10.0777    rms X0 = 1.88314
+Average X1 = 44.2846    rms X1 = 0.2245
+Histogram size is 562
+
+./1-timeseries/10.0-44.3.dat
+./2-windowparams/10.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 9.90625    rms X0 = 2.07706
+Average X1 = 44.417    rms X1 = 0.230022
+Histogram size is 567
+
+./1-timeseries/-10.0-45.0.dat
+./2-windowparams/-10.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -10.0689    rms X0 = 1.74674
+Average X1 = 44.9947    rms X1 = 0.231928
+Histogram size is 574
+
+./1-timeseries/10.0-45.0.dat
+./2-windowparams/10.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 10.5646    rms X0 = 1.78049
+Average X1 = 44.989    rms X1 = 0.22806
+Histogram size is 576
+
+./1-timeseries/-10.0-45.7.dat
+./2-windowparams/-10.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -9.49688    rms X0 = 1.76018
+Average X1 = 45.6258    rms X1 = 0.216647
+Histogram size is 579
+
+./1-timeseries/10.0-45.7.dat
+./2-windowparams/10.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 10.7782    rms X0 = 1.87929
+Average X1 = 45.6971    rms X1 = 0.219991
+Histogram size is 581
+
+./1-timeseries/-10.0-46.4.dat
+./2-windowparams/-10.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -9.75929    rms X0 = 1.72286
+Average X1 = 46.4209    rms X1 = 0.228685
+Histogram size is 588
+
+./1-timeseries/10.0-46.4.dat
+./2-windowparams/10.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 10.797    rms X0 = 1.67125
+Average X1 = 46.3534    rms X1 = 0.23624
+Histogram size is 590
+
+./1-timeseries/-10.0-47.1.dat
+./2-windowparams/-10.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -10.3106    rms X0 = 1.68993
+Average X1 = 47.0648    rms X1 = 0.214419
+Histogram size is 595
+
+./1-timeseries/10.0-47.1.dat
+./2-windowparams/10.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 10.5214    rms X0 = 1.76889
+Average X1 = 47.1216    rms X1 = 0.221489
+Histogram size is 597
+
+./1-timeseries/-10.0-47.7.dat
+./2-windowparams/-10.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -9.38284    rms X0 = 1.75715
+Average X1 = 47.6375    rms X1 = 0.215615
+Histogram size is 601
+
+./1-timeseries/10.0-47.7.dat
+./2-windowparams/10.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 10.5169    rms X0 = 1.72844
+Average X1 = 47.6019    rms X1 = 0.223401
+Histogram size is 603
+
+./1-timeseries/-10.0-48.4.dat
+./2-windowparams/-10.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -9.87385    rms X0 = 1.64894
+Average X1 = 48.3678    rms X1 = 0.222324
+Histogram size is 610
+
+./1-timeseries/10.0-48.4.dat
+./2-windowparams/10.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 10.1087    rms X0 = 1.72451
+Average X1 = 48.3664    rms X1 = 0.227763
+Histogram size is 612
+
+./1-timeseries/-10.0-49.1.dat
+./2-windowparams/-10.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -8.76012    rms X0 = 1.79705
+Average X1 = 48.9882    rms X1 = 0.226893
+Histogram size is 615
+
+./1-timeseries/10.0-49.1.dat
+./2-windowparams/10.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 10.0993    rms X0 = 1.78965
+Average X1 = 49.0708    rms X1 = 0.219024
+Histogram size is 617
+
+./1-timeseries/-10.0-49.8.dat
+./2-windowparams/-10.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -9.40342    rms X0 = 1.71918
+Average X1 = 49.7133    rms X1 = 0.223973
+Histogram size is 624
+
+./1-timeseries/10.0-49.8.dat
+./2-windowparams/10.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 10.7698    rms X0 = 1.81865
+Average X1 = 49.6814    rms X1 = 0.217726
+Histogram size is 628
+
+./1-timeseries/-10.0-50.5.dat
+./2-windowparams/-10.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -9.93981    rms X0 = 1.7699
+Average X1 = 50.4149    rms X1 = 0.236896
+Histogram size is 636
+
+./1-timeseries/10.0-50.5.dat
+./2-windowparams/10.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 9.98618    rms X0 = 1.72217
+Average X1 = 50.4509    rms X1 = 0.225501
+Histogram size is 638
+
+./1-timeseries/-10.0-51.2.dat
+./2-windowparams/-10.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -9.90146    rms X0 = 1.82534
+Average X1 = 51.0704    rms X1 = 0.227789
+Histogram size is 645
+
+./1-timeseries/10.0-51.2.dat
+./2-windowparams/10.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 10.1475    rms X0 = 1.69665
+Average X1 = 50.9737    rms X1 = 0.218231
+Histogram size is 649
+
+./1-timeseries/105.0-38.1.dat
+./2-windowparams/105.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 105.916    rms X0 = 1.99396
+Average X1 = 38.2643    rms X1 = 0.232461
+Histogram size is 657
+
+./1-timeseries/105.0-38.8.dat
+./2-windowparams/105.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 105.276    rms X0 = 1.67662
+Average X1 = 38.8787    rms X1 = 0.226584
+Histogram size is 659
+
+./1-timeseries/105.0-39.5.dat
+./2-windowparams/105.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 104.76    rms X0 = 1.53696
+Average X1 = 39.5184    rms X1 = 0.221167
+Histogram size is 660
+
+./1-timeseries/105.0-40.2.dat
+./2-windowparams/105.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 105.14    rms X0 = 1.80111
+Average X1 = 40.1492    rms X1 = 0.211681
+Histogram size is 664
+
+./1-timeseries/105.0-40.9.dat
+./2-windowparams/105.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 105.125    rms X0 = 1.59747
+Average X1 = 40.8611    rms X1 = 0.21821
+Histogram size is 669
+
+./1-timeseries/105.0-41.6.dat
+./2-windowparams/105.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 105.329    rms X0 = 1.69567
+Average X1 = 41.5983    rms X1 = 0.222305
+Histogram size is 671
+
+./1-timeseries/105.0-42.3.dat
+./2-windowparams/105.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 105.136    rms X0 = 1.61785
+Average X1 = 42.2185    rms X1 = 0.218701
+Histogram size is 674
+
+./1-timeseries/105.0-42.9.dat
+./2-windowparams/105.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 104.975    rms X0 = 1.7222
+Average X1 = 42.8311    rms X1 = 0.226694
+Histogram size is 675
+
+./1-timeseries/105.0-43.6.dat
+./2-windowparams/105.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 104.913    rms X0 = 1.81795
+Average X1 = 43.4229    rms X1 = 0.223374
+Histogram size is 677
+
+./1-timeseries/105.0-44.3.dat
+./2-windowparams/105.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 104.93    rms X0 = 1.84457
+Average X1 = 44.2459    rms X1 = 0.231174
+Histogram size is 681
+
+./1-timeseries/105.0-45.0.dat
+./2-windowparams/105.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 104.468    rms X0 = 1.70864
+Average X1 = 44.9623    rms X1 = 0.214499
+Histogram size is 682
+
+./1-timeseries/105.0-45.7.dat
+./2-windowparams/105.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 104.149    rms X0 = 1.73598
+Average X1 = 45.532    rms X1 = 0.233184
+Histogram size is 684
+
+./1-timeseries/105.0-46.4.dat
+./2-windowparams/105.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 105.089    rms X0 = 1.85232
+Average X1 = 46.3388    rms X1 = 0.222989
+Histogram size is 689
+
+./1-timeseries/105.0-47.1.dat
+./2-windowparams/105.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 104.735    rms X0 = 1.77049
+Average X1 = 47.0965    rms X1 = 0.232253
+Histogram size is 693
+
+./1-timeseries/105.0-47.7.dat
+./2-windowparams/105.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 104.96    rms X0 = 1.79596
+Average X1 = 47.6537    rms X1 = 0.225649
+Histogram size is 695
+
+./1-timeseries/105.0-48.4.dat
+./2-windowparams/105.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 104.991    rms X0 = 1.7624
+Average X1 = 48.3699    rms X1 = 0.225407
+Histogram size is 698
+
+./1-timeseries/105.0-49.1.dat
+./2-windowparams/105.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 105.138    rms X0 = 1.73599
+Average X1 = 49.0403    rms X1 = 0.224356
+Histogram size is 702
+
+./1-timeseries/105.0-49.8.dat
+./2-windowparams/105.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 104.96    rms X0 = 1.75412
+Average X1 = 49.7689    rms X1 = 0.226782
+Histogram size is 704
+
+./1-timeseries/105.0-50.5.dat
+./2-windowparams/105.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 105.038    rms X0 = 1.7466
+Average X1 = 50.4644    rms X1 = 0.219646
+Histogram size is 707
+
+./1-timeseries/105.0-51.2.dat
+./2-windowparams/105.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 104.978    rms X0 = 1.74532
+Average X1 = 51.1343    rms X1 = 0.226751
+Histogram size is 710
+
+./1-timeseries/110.0-38.1.dat
+./2-windowparams/110.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 110.121    rms X0 = 1.59308
+Average X1 = 38.1683    rms X1 = 0.233654
+Histogram size is 715
+
+./1-timeseries/110.0-38.8.dat
+./2-windowparams/110.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 110.267    rms X0 = 1.59823
+Average X1 = 38.9165    rms X1 = 0.225859
+Histogram size is 718
+
+./1-timeseries/110.0-39.5.dat
+./2-windowparams/110.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 109.938    rms X0 = 1.69677
+Average X1 = 39.497    rms X1 = 0.223402
+Histogram size is 720
+
+./1-timeseries/110.0-40.2.dat
+./2-windowparams/110.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 109.893    rms X0 = 1.65183
+Average X1 = 40.2071    rms X1 = 0.214733
+Histogram size is 722
+
+./1-timeseries/110.0-40.9.dat
+./2-windowparams/110.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 109.564    rms X0 = 1.6982
+Average X1 = 40.8662    rms X1 = 0.215245
+Histogram size is 724
+
+./1-timeseries/110.0-41.6.dat
+./2-windowparams/110.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 109.781    rms X0 = 1.64466
+Average X1 = 41.553    rms X1 = 0.224283
+Histogram size is 725
+
+./1-timeseries/110.0-42.3.dat
+./2-windowparams/110.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 109.728    rms X0 = 1.57345
+Average X1 = 42.1973    rms X1 = 0.21745
+Histogram size is 727
+
+./1-timeseries/110.0-42.9.dat
+./2-windowparams/110.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 110.115    rms X0 = 1.7478
+Average X1 = 42.7959    rms X1 = 0.220563
+Histogram size is 731
+
+./1-timeseries/110.0-43.6.dat
+./2-windowparams/110.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 110.027    rms X0 = 1.69827
+Average X1 = 43.4971    rms X1 = 0.238275
+Histogram size is 733
+
+./1-timeseries/110.0-44.3.dat
+./2-windowparams/110.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 110.269    rms X0 = 1.73402
+Average X1 = 44.1729    rms X1 = 0.247856
+Histogram size is 737
+
+./1-timeseries/110.0-45.0.dat
+./2-windowparams/110.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 109.947    rms X0 = 1.75684
+Average X1 = 44.9392    rms X1 = 0.233919
+Histogram size is 741
+
+./1-timeseries/110.0-45.7.dat
+./2-windowparams/110.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 109.809    rms X0 = 1.72403
+Average X1 = 45.6402    rms X1 = 0.223011
+Histogram size is 743
+
+./1-timeseries/110.0-46.4.dat
+./2-windowparams/110.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 109.737    rms X0 = 1.73888
+Average X1 = 46.3554    rms X1 = 0.225919
+Histogram size is 746
+
+./1-timeseries/110.0-47.1.dat
+./2-windowparams/110.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 109.856    rms X0 = 1.78524
+Average X1 = 47.0555    rms X1 = 0.234046
+Histogram size is 749
+
+./1-timeseries/110.0-47.7.dat
+./2-windowparams/110.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 110.047    rms X0 = 1.7203
+Average X1 = 47.6291    rms X1 = 0.230214
+Histogram size is 752
+
+./1-timeseries/110.0-48.4.dat
+./2-windowparams/110.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 110.05    rms X0 = 1.74728
+Average X1 = 48.3521    rms X1 = 0.220731
+Histogram size is 755
+
+./1-timeseries/110.0-49.1.dat
+./2-windowparams/110.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 110.349    rms X0 = 1.75557
+Average X1 = 49.0178    rms X1 = 0.225385
+Histogram size is 756
+
+./1-timeseries/110.0-49.8.dat
+./2-windowparams/110.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 109.851    rms X0 = 1.76941
+Average X1 = 49.7772    rms X1 = 0.221989
+Histogram size is 760
+
+./1-timeseries/110.0-50.5.dat
+./2-windowparams/110.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 110.071    rms X0 = 1.70902
+Average X1 = 50.4617    rms X1 = 0.22584
+Histogram size is 762
+
+./1-timeseries/110.0-51.2.dat
+./2-windowparams/110.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 110.039    rms X0 = 1.77194
+Average X1 = 51.1127    rms X1 = 0.22268
+Histogram size is 768
+
+./1-timeseries/115.0-38.1.dat
+./2-windowparams/115.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 115.317    rms X0 = 1.94986
+Average X1 = 38.1574    rms X1 = 0.228865
+Histogram size is 775
+
+./1-timeseries/115.0-38.8.dat
+./2-windowparams/115.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 114.841    rms X0 = 1.55602
+Average X1 = 38.8699    rms X1 = 0.219909
+Histogram size is 776
+
+./1-timeseries/115.0-39.5.dat
+./2-windowparams/115.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 114.482    rms X0 = 1.67545
+Average X1 = 39.5475    rms X1 = 0.22187
+Histogram size is 778
+
+./1-timeseries/115.0-40.2.dat
+./2-windowparams/115.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 114.181    rms X0 = 1.66458
+Average X1 = 40.1371    rms X1 = 0.224568
+Histogram size is 780
+
+./1-timeseries/115.0-40.9.dat
+./2-windowparams/115.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 114.775    rms X0 = 1.6551
+Average X1 = 40.8391    rms X1 = 0.229197
+Histogram size is 783
+
+./1-timeseries/115.0-41.6.dat
+./2-windowparams/115.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 115.277    rms X0 = 1.58425
+Average X1 = 41.6038    rms X1 = 0.219042
+Histogram size is 786
+
+./1-timeseries/115.0-42.3.dat
+./2-windowparams/115.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 113.943    rms X0 = 1.68093
+Average X1 = 42.2012    rms X1 = 0.204594
+Histogram size is 787
+
+./1-timeseries/115.0-42.9.dat
+./2-windowparams/115.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 114.671    rms X0 = 1.62537
+Average X1 = 42.754    rms X1 = 0.222917
+Histogram size is 788
+
+./1-timeseries/115.0-43.6.dat
+./2-windowparams/115.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 114.844    rms X0 = 1.7252
+Average X1 = 43.5134    rms X1 = 0.232773
+Histogram size is 790
+
+./1-timeseries/115.0-44.3.dat
+./2-windowparams/115.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 114.09    rms X0 = 1.64041
+Average X1 = 44.2232    rms X1 = 0.230569
+Histogram size is 791
+
+./1-timeseries/115.0-45.0.dat
+./2-windowparams/115.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 115.253    rms X0 = 1.64253
+Average X1 = 44.9397    rms X1 = 0.232827
+Histogram size is 793
+
+./1-timeseries/115.0-45.7.dat
+./2-windowparams/115.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 114.942    rms X0 = 1.88389
+Average X1 = 45.6765    rms X1 = 0.221413
+Histogram size is 798
+
+./1-timeseries/115.0-46.4.dat
+./2-windowparams/115.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 114.734    rms X0 = 1.7905
+Average X1 = 46.3312    rms X1 = 0.228719
+Histogram size is 800
+
+./1-timeseries/115.0-47.1.dat
+./2-windowparams/115.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 115.282    rms X0 = 1.74877
+Average X1 = 47.047    rms X1 = 0.22764
+Histogram size is 803
+
+./1-timeseries/115.0-47.7.dat
+./2-windowparams/115.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 115.198    rms X0 = 1.84723
+Average X1 = 47.6333    rms X1 = 0.218032
+Histogram size is 806
+
+./1-timeseries/115.0-48.4.dat
+./2-windowparams/115.0-48.4.k
+Number of data in the histogram    28901
+Last Timestep = 2.89e+06
+Average X0 = 114.971    rms X0 = 1.75411
+Average X1 = 48.3394    rms X1 = 0.225326
+Histogram size is 808
+
+./1-timeseries/115.0-49.1.dat
+./2-windowparams/115.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 115.054    rms X0 = 1.73874
+Average X1 = 49.0721    rms X1 = 0.219424
+Histogram size is 811
+
+./1-timeseries/115.0-49.8.dat
+./2-windowparams/115.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 114.975    rms X0 = 1.74579
+Average X1 = 49.7681    rms X1 = 0.214084
+Histogram size is 814
+
+./1-timeseries/115.0-50.5.dat
+./2-windowparams/115.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 114.931    rms X0 = 1.76672
+Average X1 = 50.4382    rms X1 = 0.224452
+Histogram size is 816
+
+./1-timeseries/115.0-51.2.dat
+./2-windowparams/115.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 114.949    rms X0 = 1.76738
+Average X1 = 51.1592    rms X1 = 0.227092
+Histogram size is 821
+
+./1-timeseries/-15.0-38.1.dat
+./2-windowparams/-15.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -14.3673    rms X0 = 1.91376
+Average X1 = 38.2229    rms X1 = 0.259203
+Histogram size is 826
+
+./1-timeseries/15.0-38.1.dat
+./2-windowparams/15.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 16.5643    rms X0 = 1.77009
+Average X1 = 38.2937    rms X1 = 0.249718
+Histogram size is 835
+
+./1-timeseries/-15.0-38.8.dat
+./2-windowparams/-15.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -14.6099    rms X0 = 1.74684
+Average X1 = 38.8544    rms X1 = 0.220973
+Histogram size is 837
+
+./1-timeseries/15.0-38.8.dat
+./2-windowparams/15.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 15.4196    rms X0 = 2.19384
+Average X1 = 38.8992    rms X1 = 0.225296
+Histogram size is 838
+
+./1-timeseries/-15.0-39.5.dat
+./2-windowparams/-15.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -13.2424    rms X0 = 1.71656
+Average X1 = 39.3658    rms X1 = 0.219782
+Histogram size is 838
+
+./1-timeseries/15.0-39.5.dat
+./2-windowparams/15.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 16.6588    rms X0 = 1.97046
+Average X1 = 39.4638    rms X1 = 0.234839
+Histogram size is 843
+
+./1-timeseries/-15.0-40.2.dat
+./2-windowparams/-15.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -13.7232    rms X0 = 1.71774
+Average X1 = 40.223    rms X1 = 0.227908
+Histogram size is 845
+
+./1-timeseries/15.0-40.2.dat
+./2-windowparams/15.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 17.5366    rms X0 = 1.89463
+Average X1 = 40.3644    rms X1 = 0.232743
+Histogram size is 847
+
+./1-timeseries/-15.0-40.9.dat
+./2-windowparams/-15.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -13.7998    rms X0 = 1.8664
+Average X1 = 40.9296    rms X1 = 0.249586
+Histogram size is 850
+
+./1-timeseries/15.0-40.9.dat
+./2-windowparams/15.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 17.6051    rms X0 = 1.70092
+Average X1 = 40.9226    rms X1 = 0.256447
+Histogram size is 854
+
+./1-timeseries/-15.0-41.6.dat
+./2-windowparams/-15.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -14.296    rms X0 = 1.70766
+Average X1 = 41.6143    rms X1 = 0.229154
+Histogram size is 856
+
+./1-timeseries/15.0-41.6.dat
+./2-windowparams/15.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 15.0163    rms X0 = 2.07079
+Average X1 = 41.5836    rms X1 = 0.247188
+Histogram size is 857
+
+./1-timeseries/-15.0-42.3.dat
+./2-windowparams/-15.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -13.5557    rms X0 = 1.81097
+Average X1 = 42.2135    rms X1 = 0.226101
+Histogram size is 859
+
+./1-timeseries/15.0-42.3.dat
+./2-windowparams/15.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 17.3407    rms X0 = 2.64559
+Average X1 = 42.3468    rms X1 = 0.21785
+Histogram size is 865
+
+./1-timeseries/-15.0-42.9.dat
+./2-windowparams/-15.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -14.3427    rms X0 = 1.74228
+Average X1 = 42.9178    rms X1 = 0.228031
+Histogram size is 868
+
+./1-timeseries/15.0-42.9.dat
+./2-windowparams/15.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 14.7712    rms X0 = 1.69886
+Average X1 = 42.872    rms X1 = 0.232922
+Histogram size is 869
+
+./1-timeseries/-15.0-43.6.dat
+./2-windowparams/-15.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -15.4344    rms X0 = 1.75603
+Average X1 = 43.5805    rms X1 = 0.224607
+Histogram size is 874
+
+./1-timeseries/15.0-43.6.dat
+./2-windowparams/15.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 15.2292    rms X0 = 1.76726
+Average X1 = 43.633    rms X1 = 0.225067
+Histogram size is 875
+
+./1-timeseries/-15.0-44.3.dat
+./2-windowparams/-15.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -13.4016    rms X0 = 1.64125
+Average X1 = 44.2865    rms X1 = 0.22931
+Histogram size is 875
+
+./1-timeseries/15.0-44.3.dat
+./2-windowparams/15.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 15.2353    rms X0 = 2.10399
+Average X1 = 44.3326    rms X1 = 0.225509
+Histogram size is 880
+
+./1-timeseries/-15.0-45.0.dat
+./2-windowparams/-15.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -14.8296    rms X0 = 1.73982
+Average X1 = 44.9595    rms X1 = 0.241407
+Histogram size is 884
+
+./1-timeseries/15.0-45.0.dat
+./2-windowparams/15.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 15.3078    rms X0 = 1.80817
+Average X1 = 45.0217    rms X1 = 0.229832
+Histogram size is 886
+
+./1-timeseries/-15.0-45.7.dat
+./2-windowparams/-15.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -14.7975    rms X0 = 1.60141
+Average X1 = 45.6437    rms X1 = 0.21719
+Histogram size is 889
+
+./1-timeseries/15.0-45.7.dat
+./2-windowparams/15.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 14.6129    rms X0 = 1.77395
+Average X1 = 45.7014    rms X1 = 0.229142
+Histogram size is 891
+
+./1-timeseries/-15.0-46.4.dat
+./2-windowparams/-15.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -15.1597    rms X0 = 1.71544
+Average X1 = 46.3942    rms X1 = 0.218414
+Histogram size is 893
+
+./1-timeseries/15.0-46.4.dat
+./2-windowparams/15.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 15.0302    rms X0 = 1.66501
+Average X1 = 46.3838    rms X1 = 0.229491
+Histogram size is 895
+
+./1-timeseries/-15.0-47.1.dat
+./2-windowparams/-15.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -15.0191    rms X0 = 1.7206
+Average X1 = 47.0328    rms X1 = 0.216692
+Histogram size is 898
+
+./1-timeseries/15.0-47.1.dat
+./2-windowparams/15.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 14.9934    rms X0 = 1.71624
+Average X1 = 47.1427    rms X1 = 0.226245
+Histogram size is 901
+
+./1-timeseries/-15.0-47.7.dat
+./2-windowparams/-15.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -14.3119    rms X0 = 1.82722
+Average X1 = 47.6293    rms X1 = 0.222555
+Histogram size is 902
+
+./1-timeseries/15.0-47.7.dat
+./2-windowparams/15.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 14.9403    rms X0 = 1.76157
+Average X1 = 47.8042    rms X1 = 0.233078
+Histogram size is 905
+
+./1-timeseries/-15.0-48.4.dat
+./2-windowparams/-15.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -15.1033    rms X0 = 1.77808
+Average X1 = 48.3217    rms X1 = 0.217252
+Histogram size is 910
+
+./1-timeseries/15.0-48.4.dat
+./2-windowparams/15.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 15.475    rms X0 = 1.59822
+Average X1 = 48.3749    rms X1 = 0.220321
+Histogram size is 912
+
+./1-timeseries/-15.0-49.1.dat
+./2-windowparams/-15.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -14.1954    rms X0 = 1.70412
+Average X1 = 49.0481    rms X1 = 0.21995
+Histogram size is 913
+
+./1-timeseries/15.0-49.1.dat
+./2-windowparams/15.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 15.1718    rms X0 = 1.95194
+Average X1 = 49.0442    rms X1 = 0.214838
+Histogram size is 916
+
+./1-timeseries/-15.0-49.8.dat
+./2-windowparams/-15.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -14.6989    rms X0 = 1.70555
+Average X1 = 49.6678    rms X1 = 0.218414
+Histogram size is 918
+
+./1-timeseries/15.0-49.8.dat
+./2-windowparams/15.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 15.0511    rms X0 = 1.64367
+Average X1 = 49.6397    rms X1 = 0.209155
+Histogram size is 920
+
+./1-timeseries/-15.0-50.5.dat
+./2-windowparams/-15.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -14.4724    rms X0 = 1.55784
+Average X1 = 50.3259    rms X1 = 0.219891
+Histogram size is 922
+
+./1-timeseries/15.0-50.5.dat
+./2-windowparams/15.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 14.8298    rms X0 = 1.71613
+Average X1 = 50.4004    rms X1 = 0.237346
+Histogram size is 925
+
+./1-timeseries/-15.0-51.2.dat
+./2-windowparams/-15.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -14.9488    rms X0 = 1.70332
+Average X1 = 51.0986    rms X1 = 0.232437
+Histogram size is 929
+
+./1-timeseries/15.0-51.2.dat
+./2-windowparams/15.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 15.3034    rms X0 = 1.759
+Average X1 = 51.0659    rms X1 = 0.229772
+Histogram size is 936
+
+./1-timeseries/-20.0-38.1.dat
+./2-windowparams/-20.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -19.3425    rms X0 = 1.72497
+Average X1 = 38.2788    rms X1 = 0.249649
+Histogram size is 945
+
+./1-timeseries/20.0-38.1.dat
+./2-windowparams/20.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 20.9758    rms X0 = 1.94911
+Average X1 = 38.176    rms X1 = 0.232044
+Histogram size is 954
+
+./1-timeseries/-20.0-38.8.dat
+./2-windowparams/-20.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -18.7647    rms X0 = 1.69786
+Average X1 = 38.8083    rms X1 = 0.233518
+Histogram size is 955
+
+./1-timeseries/20.0-38.8.dat
+./2-windowparams/20.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 20.0131    rms X0 = 2.23616
+Average X1 = 38.9176    rms X1 = 0.218788
+Histogram size is 959
+
+./1-timeseries/-20.0-39.5.dat
+./2-windowparams/-20.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -19.0009    rms X0 = 1.98557
+Average X1 = 39.4556    rms X1 = 0.227285
+Histogram size is 963
+
+./1-timeseries/20.0-39.5.dat
+./2-windowparams/20.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 20.8229    rms X0 = 2.61978
+Average X1 = 39.6168    rms X1 = 0.214191
+Histogram size is 967
+
+./1-timeseries/-20.0-40.2.dat
+./2-windowparams/-20.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -19.8251    rms X0 = 1.7425
+Average X1 = 40.2423    rms X1 = 0.219605
+Histogram size is 974
+
+./1-timeseries/20.0-40.2.dat
+./2-windowparams/20.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 22.9966    rms X0 = 1.99494
+Average X1 = 40.2544    rms X1 = 0.22555
+Histogram size is 976
+
+./1-timeseries/-20.0-40.9.dat
+./2-windowparams/-20.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -18.6979    rms X0 = 2.09094
+Average X1 = 40.9217    rms X1 = 0.233376
+Histogram size is 977
+
+./1-timeseries/20.0-40.9.dat
+./2-windowparams/20.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 22.0563    rms X0 = 1.57394
+Average X1 = 40.8593    rms X1 = 0.247786
+Histogram size is 978
+
+./1-timeseries/-20.0-41.6.dat
+./2-windowparams/-20.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -19.7615    rms X0 = 1.81132
+Average X1 = 41.5959    rms X1 = 0.21737
+Histogram size is 982
+
+./1-timeseries/20.0-41.6.dat
+./2-windowparams/20.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 20.5874    rms X0 = 1.752
+Average X1 = 41.6543    rms X1 = 0.222103
+Histogram size is 983
+
+./1-timeseries/-20.0-42.3.dat
+./2-windowparams/-20.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -18.1783    rms X0 = 1.70402
+Average X1 = 42.1892    rms X1 = 0.219369
+Histogram size is 984
+
+./1-timeseries/20.0-42.3.dat
+./2-windowparams/20.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 22.3917    rms X0 = 1.91617
+Average X1 = 42.1948    rms X1 = 0.210133
+Histogram size is 989
+
+./1-timeseries/-20.0-42.9.dat
+./2-windowparams/-20.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -19.7858    rms X0 = 1.7651
+Average X1 = 42.8862    rms X1 = 0.226483
+Histogram size is 993
+
+./1-timeseries/20.0-42.9.dat
+./2-windowparams/20.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 19.9971    rms X0 = 1.82477
+Average X1 = 42.9036    rms X1 = 0.232418
+Histogram size is 994
+
+./1-timeseries/-20.0-43.6.dat
+./2-windowparams/-20.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -19.2341    rms X0 = 1.86074
+Average X1 = 43.5661    rms X1 = 0.232342
+Histogram size is 996
+
+./1-timeseries/20.0-43.6.dat
+./2-windowparams/20.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 21.0002    rms X0 = 1.69445
+Average X1 = 43.6452    rms X1 = 0.216368
+Histogram size is 999
+
+./1-timeseries/-20.0-44.3.dat
+./2-windowparams/-20.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -19.2723    rms X0 = 1.72152
+Average X1 = 44.3417    rms X1 = 0.226241
+Histogram size is 1001
+
+./1-timeseries/20.0-44.3.dat
+./2-windowparams/20.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 21.0852    rms X0 = 1.6305
+Average X1 = 44.3483    rms X1 = 0.226616
+Histogram size is 1003
+
+./1-timeseries/-20.0-45.0.dat
+./2-windowparams/-20.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -20.1595    rms X0 = 1.62488
+Average X1 = 44.9847    rms X1 = 0.23294
+Histogram size is 1005
+
+./1-timeseries/20.0-45.0.dat
+./2-windowparams/20.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 20.647    rms X0 = 1.77896
+Average X1 = 45.0097    rms X1 = 0.223237
+Histogram size is 1009
+
+./1-timeseries/-20.0-45.7.dat
+./2-windowparams/-20.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -20.3172    rms X0 = 1.79159
+Average X1 = 45.6864    rms X1 = 0.244002
+Histogram size is 1014
+
+./1-timeseries/20.0-45.7.dat
+./2-windowparams/20.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 20.2072    rms X0 = 1.76791
+Average X1 = 45.7215    rms X1 = 0.222351
+Histogram size is 1019
+
+./1-timeseries/-20.0-46.4.dat
+./2-windowparams/-20.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -20.6374    rms X0 = 1.78361
+Average X1 = 46.4139    rms X1 = 0.216111
+Histogram size is 1021
+
+./1-timeseries/20.0-46.4.dat
+./2-windowparams/20.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 20.0979    rms X0 = 1.76939
+Average X1 = 46.3415    rms X1 = 0.218988
+Histogram size is 1023
+
+./1-timeseries/-20.0-47.1.dat
+./2-windowparams/-20.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -19.6045    rms X0 = 1.63701
+Average X1 = 47.0713    rms X1 = 0.217205
+Histogram size is 1024
+
+./1-timeseries/20.0-47.1.dat
+./2-windowparams/20.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 19.6401    rms X0 = 1.79473
+Average X1 = 47.0765    rms X1 = 0.230664
+Histogram size is 1026
+
+./1-timeseries/-20.0-47.7.dat
+./2-windowparams/-20.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -19.6125    rms X0 = 1.78593
+Average X1 = 47.5906    rms X1 = 0.222183
+Histogram size is 1029
+
+./1-timeseries/20.0-47.7.dat
+./2-windowparams/20.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 20.1162    rms X0 = 1.80338
+Average X1 = 47.7062    rms X1 = 0.218583
+Histogram size is 1032
+
+./1-timeseries/-20.0-48.4.dat
+./2-windowparams/-20.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -19.5727    rms X0 = 1.75369
+Average X1 = 48.3877    rms X1 = 0.229732
+Histogram size is 1036
+
+./1-timeseries/20.0-48.4.dat
+./2-windowparams/20.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 19.3837    rms X0 = 1.7444
+Average X1 = 48.3605    rms X1 = 0.226112
+Histogram size is 1038
+
+./1-timeseries/-20.0-49.1.dat
+./2-windowparams/-20.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -20.2707    rms X0 = 1.70811
+Average X1 = 48.9665    rms X1 = 0.214971
+Histogram size is 1042
+
+./1-timeseries/20.0-49.1.dat
+./2-windowparams/20.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 20.4999    rms X0 = 1.61685
+Average X1 = 49.0865    rms X1 = 0.219448
+Histogram size is 1044
+
+./1-timeseries/-20.0-49.8.dat
+./2-windowparams/-20.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -19.742    rms X0 = 1.85401
+Average X1 = 49.7611    rms X1 = 0.225822
+Histogram size is 1048
+
+./1-timeseries/20.0-49.8.dat
+./2-windowparams/20.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 20.298    rms X0 = 1.97152
+Average X1 = 49.6246    rms X1 = 0.232929
+Histogram size is 1053
+
+./1-timeseries/-20.0-50.5.dat
+./2-windowparams/-20.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -19.5724    rms X0 = 1.76024
+Average X1 = 50.4007    rms X1 = 0.231466
+Histogram size is 1055
+
+./1-timeseries/20.0-50.5.dat
+./2-windowparams/20.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 20.0388    rms X0 = 1.6082
+Average X1 = 50.2947    rms X1 = 0.215338
+Histogram size is 1057
+
+./1-timeseries/-20.0-51.2.dat
+./2-windowparams/-20.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -19.1194    rms X0 = 1.82191
+Average X1 = 51.0411    rms X1 = 0.220236
+Histogram size is 1061
+
+./1-timeseries/20.0-51.2.dat
+./2-windowparams/20.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 19.9132    rms X0 = 1.7619
+Average X1 = 50.9974    rms X1 = 0.244733
+Histogram size is 1065
+
+./1-timeseries/-25.0-38.1.dat
+./2-windowparams/-25.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.2492    rms X0 = 1.90844
+Average X1 = 38.2226    rms X1 = 0.252092
+Histogram size is 1074
+
+./1-timeseries/25.0-38.1.dat
+./2-windowparams/25.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 27.564    rms X0 = 1.99314
+Average X1 = 38.2795    rms X1 = 0.239087
+Histogram size is 1081
+
+./1-timeseries/-25.0-38.8.dat
+./2-windowparams/-25.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.1857    rms X0 = 1.74397
+Average X1 = 38.8766    rms X1 = 0.206675
+Histogram size is 1082
+
+./1-timeseries/25.0-38.8.dat
+./2-windowparams/25.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 28.4734    rms X0 = 1.73964
+Average X1 = 38.8714    rms X1 = 0.223495
+Histogram size is 1084
+
+./1-timeseries/-25.0-39.5.dat
+./2-windowparams/-25.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.8313    rms X0 = 1.71277
+Average X1 = 39.4172    rms X1 = 0.222578
+Histogram size is 1086
+
+./1-timeseries/25.0-39.5.dat
+./2-windowparams/25.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 27.0714    rms X0 = 2.14997
+Average X1 = 39.6036    rms X1 = 0.219701
+Histogram size is 1089
+
+./1-timeseries/-25.0-40.2.dat
+./2-windowparams/-25.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.3846    rms X0 = 1.75687
+Average X1 = 40.2018    rms X1 = 0.221096
+Histogram size is 1092
+
+./1-timeseries/25.0-40.2.dat
+./2-windowparams/25.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 26.9223    rms X0 = 1.85002
+Average X1 = 40.2913    rms X1 = 0.224763
+Histogram size is 1093
+
+./1-timeseries/-25.0-40.9.dat
+./2-windowparams/-25.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -23.0616    rms X0 = 1.75563
+Average X1 = 40.8385    rms X1 = 0.246751
+Histogram size is 1094
+
+./1-timeseries/25.0-40.9.dat
+./2-windowparams/25.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 27.8385    rms X0 = 1.51161
+Average X1 = 40.9948    rms X1 = 0.276393
+Histogram size is 1096
+
+./1-timeseries/-25.0-41.6.dat
+./2-windowparams/-25.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -25.2522    rms X0 = 1.78995
+Average X1 = 41.5745    rms X1 = 0.218819
+Histogram size is 1101
+
+./1-timeseries/25.0-41.6.dat
+./2-windowparams/25.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 28.2112    rms X0 = 1.8035
+Average X1 = 41.5544    rms X1 = 0.218046
+Histogram size is 1103
+
+./1-timeseries/-25.0-42.3.dat
+./2-windowparams/-25.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.1485    rms X0 = 1.81763
+Average X1 = 42.2503    rms X1 = 0.234027
+Histogram size is 1104
+
+./1-timeseries/25.0-42.3.dat
+./2-windowparams/25.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 27.0314    rms X0 = 2.2695
+Average X1 = 42.3228    rms X1 = 0.23455
+Histogram size is 1109
+
+./1-timeseries/-25.0-42.9.dat
+./2-windowparams/-25.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -25.0594    rms X0 = 1.59123
+Average X1 = 42.9398    rms X1 = 0.222236
+Histogram size is 1115
+
+./1-timeseries/25.0-42.9.dat
+./2-windowparams/25.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 25.018    rms X0 = 1.74549
+Average X1 = 42.8717    rms X1 = 0.221104
+Histogram size is 1116
+
+./1-timeseries/-25.0-43.6.dat
+./2-windowparams/-25.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -25.1405    rms X0 = 1.7711
+Average X1 = 43.6084    rms X1 = 0.237115
+Histogram size is 1121
+
+./1-timeseries/25.0-43.6.dat
+./2-windowparams/25.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 25.7334    rms X0 = 1.675
+Average X1 = 43.6738    rms X1 = 0.216639
+Histogram size is 1125
+
+./1-timeseries/-25.0-44.3.dat
+./2-windowparams/-25.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.8756    rms X0 = 1.7339
+Average X1 = 44.3657    rms X1 = 0.220017
+Histogram size is 1127
+
+./1-timeseries/25.0-44.3.dat
+./2-windowparams/25.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 26.4018    rms X0 = 1.53836
+Average X1 = 44.4226    rms X1 = 0.217016
+Histogram size is 1130
+
+./1-timeseries/-25.0-45.0.dat
+./2-windowparams/-25.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.8837    rms X0 = 1.79043
+Average X1 = 45.0122    rms X1 = 0.225003
+Histogram size is 1132
+
+./1-timeseries/25.0-45.0.dat
+./2-windowparams/25.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 25.1862    rms X0 = 1.81238
+Average X1 = 45.0052    rms X1 = 0.231858
+Histogram size is 1133
+
+./1-timeseries/-25.0-45.7.dat
+./2-windowparams/-25.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.6469    rms X0 = 1.85024
+Average X1 = 45.6699    rms X1 = 0.229885
+Histogram size is 1135
+
+./1-timeseries/25.0-45.7.dat
+./2-windowparams/25.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 25.4361    rms X0 = 1.87447
+Average X1 = 45.6786    rms X1 = 0.224315
+Histogram size is 1137
+
+./1-timeseries/-25.0-46.4.dat
+./2-windowparams/-25.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.5208    rms X0 = 1.76713
+Average X1 = 46.3869    rms X1 = 0.227948
+Histogram size is 1141
+
+./1-timeseries/25.0-46.4.dat
+./2-windowparams/25.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 25.3277    rms X0 = 1.79039
+Average X1 = 46.4131    rms X1 = 0.228877
+Histogram size is 1144
+
+./1-timeseries/-25.0-47.1.dat
+./2-windowparams/-25.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.825    rms X0 = 1.62717
+Average X1 = 47.0419    rms X1 = 0.219219
+Histogram size is 1146
+
+./1-timeseries/25.0-47.1.dat
+./2-windowparams/25.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 25.1818    rms X0 = 1.94095
+Average X1 = 47.1061    rms X1 = 0.21555
+Histogram size is 1153
+
+./1-timeseries/-25.0-47.7.dat
+./2-windowparams/-25.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.607    rms X0 = 1.80857
+Average X1 = 47.6255    rms X1 = 0.230455
+Histogram size is 1157
+
+./1-timeseries/25.0-47.7.dat
+./2-windowparams/25.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 25.2176    rms X0 = 1.78625
+Average X1 = 47.7381    rms X1 = 0.219497
+Histogram size is 1159
+
+./1-timeseries/-25.0-48.4.dat
+./2-windowparams/-25.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.9691    rms X0 = 1.80007
+Average X1 = 48.3601    rms X1 = 0.22645
+Histogram size is 1161
+
+./1-timeseries/25.0-48.4.dat
+./2-windowparams/25.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 24.8795    rms X0 = 1.74654
+Average X1 = 48.4121    rms X1 = 0.216092
+Histogram size is 1163
+
+./1-timeseries/-25.0-49.1.dat
+./2-windowparams/-25.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.3998    rms X0 = 1.56809
+Average X1 = 49.031    rms X1 = 0.21535
+Histogram size is 1165
+
+./1-timeseries/25.0-49.1.dat
+./2-windowparams/25.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 25.5242    rms X0 = 1.64012
+Average X1 = 49.0906    rms X1 = 0.21794
+Histogram size is 1167
+
+./1-timeseries/-25.0-49.8.dat
+./2-windowparams/-25.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.9706    rms X0 = 1.91079
+Average X1 = 49.7108    rms X1 = 0.224057
+Histogram size is 1171
+
+./1-timeseries/25.0-49.8.dat
+./2-windowparams/25.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 24.4888    rms X0 = 1.84191
+Average X1 = 49.7254    rms X1 = 0.223166
+Histogram size is 1174
+
+./1-timeseries/-25.0-50.5.dat
+./2-windowparams/-25.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.6224    rms X0 = 1.66956
+Average X1 = 50.3581    rms X1 = 0.222422
+Histogram size is 1175
+
+./1-timeseries/25.0-50.5.dat
+./2-windowparams/25.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 24.9794    rms X0 = 1.58649
+Average X1 = 50.3705    rms X1 = 0.215171
+Histogram size is 1177
+
+./1-timeseries/-25.0-51.2.dat
+./2-windowparams/-25.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -24.6122    rms X0 = 1.64304
+Average X1 = 51.0627    rms X1 = 0.220027
+Histogram size is 1181
+
+./1-timeseries/25.0-51.2.dat
+./2-windowparams/25.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 24.7516    rms X0 = 1.68863
+Average X1 = 51.0344    rms X1 = 0.225192
+Histogram size is 1184
+
+./1-timeseries/-30.0-38.1.dat
+./2-windowparams/-30.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -29.4553    rms X0 = 1.80631
+Average X1 = 38.2315    rms X1 = 0.264799
+Histogram size is 1190
+
+./1-timeseries/30.0-38.1.dat
+./2-windowparams/30.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 31.8716    rms X0 = 1.92453
+Average X1 = 38.1539    rms X1 = 0.262063
+Histogram size is 1196
+
+./1-timeseries/-30.0-38.8.dat
+./2-windowparams/-30.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -29.9439    rms X0 = 1.67293
+Average X1 = 38.8779    rms X1 = 0.240108
+Histogram size is 1197
+
+./1-timeseries/30.0-38.8.dat
+./2-windowparams/30.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 33.1852    rms X0 = 1.96946
+Average X1 = 38.9329    rms X1 = 0.249974
+Histogram size is 1203
+
+./1-timeseries/-30.0-39.5.dat
+./2-windowparams/-30.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -29.8874    rms X0 = 1.71303
+Average X1 = 39.5693    rms X1 = 0.219078
+Histogram size is 1204
+
+./1-timeseries/30.0-39.5.dat
+./2-windowparams/30.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 30.446    rms X0 = 2.67247
+Average X1 = 39.5724    rms X1 = 0.229365
+Histogram size is 1206
+
+./1-timeseries/-30.0-40.2.dat
+./2-windowparams/-30.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -29.6793    rms X0 = 1.8401
+Average X1 = 40.1735    rms X1 = 0.229906
+Histogram size is 1210
+
+./1-timeseries/30.0-40.2.dat
+./2-windowparams/30.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 32.7708    rms X0 = 1.55902
+Average X1 = 40.3803    rms X1 = 0.222413
+Histogram size is 1211
+
+./1-timeseries/-30.0-40.9.dat
+./2-windowparams/-30.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -29.9337    rms X0 = 2.0118
+Average X1 = 40.9642    rms X1 = 0.238993
+Histogram size is 1212
+
+./1-timeseries/30.0-40.9.dat
+./2-windowparams/30.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 33.8181    rms X0 = 1.45396
+Average X1 = 41.0794    rms X1 = 0.223029
+Histogram size is 1217
+
+./1-timeseries/-30.0-41.6.dat
+./2-windowparams/-30.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -30.0489    rms X0 = 1.69684
+Average X1 = 41.6388    rms X1 = 0.219994
+Histogram size is 1219
+
+./1-timeseries/30.0-41.6.dat
+./2-windowparams/30.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 30.8013    rms X0 = 1.94574
+Average X1 = 41.6621    rms X1 = 0.22603
+Histogram size is 1220
+
+./1-timeseries/-30.0-42.3.dat
+./2-windowparams/-30.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -28.52    rms X0 = 1.6526
+Average X1 = 42.2079    rms X1 = 0.212389
+Histogram size is 1220
+
+./1-timeseries/30.0-42.3.dat
+./2-windowparams/30.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 31.7167    rms X0 = 1.56304
+Average X1 = 42.3329    rms X1 = 0.218335
+Histogram size is 1222
+
+./1-timeseries/-30.0-42.9.dat
+./2-windowparams/-30.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -29.9266    rms X0 = 1.67953
+Average X1 = 42.8589    rms X1 = 0.231418
+Histogram size is 1224
+
+./1-timeseries/30.0-42.9.dat
+./2-windowparams/30.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 30.1682    rms X0 = 1.81299
+Average X1 = 42.8925    rms X1 = 0.227556
+Histogram size is 1225
+
+./1-timeseries/-30.0-43.6.dat
+./2-windowparams/-30.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -29.4418    rms X0 = 1.83777
+Average X1 = 43.5632    rms X1 = 0.243896
+Histogram size is 1226
+
+./1-timeseries/30.0-43.6.dat
+./2-windowparams/30.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 30.7331    rms X0 = 1.65082
+Average X1 = 43.6762    rms X1 = 0.223103
+Histogram size is 1229
+
+./1-timeseries/-30.0-44.3.dat
+./2-windowparams/-30.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -29.8895    rms X0 = 1.88791
+Average X1 = 44.4525    rms X1 = 0.223421
+Histogram size is 1231
+
+./1-timeseries/30.0-44.3.dat
+./2-windowparams/30.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 30.7249    rms X0 = 1.6663
+Average X1 = 44.3126    rms X1 = 0.231938
+Histogram size is 1234
+
+./1-timeseries/-30.0-45.0.dat
+./2-windowparams/-30.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -29.7185    rms X0 = 1.83264
+Average X1 = 45.003    rms X1 = 0.229379
+Histogram size is 1236
+
+./1-timeseries/30.0-45.0.dat
+./2-windowparams/30.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 29.9029    rms X0 = 1.69983
+Average X1 = 45.0064    rms X1 = 0.223621
+Histogram size is 1240
+
+./1-timeseries/-30.0-45.7.dat
+./2-windowparams/-30.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -29.7965    rms X0 = 1.78514
+Average X1 = 45.5788    rms X1 = 0.224633
+Histogram size is 1240
+
+./1-timeseries/30.0-45.7.dat
+./2-windowparams/30.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 30.2774    rms X0 = 1.75917
+Average X1 = 45.6005    rms X1 = 0.215754
+Histogram size is 1242
+
+./1-timeseries/-30.0-46.4.dat
+./2-windowparams/-30.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -29.5244    rms X0 = 1.51431
+Average X1 = 46.4703    rms X1 = 0.213041
+Histogram size is 1244
+
+./1-timeseries/30.0-46.4.dat
+./2-windowparams/30.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 29.7145    rms X0 = 1.75276
+Average X1 = 46.3101    rms X1 = 0.222782
+Histogram size is 1245
+
+./1-timeseries/-30.0-47.1.dat
+./2-windowparams/-30.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -28.8663    rms X0 = 1.7155
+Average X1 = 46.9991    rms X1 = 0.210664
+Histogram size is 1246
+
+./1-timeseries/30.0-47.1.dat
+./2-windowparams/30.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 31.0236    rms X0 = 1.73562
+Average X1 = 47.1185    rms X1 = 0.22492
+Histogram size is 1249
+
+./1-timeseries/-30.0-47.7.dat
+./2-windowparams/-30.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -29.7427    rms X0 = 1.82851
+Average X1 = 47.6243    rms X1 = 0.215907
+Histogram size is 1251
+
+./1-timeseries/30.0-47.7.dat
+./2-windowparams/30.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 29.8965    rms X0 = 1.72724
+Average X1 = 47.6961    rms X1 = 0.230248
+Histogram size is 1252
+
+./1-timeseries/-30.0-48.4.dat
+./2-windowparams/-30.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -28.7282    rms X0 = 1.57719
+Average X1 = 48.3081    rms X1 = 0.222962
+Histogram size is 1253
+
+./1-timeseries/30.0-48.4.dat
+./2-windowparams/30.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 29.7636    rms X0 = 1.76119
+Average X1 = 48.3356    rms X1 = 0.219171
+Histogram size is 1255
+
+./1-timeseries/-30.0-49.1.dat
+./2-windowparams/-30.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -28.7199    rms X0 = 1.50811
+Average X1 = 48.9774    rms X1 = 0.211653
+Histogram size is 1255
+
+./1-timeseries/30.0-49.1.dat
+./2-windowparams/30.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 30.059    rms X0 = 1.73123
+Average X1 = 49.0207    rms X1 = 0.221717
+Histogram size is 1257
+
+./1-timeseries/-30.0-49.8.dat
+./2-windowparams/-30.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -28.8306    rms X0 = 1.84879
+Average X1 = 49.6959    rms X1 = 0.2223
+Histogram size is 1262
+
+./1-timeseries/30.0-49.8.dat
+./2-windowparams/30.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 29.1043    rms X0 = 1.57737
+Average X1 = 49.7302    rms X1 = 0.216383
+Histogram size is 1263
+
+./1-timeseries/-30.0-50.5.dat
+./2-windowparams/-30.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -29.5068    rms X0 = 1.75857
+Average X1 = 50.3669    rms X1 = 0.228484
+Histogram size is 1265
+
+./1-timeseries/30.0-50.5.dat
+./2-windowparams/30.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 29.6765    rms X0 = 1.73606
+Average X1 = 50.4058    rms X1 = 0.228078
+Histogram size is 1269
+
+./1-timeseries/-30.0-51.2.dat
+./2-windowparams/-30.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -29.6057    rms X0 = 1.74973
+Average X1 = 51.0846    rms X1 = 0.22354
+Histogram size is 1274
+
+./1-timeseries/30.0-51.2.dat
+./2-windowparams/30.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 29.8859    rms X0 = 1.71541
+Average X1 = 51.0071    rms X1 = 0.228721
+Histogram size is 1280
+
+./1-timeseries/-35.0-38.1.dat
+./2-windowparams/-35.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.7539    rms X0 = 1.65596
+Average X1 = 38.2546    rms X1 = 0.264748
+Histogram size is 1285
+
+./1-timeseries/35.0-38.1.dat
+./2-windowparams/35.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 37.5336    rms X0 = 2.13492
+Average X1 = 38.1276    rms X1 = 0.226729
+Histogram size is 1293
+
+./1-timeseries/-35.0-38.8.dat
+./2-windowparams/-35.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -33.7629    rms X0 = 1.66268
+Average X1 = 38.8741    rms X1 = 0.222961
+Histogram size is 1294
+
+./1-timeseries/35.0-38.8.dat
+./2-windowparams/35.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 36.2088    rms X0 = 2.21131
+Average X1 = 38.8379    rms X1 = 0.241694
+Histogram size is 1296
+
+./1-timeseries/-35.0-39.5.dat
+./2-windowparams/-35.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.4109    rms X0 = 1.74705
+Average X1 = 39.4867    rms X1 = 0.254106
+Histogram size is 1299
+
+./1-timeseries/35.0-39.5.dat
+./2-windowparams/35.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 38.847    rms X0 = 1.91399
+Average X1 = 39.5904    rms X1 = 0.247011
+Histogram size is 1304
+
+./1-timeseries/-35.0-40.2.dat
+./2-windowparams/-35.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.6875    rms X0 = 1.77371
+Average X1 = 40.2285    rms X1 = 0.225402
+Histogram size is 1307
+
+./1-timeseries/35.0-40.2.dat
+./2-windowparams/35.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 37.2694    rms X0 = 1.49293
+Average X1 = 40.2954    rms X1 = 0.22505
+Histogram size is 1308
+
+./1-timeseries/-35.0-40.9.dat
+./2-windowparams/-35.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.7968    rms X0 = 1.76562
+Average X1 = 40.8563    rms X1 = 0.239125
+Histogram size is 1310
+
+./1-timeseries/35.0-40.9.dat
+./2-windowparams/35.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 38.3854    rms X0 = 1.49634
+Average X1 = 41.1047    rms X1 = 0.222685
+Histogram size is 1312
+
+./1-timeseries/-35.0-41.6.dat
+./2-windowparams/-35.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.9827    rms X0 = 1.7323
+Average X1 = 41.6204    rms X1 = 0.226567
+Histogram size is 1315
+
+./1-timeseries/35.0-41.6.dat
+./2-windowparams/35.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 37.0994    rms X0 = 1.88645
+Average X1 = 41.5833    rms X1 = 0.234727
+Histogram size is 1319
+
+./1-timeseries/-35.0-42.3.dat
+./2-windowparams/-35.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -33.9718    rms X0 = 1.85914
+Average X1 = 42.278    rms X1 = 0.228242
+Histogram size is 1321
+
+./1-timeseries/35.0-42.3.dat
+./2-windowparams/35.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 35.4115    rms X0 = 2.11438
+Average X1 = 42.3203    rms X1 = 0.215724
+Histogram size is 1324
+
+./1-timeseries/-35.0-42.9.dat
+./2-windowparams/-35.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.0661    rms X0 = 1.78511
+Average X1 = 42.9227    rms X1 = 0.226078
+Histogram size is 1325
+
+./1-timeseries/35.0-42.9.dat
+./2-windowparams/35.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 35.0337    rms X0 = 1.79096
+Average X1 = 42.8831    rms X1 = 0.221285
+Histogram size is 1327
+
+./1-timeseries/-35.0-43.6.dat
+./2-windowparams/-35.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.7135    rms X0 = 1.86167
+Average X1 = 43.6454    rms X1 = 0.228632
+Histogram size is 1329
+
+./1-timeseries/35.0-43.6.dat
+./2-windowparams/35.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 34.8634    rms X0 = 1.72449
+Average X1 = 43.675    rms X1 = 0.21213
+Histogram size is 1330
+
+./1-timeseries/-35.0-44.3.dat
+./2-windowparams/-35.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -35.2175    rms X0 = 1.7316
+Average X1 = 44.3463    rms X1 = 0.217118
+Histogram size is 1334
+
+./1-timeseries/35.0-44.3.dat
+./2-windowparams/35.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 35.8519    rms X0 = 2.04251
+Average X1 = 44.3538    rms X1 = 0.224161
+Histogram size is 1340
+
+./1-timeseries/-35.0-45.0.dat
+./2-windowparams/-35.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.5843    rms X0 = 1.69522
+Average X1 = 45.023    rms X1 = 0.229084
+Histogram size is 1341
+
+./1-timeseries/35.0-45.0.dat
+./2-windowparams/35.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 35.2309    rms X0 = 2.07369
+Average X1 = 45.0226    rms X1 = 0.228177
+Histogram size is 1345
+
+./1-timeseries/-35.0-45.7.dat
+./2-windowparams/-35.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.8664    rms X0 = 1.79593
+Average X1 = 45.651    rms X1 = 0.218099
+Histogram size is 1349
+
+./1-timeseries/35.0-45.7.dat
+./2-windowparams/35.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 35.3206    rms X0 = 1.79483
+Average X1 = 45.6887    rms X1 = 0.228713
+Histogram size is 1351
+
+./1-timeseries/-35.0-46.4.dat
+./2-windowparams/-35.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.7706    rms X0 = 1.85221
+Average X1 = 46.405    rms X1 = 0.22588
+Histogram size is 1354
+
+./1-timeseries/35.0-46.4.dat
+./2-windowparams/35.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 36.0887    rms X0 = 1.77876
+Average X1 = 46.3927    rms X1 = 0.214198
+Histogram size is 1357
+
+./1-timeseries/-35.0-47.1.dat
+./2-windowparams/-35.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.5508    rms X0 = 1.73465
+Average X1 = 47.0529    rms X1 = 0.214133
+Histogram size is 1358
+
+./1-timeseries/35.0-47.1.dat
+./2-windowparams/35.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 35.7442    rms X0 = 1.77156
+Average X1 = 47.0769    rms X1 = 0.215248
+Histogram size is 1361
+
+./1-timeseries/-35.0-47.7.dat
+./2-windowparams/-35.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.726    rms X0 = 1.81783
+Average X1 = 47.6166    rms X1 = 0.228165
+Histogram size is 1366
+
+./1-timeseries/35.0-47.7.dat
+./2-windowparams/35.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 35.0352    rms X0 = 1.71544
+Average X1 = 47.6959    rms X1 = 0.222294
+Histogram size is 1368
+
+./1-timeseries/-35.0-48.4.dat
+./2-windowparams/-35.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.4024    rms X0 = 1.60774
+Average X1 = 48.3404    rms X1 = 0.229099
+Histogram size is 1370
+
+./1-timeseries/35.0-48.4.dat
+./2-windowparams/35.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 34.0802    rms X0 = 1.73297
+Average X1 = 48.4009    rms X1 = 0.223538
+Histogram size is 1371
+
+./1-timeseries/-35.0-49.1.dat
+./2-windowparams/-35.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.7981    rms X0 = 1.86116
+Average X1 = 49.0224    rms X1 = 0.223422
+Histogram size is 1373
+
+./1-timeseries/35.0-49.1.dat
+./2-windowparams/35.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 34.7713    rms X0 = 1.66713
+Average X1 = 48.991    rms X1 = 0.215827
+Histogram size is 1375
+
+./1-timeseries/-35.0-49.8.dat
+./2-windowparams/-35.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.5982    rms X0 = 1.81237
+Average X1 = 49.7367    rms X1 = 0.226707
+Histogram size is 1378
+
+./1-timeseries/35.0-49.8.dat
+./2-windowparams/35.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 35.0883    rms X0 = 1.67858
+Average X1 = 49.7417    rms X1 = 0.219984
+Histogram size is 1383
+
+./1-timeseries/-35.0-50.5.dat
+./2-windowparams/-35.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -34.8063    rms X0 = 1.70971
+Average X1 = 50.4221    rms X1 = 0.223388
+Histogram size is 1386
+
+./1-timeseries/35.0-50.5.dat
+./2-windowparams/35.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 34.845    rms X0 = 1.73065
+Average X1 = 50.4614    rms X1 = 0.22184
+Histogram size is 1388
+
+./1-timeseries/-35.0-51.2.dat
+./2-windowparams/-35.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -35.3778    rms X0 = 1.87742
+Average X1 = 51.0688    rms X1 = 0.224143
+Histogram size is 1391
+
+./1-timeseries/35.0-51.2.dat
+./2-windowparams/35.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 34.1317    rms X0 = 1.73111
+Average X1 = 51.0363    rms X1 = 0.21881
+Histogram size is 1394
+
+./1-timeseries/40.0-38.1.dat
+./2-windowparams/40.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 41.6128    rms X0 = 2.00144
+Average X1 = 38.1607    rms X1 = 0.234982
+Histogram size is 1399
+
+./1-timeseries/40.0-38.8.dat
+./2-windowparams/40.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 41.3374    rms X0 = 2.06703
+Average X1 = 39.0239    rms X1 = 0.224702
+Histogram size is 1401
+
+./1-timeseries/40.0-39.5.dat
+./2-windowparams/40.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 41.2758    rms X0 = 2.00049
+Average X1 = 39.6321    rms X1 = 0.210268
+Histogram size is 1403
+
+./1-timeseries/40.0-40.2.dat
+./2-windowparams/40.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 41.9721    rms X0 = 2.04454
+Average X1 = 40.1983    rms X1 = 0.220149
+Histogram size is 1407
+
+./1-timeseries/40.0-40.9.dat
+./2-windowparams/40.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 43.7523    rms X0 = 1.63437
+Average X1 = 40.9377    rms X1 = 0.23806
+Histogram size is 1411
+
+./1-timeseries/40.0-41.6.dat
+./2-windowparams/40.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 41.4588    rms X0 = 1.83687
+Average X1 = 41.609    rms X1 = 0.210739
+Histogram size is 1413
+
+./1-timeseries/40.0-42.3.dat
+./2-windowparams/40.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 40.1891    rms X0 = 1.80842
+Average X1 = 42.3028    rms X1 = 0.222428
+Histogram size is 1414
+
+./1-timeseries/40.0-42.9.dat
+./2-windowparams/40.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 40.4418    rms X0 = 1.82251
+Average X1 = 42.9231    rms X1 = 0.225007
+Histogram size is 1418
+
+./1-timeseries/40.0-43.6.dat
+./2-windowparams/40.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 40.752    rms X0 = 1.84546
+Average X1 = 43.6565    rms X1 = 0.224438
+Histogram size is 1420
+
+./1-timeseries/40.0-44.3.dat
+./2-windowparams/40.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 40.7119    rms X0 = 1.81672
+Average X1 = 44.3301    rms X1 = 0.231124
+Histogram size is 1422
+
+./1-timeseries/40.0-45.0.dat
+./2-windowparams/40.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 40.704    rms X0 = 2.03368
+Average X1 = 45.0516    rms X1 = 0.234759
+Histogram size is 1426
+
+./1-timeseries/40.0-45.7.dat
+./2-windowparams/40.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 40.8304    rms X0 = 2.00745
+Average X1 = 45.792    rms X1 = 0.218118
+Histogram size is 1430
+
+./1-timeseries/40.0-46.4.dat
+./2-windowparams/40.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 41.1745    rms X0 = 1.82972
+Average X1 = 46.2457    rms X1 = 0.227924
+Histogram size is 1433
+
+./1-timeseries/40.0-47.1.dat
+./2-windowparams/40.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 40.223    rms X0 = 1.85058
+Average X1 = 47.1036    rms X1 = 0.221497
+Histogram size is 1435
+
+./1-timeseries/40.0-47.7.dat
+./2-windowparams/40.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 40.3818    rms X0 = 1.71144
+Average X1 = 47.6808    rms X1 = 0.217352
+Histogram size is 1439
+
+./1-timeseries/40.0-48.4.dat
+./2-windowparams/40.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 40.0864    rms X0 = 1.78503
+Average X1 = 48.3241    rms X1 = 0.216226
+Histogram size is 1441
+
+./1-timeseries/40.0-49.1.dat
+./2-windowparams/40.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 39.9924    rms X0 = 1.78764
+Average X1 = 49.0485    rms X1 = 0.215048
+Histogram size is 1443
+
+./1-timeseries/40.0-49.8.dat
+./2-windowparams/40.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 40.3216    rms X0 = 1.80918
+Average X1 = 49.6967    rms X1 = 0.222408
+Histogram size is 1448
+
+./1-timeseries/40.0-50.5.dat
+./2-windowparams/40.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 38.9807    rms X0 = 1.73931
+Average X1 = 50.4467    rms X1 = 0.233386
+Histogram size is 1452
+
+./1-timeseries/40.0-51.2.dat
+./2-windowparams/40.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 39.6993    rms X0 = 1.81583
+Average X1 = 51.0976    rms X1 = 0.241098
+Histogram size is 1459
+
+./1-timeseries/45.0-38.1.dat
+./2-windowparams/45.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 45.7296    rms X0 = 1.95825
+Average X1 = 38.1276    rms X1 = 0.220774
+Histogram size is 1464
+
+./1-timeseries/45.0-38.8.dat
+./2-windowparams/45.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 47.444    rms X0 = 1.60665
+Average X1 = 39.0154    rms X1 = 0.218612
+Histogram size is 1466
+
+./1-timeseries/45.0-39.5.dat
+./2-windowparams/45.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 46.461    rms X0 = 1.70172
+Average X1 = 39.6127    rms X1 = 0.230178
+Histogram size is 1470
+
+./1-timeseries/45.0-40.2.dat
+./2-windowparams/45.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 47.4626    rms X0 = 1.71902
+Average X1 = 40.2146    rms X1 = 0.206027
+Histogram size is 1472
+
+./1-timeseries/45.0-40.9.dat
+./2-windowparams/45.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 46.5704    rms X0 = 2.21458
+Average X1 = 40.9651    rms X1 = 0.223816
+Histogram size is 1474
+
+./1-timeseries/45.0-41.6.dat
+./2-windowparams/45.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 47.0038    rms X0 = 1.94171
+Average X1 = 41.5533    rms X1 = 0.216549
+Histogram size is 1476
+
+./1-timeseries/45.0-42.3.dat
+./2-windowparams/45.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 46.2371    rms X0 = 1.56425
+Average X1 = 42.3496    rms X1 = 0.22513
+Histogram size is 1478
+
+./1-timeseries/45.0-42.9.dat
+./2-windowparams/45.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 44.9958    rms X0 = 1.73191
+Average X1 = 42.9073    rms X1 = 0.223684
+Histogram size is 1480
+
+./1-timeseries/45.0-43.6.dat
+./2-windowparams/45.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 46.3988    rms X0 = 1.7463
+Average X1 = 43.6161    rms X1 = 0.230328
+Histogram size is 1486
+
+./1-timeseries/45.0-44.3.dat
+./2-windowparams/45.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 45.8999    rms X0 = 1.90994
+Average X1 = 44.2126    rms X1 = 0.238275
+Histogram size is 1488
+
+./1-timeseries/45.0-45.0.dat
+./2-windowparams/45.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 45.7164    rms X0 = 2.10128
+Average X1 = 45.0443    rms X1 = 0.221687
+Histogram size is 1491
+
+./1-timeseries/45.0-45.7.dat
+./2-windowparams/45.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 45.6218    rms X0 = 1.92118
+Average X1 = 45.6761    rms X1 = 0.221611
+Histogram size is 1493
+
+./1-timeseries/45.0-46.4.dat
+./2-windowparams/45.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 45.8124    rms X0 = 1.72853
+Average X1 = 46.4165    rms X1 = 0.221588
+Histogram size is 1496
+
+./1-timeseries/45.0-47.1.dat
+./2-windowparams/45.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 44.9064    rms X0 = 1.7566
+Average X1 = 47.1006    rms X1 = 0.224883
+Histogram size is 1496
+
+./1-timeseries/45.0-47.7.dat
+./2-windowparams/45.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 45.2497    rms X0 = 1.72522
+Average X1 = 47.6835    rms X1 = 0.216487
+Histogram size is 1500
+
+./1-timeseries/45.0-48.4.dat
+./2-windowparams/45.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 45.1246    rms X0 = 1.7163
+Average X1 = 48.3413    rms X1 = 0.224289
+Histogram size is 1502
+
+./1-timeseries/45.0-49.1.dat
+./2-windowparams/45.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 44.8337    rms X0 = 1.85351
+Average X1 = 49.0131    rms X1 = 0.220961
+Histogram size is 1505
+
+./1-timeseries/45.0-49.8.dat
+./2-windowparams/45.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 45.2777    rms X0 = 1.75022
+Average X1 = 49.8132    rms X1 = 0.224948
+Histogram size is 1508
+
+./1-timeseries/45.0-50.5.dat
+./2-windowparams/45.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 44.6874    rms X0 = 1.79272
+Average X1 = 50.4839    rms X1 = 0.228408
+Histogram size is 1510
+
+./1-timeseries/45.0-51.2.dat
+./2-windowparams/45.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 45.0727    rms X0 = 1.73052
+Average X1 = 51.1413    rms X1 = 0.232669
+Histogram size is 1513
+
+./1-timeseries/50.0-38.1.dat
+./2-windowparams/50.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 52.3765    rms X0 = 1.79895
+Average X1 = 38.2301    rms X1 = 0.216579
+Histogram size is 1522
+
+./1-timeseries/50.0-38.8.dat
+./2-windowparams/50.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 52.2424    rms X0 = 1.62615
+Average X1 = 39.0203    rms X1 = 0.218059
+Histogram size is 1525
+
+./1-timeseries/50.0-39.5.dat
+./2-windowparams/50.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 51.9125    rms X0 = 1.69403
+Average X1 = 39.5423    rms X1 = 0.23069
+Histogram size is 1527
+
+./1-timeseries/50.0-40.2.dat
+./2-windowparams/50.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 52.4925    rms X0 = 1.62698
+Average X1 = 40.2193    rms X1 = 0.219924
+Histogram size is 1530
+
+./1-timeseries/50.0-40.9.dat
+./2-windowparams/50.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 51.7235    rms X0 = 1.97171
+Average X1 = 40.9654    rms X1 = 0.214942
+Histogram size is 1535
+
+./1-timeseries/50.0-41.6.dat
+./2-windowparams/50.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 50.8879    rms X0 = 1.8645
+Average X1 = 41.5502    rms X1 = 0.215558
+Histogram size is 1540
+
+./1-timeseries/50.0-42.3.dat
+./2-windowparams/50.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 50.2233    rms X0 = 1.64489
+Average X1 = 42.2784    rms X1 = 0.230143
+Histogram size is 1542
+
+./1-timeseries/50.0-42.9.dat
+./2-windowparams/50.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 52.0147    rms X0 = 1.62895
+Average X1 = 42.9018    rms X1 = 0.232092
+Histogram size is 1544
+
+./1-timeseries/50.0-43.6.dat
+./2-windowparams/50.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 50.4179    rms X0 = 1.64824
+Average X1 = 43.6071    rms X1 = 0.215389
+Histogram size is 1545
+
+./1-timeseries/50.0-44.3.dat
+./2-windowparams/50.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 50.5653    rms X0 = 1.63909
+Average X1 = 44.2718    rms X1 = 0.219891
+Histogram size is 1548
+
+./1-timeseries/50.0-45.0.dat
+./2-windowparams/50.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 51.1096    rms X0 = 1.90544
+Average X1 = 44.9106    rms X1 = 0.218071
+Histogram size is 1550
+
+./1-timeseries/50.0-45.7.dat
+./2-windowparams/50.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 51.6166    rms X0 = 1.90597
+Average X1 = 45.6977    rms X1 = 0.218069
+Histogram size is 1555
+
+./1-timeseries/50.0-46.4.dat
+./2-windowparams/50.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 50.3619    rms X0 = 1.57183
+Average X1 = 46.2768    rms X1 = 0.228758
+Histogram size is 1556
+
+./1-timeseries/50.0-47.1.dat
+./2-windowparams/50.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 50.1962    rms X0 = 1.72822
+Average X1 = 47.1567    rms X1 = 0.221
+Histogram size is 1559
+
+./1-timeseries/50.0-47.7.dat
+./2-windowparams/50.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 49.8669    rms X0 = 1.71177
+Average X1 = 47.672    rms X1 = 0.226105
+Histogram size is 1562
+
+./1-timeseries/50.0-48.4.dat
+./2-windowparams/50.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 49.9607    rms X0 = 1.62352
+Average X1 = 48.2378    rms X1 = 0.224467
+Histogram size is 1563
+
+./1-timeseries/50.0-49.1.dat
+./2-windowparams/50.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 50.1243    rms X0 = 1.77908
+Average X1 = 49.0352    rms X1 = 0.230278
+Histogram size is 1565
+
+./1-timeseries/50.0-49.8.dat
+./2-windowparams/50.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 49.7348    rms X0 = 1.70494
+Average X1 = 49.694    rms X1 = 0.223919
+Histogram size is 1569
+
+./1-timeseries/50.0-50.5.dat
+./2-windowparams/50.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 49.8599    rms X0 = 1.68552
+Average X1 = 50.4901    rms X1 = 0.22203
+Histogram size is 1572
+
+./1-timeseries/50.0-51.2.dat
+./2-windowparams/50.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 49.9451    rms X0 = 1.74827
+Average X1 = 51.1561    rms X1 = 0.225712
+Histogram size is 1575
+
+./1-timeseries/-5.0-38.1.dat
+./2-windowparams/-5.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -3.49261    rms X0 = 1.71895
+Average X1 = 38.2724    rms X1 = 0.239923
+Histogram size is 1575
+
+./1-timeseries/-5.0-38.8.dat
+./2-windowparams/-5.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -4.4877    rms X0 = 1.68323
+Average X1 = 38.8338    rms X1 = 0.22326
+Histogram size is 1575
+
+./1-timeseries/-5.0-39.5.dat
+./2-windowparams/-5.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -2.8144    rms X0 = 1.7623
+Average X1 = 39.3637    rms X1 = 0.217565
+Histogram size is 1575
+
+./1-timeseries/-5.0-40.2.dat
+./2-windowparams/-5.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -3.59114    rms X0 = 1.83706
+Average X1 = 40.3586    rms X1 = 0.223203
+Histogram size is 1575
+
+./1-timeseries/-5.0-40.9.dat
+./2-windowparams/-5.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -4.4308    rms X0 = 1.97822
+Average X1 = 40.9417    rms X1 = 0.249625
+Histogram size is 1575
+
+./1-timeseries/-5.0-41.6.dat
+./2-windowparams/-5.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -4.05237    rms X0 = 1.70092
+Average X1 = 41.6793    rms X1 = 0.214251
+Histogram size is 1575
+
+./1-timeseries/-5.0-42.3.dat
+./2-windowparams/-5.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -3.51146    rms X0 = 1.64297
+Average X1 = 42.1868    rms X1 = 0.227186
+Histogram size is 1575
+
+./1-timeseries/-5.0-42.9.dat
+./2-windowparams/-5.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -5.02065    rms X0 = 1.90901
+Average X1 = 42.9187    rms X1 = 0.234845
+Histogram size is 1575
+
+./1-timeseries/-5.0-43.6.dat
+./2-windowparams/-5.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -4.05508    rms X0 = 1.92871
+Average X1 = 43.5477    rms X1 = 0.218403
+Histogram size is 1575
+
+./1-timeseries/-5.0-44.3.dat
+./2-windowparams/-5.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -3.91586    rms X0 = 1.75737
+Average X1 = 44.3561    rms X1 = 0.223776
+Histogram size is 1575
+
+./1-timeseries/-5.0-45.0.dat
+./2-windowparams/-5.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -4.97195    rms X0 = 1.76511
+Average X1 = 44.9928    rms X1 = 0.22383
+Histogram size is 1575
+
+./1-timeseries/-5.0-45.7.dat
+./2-windowparams/-5.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -5.21556    rms X0 = 1.63665
+Average X1 = 45.6071    rms X1 = 0.223956
+Histogram size is 1575
+
+./1-timeseries/-5.0-46.4.dat
+./2-windowparams/-5.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -4.61035    rms X0 = 1.77378
+Average X1 = 46.3765    rms X1 = 0.226341
+Histogram size is 1575
+
+./1-timeseries/-5.0-47.1.dat
+./2-windowparams/-5.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -4.66155    rms X0 = 1.88893
+Average X1 = 47.1212    rms X1 = 0.24151
+Histogram size is 1575
+
+./1-timeseries/-5.0-47.7.dat
+./2-windowparams/-5.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -4.99598    rms X0 = 1.76543
+Average X1 = 47.7117    rms X1 = 0.221873
+Histogram size is 1575
+
+./1-timeseries/-5.0-48.4.dat
+./2-windowparams/-5.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -4.63908    rms X0 = 1.74757
+Average X1 = 48.3733    rms X1 = 0.222987
+Histogram size is 1575
+
+./1-timeseries/-5.0-49.1.dat
+./2-windowparams/-5.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -4.22305    rms X0 = 1.99067
+Average X1 = 49.0384    rms X1 = 0.230198
+Histogram size is 1575
+
+./1-timeseries/-5.0-49.8.dat
+./2-windowparams/-5.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -4.56317    rms X0 = 1.76057
+Average X1 = 49.7686    rms X1 = 0.212774
+Histogram size is 1575
+
+./1-timeseries/-5.0-50.5.dat
+./2-windowparams/-5.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -3.70113    rms X0 = 1.7291
+Average X1 = 50.2839    rms X1 = 0.230388
+Histogram size is 1575
+
+./1-timeseries/-5.0-51.2.dat
+./2-windowparams/-5.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = -4.9106    rms X0 = 1.69842
+Average X1 = 51.1104    rms X1 = 0.229193
+Histogram size is 1576
+
+./1-timeseries/55.0-38.1.dat
+./2-windowparams/55.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 55.7744    rms X0 = 1.80731
+Average X1 = 38.1844    rms X1 = 0.215648
+Histogram size is 1580
+
+./1-timeseries/55.0-38.8.dat
+./2-windowparams/55.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 57.6623    rms X0 = 1.91256
+Average X1 = 38.897    rms X1 = 0.221156
+Histogram size is 1584
+
+./1-timeseries/55.0-39.5.dat
+./2-windowparams/55.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 56.9747    rms X0 = 1.7596
+Average X1 = 39.6531    rms X1 = 0.215748
+Histogram size is 1587
+
+./1-timeseries/55.0-40.2.dat
+./2-windowparams/55.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 56.7866    rms X0 = 1.81546
+Average X1 = 40.3389    rms X1 = 0.22234
+Histogram size is 1587
+
+./1-timeseries/55.0-40.9.dat
+./2-windowparams/55.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 57.1679    rms X0 = 1.38903
+Average X1 = 40.9073    rms X1 = 0.216255
+Histogram size is 1588
+
+./1-timeseries/55.0-41.6.dat
+./2-windowparams/55.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 57.0038    rms X0 = 1.66396
+Average X1 = 41.7052    rms X1 = 0.20589
+Histogram size is 1591
+
+./1-timeseries/55.0-42.3.dat
+./2-windowparams/55.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 55.6274    rms X0 = 1.90742
+Average X1 = 42.3081    rms X1 = 0.222511
+Histogram size is 1593
+
+./1-timeseries/55.0-42.9.dat
+./2-windowparams/55.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 55.2213    rms X0 = 1.75114
+Average X1 = 42.9049    rms X1 = 0.228282
+Histogram size is 1595
+
+./1-timeseries/55.0-43.6.dat
+./2-windowparams/55.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 55.9299    rms X0 = 1.73721
+Average X1 = 43.7216    rms X1 = 0.227927
+Histogram size is 1599
+
+./1-timeseries/55.0-44.3.dat
+./2-windowparams/55.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 56.0928    rms X0 = 1.66344
+Average X1 = 44.245    rms X1 = 0.212245
+Histogram size is 1601
+
+./1-timeseries/55.0-45.0.dat
+./2-windowparams/55.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 55.6884    rms X0 = 1.94273
+Average X1 = 44.9483    rms X1 = 0.219158
+Histogram size is 1603
+
+./1-timeseries/55.0-45.7.dat
+./2-windowparams/55.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 57.7319    rms X0 = 1.80349
+Average X1 = 45.7188    rms X1 = 0.217425
+Histogram size is 1609
+
+./1-timeseries/55.0-46.4.dat
+./2-windowparams/55.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 55.2473    rms X0 = 1.75349
+Average X1 = 46.3292    rms X1 = 0.218783
+Histogram size is 1610
+
+./1-timeseries/55.0-47.1.dat
+./2-windowparams/55.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 55.4864    rms X0 = 1.7674
+Average X1 = 47.1    rms X1 = 0.227363
+Histogram size is 1614
+
+./1-timeseries/55.0-47.7.dat
+./2-windowparams/55.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 55.2391    rms X0 = 1.80644
+Average X1 = 47.7351    rms X1 = 0.22255
+Histogram size is 1618
+
+./1-timeseries/55.0-48.4.dat
+./2-windowparams/55.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 55.3658    rms X0 = 1.83134
+Average X1 = 48.4193    rms X1 = 0.221741
+Histogram size is 1620
+
+./1-timeseries/55.0-49.1.dat
+./2-windowparams/55.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 55.0027    rms X0 = 1.7311
+Average X1 = 49.082    rms X1 = 0.227994
+Histogram size is 1622
+
+./1-timeseries/55.0-49.8.dat
+./2-windowparams/55.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 55.0422    rms X0 = 1.71776
+Average X1 = 49.7493    rms X1 = 0.220182
+Histogram size is 1624
+
+./1-timeseries/55.0-50.5.dat
+./2-windowparams/55.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 55.0463    rms X0 = 1.77521
+Average X1 = 50.4424    rms X1 = 0.230509
+Histogram size is 1628
+
+./1-timeseries/55.0-51.2.dat
+./2-windowparams/55.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 55.1489    rms X0 = 1.7357
+Average X1 = 51.0644    rms X1 = 0.228029
+Histogram size is 1633
+
+./1-timeseries/60.0-38.1.dat
+./2-windowparams/60.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 60.9181    rms X0 = 1.85784
+Average X1 = 38.1611    rms X1 = 0.224185
+Histogram size is 1642
+
+./1-timeseries/60.0-38.8.dat
+./2-windowparams/60.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 61.5259    rms X0 = 1.83623
+Average X1 = 38.8415    rms X1 = 0.212627
+Histogram size is 1644
+
+./1-timeseries/60.0-39.5.dat
+./2-windowparams/60.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 60.4413    rms X0 = 1.82636
+Average X1 = 39.5192    rms X1 = 0.217833
+Histogram size is 1646
+
+./1-timeseries/60.0-40.2.dat
+./2-windowparams/60.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 61.2949    rms X0 = 1.90608
+Average X1 = 40.2764    rms X1 = 0.215173
+Histogram size is 1651
+
+./1-timeseries/60.0-40.9.dat
+./2-windowparams/60.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 60.8392    rms X0 = 1.72948
+Average X1 = 40.9346    rms X1 = 0.231828
+Histogram size is 1654
+
+./1-timeseries/60.0-41.6.dat
+./2-windowparams/60.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 60.6062    rms X0 = 1.87703
+Average X1 = 41.6597    rms X1 = 0.211854
+Histogram size is 1657
+
+./1-timeseries/60.0-42.3.dat
+./2-windowparams/60.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 60.4193    rms X0 = 1.76216
+Average X1 = 42.308    rms X1 = 0.218034
+Histogram size is 1659
+
+./1-timeseries/60.0-42.9.dat
+./2-windowparams/60.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 61.0197    rms X0 = 1.97817
+Average X1 = 42.9389    rms X1 = 0.230706
+Histogram size is 1662
+
+./1-timeseries/60.0-43.6.dat
+./2-windowparams/60.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 60.253    rms X0 = 1.69111
+Average X1 = 43.5783    rms X1 = 0.220934
+Histogram size is 1663
+
+./1-timeseries/60.0-44.3.dat
+./2-windowparams/60.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 60.4132    rms X0 = 1.73387
+Average X1 = 44.3469    rms X1 = 0.217243
+Histogram size is 1666
+
+./1-timeseries/60.0-45.0.dat
+./2-windowparams/60.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 60.501    rms X0 = 1.71412
+Average X1 = 44.9636    rms X1 = 0.221689
+Histogram size is 1667
+
+./1-timeseries/60.0-45.7.dat
+./2-windowparams/60.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 60.2021    rms X0 = 1.66649
+Average X1 = 45.7101    rms X1 = 0.220688
+Histogram size is 1670
+
+./1-timeseries/60.0-46.4.dat
+./2-windowparams/60.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 59.9754    rms X0 = 1.57461
+Average X1 = 46.2675    rms X1 = 0.219223
+Histogram size is 1670
+
+./1-timeseries/60.0-47.1.dat
+./2-windowparams/60.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 59.7428    rms X0 = 1.65848
+Average X1 = 47.0875    rms X1 = 0.224094
+Histogram size is 1673
+
+./1-timeseries/60.0-47.7.dat
+./2-windowparams/60.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 59.5564    rms X0 = 1.76967
+Average X1 = 47.6377    rms X1 = 0.214892
+Histogram size is 1675
+
+./1-timeseries/60.0-48.4.dat
+./2-windowparams/60.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 60.1241    rms X0 = 1.77969
+Average X1 = 48.2891    rms X1 = 0.22159
+Histogram size is 1679
+
+./1-timeseries/60.0-49.1.dat
+./2-windowparams/60.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 59.8223    rms X0 = 1.79968
+Average X1 = 49.0518    rms X1 = 0.238054
+Histogram size is 1683
+
+./1-timeseries/60.0-49.8.dat
+./2-windowparams/60.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 59.841    rms X0 = 1.75073
+Average X1 = 49.7987    rms X1 = 0.224731
+Histogram size is 1686
+
+./1-timeseries/60.0-50.5.dat
+./2-windowparams/60.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 59.6982    rms X0 = 1.71569
+Average X1 = 50.4738    rms X1 = 0.237662
+Histogram size is 1687
+
+./1-timeseries/60.0-51.2.dat
+./2-windowparams/60.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 60.0895    rms X0 = 1.7474
+Average X1 = 51.137    rms X1 = 0.214177
+Histogram size is 1693
+
+./1-timeseries/65.0-38.1.dat
+./2-windowparams/65.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 67.2618    rms X0 = 1.75984
+Average X1 = 38.1633    rms X1 = 0.235469
+Histogram size is 1697
+
+./1-timeseries/65.0-38.8.dat
+./2-windowparams/65.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 67.6158    rms X0 = 1.70847
+Average X1 = 38.8985    rms X1 = 0.228041
+Histogram size is 1699
+
+./1-timeseries/65.0-39.5.dat
+./2-windowparams/65.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 65.9916    rms X0 = 1.70746
+Average X1 = 39.5339    rms X1 = 0.216276
+Histogram size is 1701
+
+./1-timeseries/65.0-40.2.dat
+./2-windowparams/65.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 66.1552    rms X0 = 2.47007
+Average X1 = 40.2405    rms X1 = 0.2185
+Histogram size is 1706
+
+./1-timeseries/65.0-40.9.dat
+./2-windowparams/65.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 65.5635    rms X0 = 1.95146
+Average X1 = 40.9904    rms X1 = 0.212771
+Histogram size is 1708
+
+./1-timeseries/65.0-41.6.dat
+./2-windowparams/65.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 66.0807    rms X0 = 1.74743
+Average X1 = 41.5005    rms X1 = 0.214911
+Histogram size is 1709
+
+./1-timeseries/65.0-42.3.dat
+./2-windowparams/65.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 65.2938    rms X0 = 1.75878
+Average X1 = 42.2698    rms X1 = 0.226819
+Histogram size is 1713
+
+./1-timeseries/65.0-42.9.dat
+./2-windowparams/65.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 65.5694    rms X0 = 1.59607
+Average X1 = 42.8967    rms X1 = 0.223757
+Histogram size is 1714
+
+./1-timeseries/65.0-43.6.dat
+./2-windowparams/65.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 64.9735    rms X0 = 1.77535
+Average X1 = 43.5714    rms X1 = 0.220983
+Histogram size is 1716
+
+./1-timeseries/65.0-44.3.dat
+./2-windowparams/65.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 65.2432    rms X0 = 1.79432
+Average X1 = 44.2778    rms X1 = 0.218311
+Histogram size is 1720
+
+./1-timeseries/65.0-45.0.dat
+./2-windowparams/65.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 65.8637    rms X0 = 1.60777
+Average X1 = 44.9624    rms X1 = 0.229231
+Histogram size is 1722
+
+./1-timeseries/65.0-45.7.dat
+./2-windowparams/65.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 65.1575    rms X0 = 1.58334
+Average X1 = 45.6971    rms X1 = 0.235919
+Histogram size is 1726
+
+./1-timeseries/65.0-46.4.dat
+./2-windowparams/65.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 64.8512    rms X0 = 1.74489
+Average X1 = 46.3244    rms X1 = 0.2232
+Histogram size is 1728
+
+./1-timeseries/65.0-47.1.dat
+./2-windowparams/65.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 64.9797    rms X0 = 1.7225
+Average X1 = 47.0668    rms X1 = 0.222469
+Histogram size is 1730
+
+./1-timeseries/65.0-47.7.dat
+./2-windowparams/65.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 64.72    rms X0 = 1.76774
+Average X1 = 47.68    rms X1 = 0.218835
+Histogram size is 1734
+
+./1-timeseries/65.0-48.4.dat
+./2-windowparams/65.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 65.0755    rms X0 = 1.7053
+Average X1 = 48.3902    rms X1 = 0.226927
+Histogram size is 1735
+
+./1-timeseries/65.0-49.1.dat
+./2-windowparams/65.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 65.0421    rms X0 = 1.63887
+Average X1 = 49.0311    rms X1 = 0.2227
+Histogram size is 1738
+
+./1-timeseries/65.0-49.8.dat
+./2-windowparams/65.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 64.5576    rms X0 = 1.77361
+Average X1 = 49.7351    rms X1 = 0.218894
+Histogram size is 1741
+
+./1-timeseries/65.0-50.5.dat
+./2-windowparams/65.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 64.7751    rms X0 = 1.74097
+Average X1 = 50.4834    rms X1 = 0.227316
+Histogram size is 1744
+
+./1-timeseries/65.0-51.2.dat
+./2-windowparams/65.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 64.918    rms X0 = 1.73198
+Average X1 = 51.1361    rms X1 = 0.217256
+Histogram size is 1747
+
+./1-timeseries/70.0-38.1.dat
+./2-windowparams/70.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 72.3727    rms X0 = 1.53033
+Average X1 = 38.1558    rms X1 = 0.223472
+Histogram size is 1754
+
+./1-timeseries/70.0-38.8.dat
+./2-windowparams/70.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 70.5705    rms X0 = 1.6764
+Average X1 = 38.7735    rms X1 = 0.223132
+Histogram size is 1759
+
+./1-timeseries/70.0-39.5.dat
+./2-windowparams/70.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 72.2716    rms X0 = 1.63751
+Average X1 = 39.5739    rms X1 = 0.22829
+Histogram size is 1761
+
+./1-timeseries/70.0-40.2.dat
+./2-windowparams/70.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 71.3706    rms X0 = 2.31129
+Average X1 = 40.2464    rms X1 = 0.216279
+Histogram size is 1764
+
+./1-timeseries/70.0-40.9.dat
+./2-windowparams/70.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 71.341    rms X0 = 1.91361
+Average X1 = 40.9676    rms X1 = 0.214328
+Histogram size is 1767
+
+./1-timeseries/70.0-41.6.dat
+./2-windowparams/70.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 70.6598    rms X0 = 1.84548
+Average X1 = 41.6178    rms X1 = 0.233239
+Histogram size is 1770
+
+./1-timeseries/70.0-42.3.dat
+./2-windowparams/70.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 70.6503    rms X0 = 1.73285
+Average X1 = 42.2515    rms X1 = 0.213835
+Histogram size is 1773
+
+./1-timeseries/70.0-42.9.dat
+./2-windowparams/70.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 70.7341    rms X0 = 1.7356
+Average X1 = 42.934    rms X1 = 0.222849
+Histogram size is 1776
+
+./1-timeseries/70.0-43.6.dat
+./2-windowparams/70.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 70.1575    rms X0 = 1.67278
+Average X1 = 43.584    rms X1 = 0.214834
+Histogram size is 1778
+
+./1-timeseries/70.0-44.3.dat
+./2-windowparams/70.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 70.0418    rms X0 = 1.89304
+Average X1 = 44.2455    rms X1 = 0.23676
+Histogram size is 1781
+
+./1-timeseries/70.0-45.0.dat
+./2-windowparams/70.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 70.3073    rms X0 = 1.74275
+Average X1 = 44.9688    rms X1 = 0.225614
+Histogram size is 1782
+
+./1-timeseries/70.0-45.7.dat
+./2-windowparams/70.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 69.6421    rms X0 = 1.65847
+Average X1 = 45.6835    rms X1 = 0.219553
+Histogram size is 1784
+
+./1-timeseries/70.0-46.4.dat
+./2-windowparams/70.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 69.769    rms X0 = 1.76705
+Average X1 = 46.3604    rms X1 = 0.220027
+Histogram size is 1788
+
+./1-timeseries/70.0-47.1.dat
+./2-windowparams/70.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 69.8023    rms X0 = 1.9405
+Average X1 = 46.9865    rms X1 = 0.213575
+Histogram size is 1789
+
+./1-timeseries/70.0-47.7.dat
+./2-windowparams/70.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 69.652    rms X0 = 1.6947
+Average X1 = 47.6781    rms X1 = 0.221396
+Histogram size is 1793
+
+./1-timeseries/70.0-48.4.dat
+./2-windowparams/70.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 70.1015    rms X0 = 1.75374
+Average X1 = 48.3373    rms X1 = 0.225198
+Histogram size is 1797
+
+./1-timeseries/70.0-49.1.dat
+./2-windowparams/70.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 69.9174    rms X0 = 1.70091
+Average X1 = 49.0784    rms X1 = 0.228561
+Histogram size is 1799
+
+./1-timeseries/70.0-49.8.dat
+./2-windowparams/70.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 70.0667    rms X0 = 1.81022
+Average X1 = 49.7145    rms X1 = 0.218561
+Histogram size is 1803
+
+./1-timeseries/70.0-50.5.dat
+./2-windowparams/70.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 70.0213    rms X0 = 1.75843
+Average X1 = 50.4287    rms X1 = 0.21702
+Histogram size is 1805
+
+./1-timeseries/70.0-51.2.dat
+./2-windowparams/70.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 69.9952    rms X0 = 1.78311
+Average X1 = 51.1025    rms X1 = 0.218736
+Histogram size is 1811
+
+./1-timeseries/75.0-38.1.dat
+./2-windowparams/75.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 76.7401    rms X0 = 1.62906
+Average X1 = 38.1942    rms X1 = 0.245306
+Histogram size is 1817
+
+./1-timeseries/75.0-38.8.dat
+./2-windowparams/75.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 77.0334    rms X0 = 1.7611
+Average X1 = 38.9248    rms X1 = 0.229085
+Histogram size is 1819
+
+./1-timeseries/75.0-39.5.dat
+./2-windowparams/75.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 75.6873    rms X0 = 2.04845
+Average X1 = 39.5133    rms X1 = 0.238455
+Histogram size is 1821
+
+./1-timeseries/75.0-40.2.dat
+./2-windowparams/75.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 76.7789    rms X0 = 2.05667
+Average X1 = 40.2603    rms X1 = 0.217311
+Histogram size is 1824
+
+./1-timeseries/75.0-40.9.dat
+./2-windowparams/75.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 77.2207    rms X0 = 2.63147
+Average X1 = 40.9374    rms X1 = 0.220579
+Histogram size is 1829
+
+./1-timeseries/75.0-41.6.dat
+./2-windowparams/75.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 75.7543    rms X0 = 2.02101
+Average X1 = 41.6656    rms X1 = 0.236161
+Histogram size is 1832
+
+./1-timeseries/75.0-42.3.dat
+./2-windowparams/75.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 75.8573    rms X0 = 1.83943
+Average X1 = 42.328    rms X1 = 0.226075
+Histogram size is 1834
+
+./1-timeseries/75.0-42.9.dat
+./2-windowparams/75.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 74.9277    rms X0 = 1.6222
+Average X1 = 42.8304    rms X1 = 0.214865
+Histogram size is 1836
+
+./1-timeseries/75.0-43.6.dat
+./2-windowparams/75.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 75.9548    rms X0 = 1.67409
+Average X1 = 43.5709    rms X1 = 0.216491
+Histogram size is 1839
+
+./1-timeseries/75.0-44.3.dat
+./2-windowparams/75.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 75.5067    rms X0 = 1.67396
+Average X1 = 44.2319    rms X1 = 0.230061
+Histogram size is 1843
+
+./1-timeseries/75.0-45.0.dat
+./2-windowparams/75.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 75.0674    rms X0 = 1.67281
+Average X1 = 44.9863    rms X1 = 0.22206
+Histogram size is 1847
+
+./1-timeseries/75.0-45.7.dat
+./2-windowparams/75.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 74.8693    rms X0 = 1.74811
+Average X1 = 45.6216    rms X1 = 0.208866
+Histogram size is 1849
+
+./1-timeseries/75.0-46.4.dat
+./2-windowparams/75.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 74.4562    rms X0 = 1.61577
+Average X1 = 46.3406    rms X1 = 0.216376
+Histogram size is 1851
+
+./1-timeseries/75.0-47.1.dat
+./2-windowparams/75.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 74.5614    rms X0 = 1.72092
+Average X1 = 47.0362    rms X1 = 0.225464
+Histogram size is 1855
+
+./1-timeseries/75.0-47.7.dat
+./2-windowparams/75.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 75.0118    rms X0 = 1.73464
+Average X1 = 47.6986    rms X1 = 0.226015
+Histogram size is 1858
+
+./1-timeseries/75.0-48.4.dat
+./2-windowparams/75.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 74.8723    rms X0 = 1.71676
+Average X1 = 48.3409    rms X1 = 0.226052
+Histogram size is 1861
+
+./1-timeseries/75.0-49.1.dat
+./2-windowparams/75.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 75.2377    rms X0 = 1.77379
+Average X1 = 49.0581    rms X1 = 0.22337
+Histogram size is 1865
+
+./1-timeseries/75.0-49.8.dat
+./2-windowparams/75.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 74.8363    rms X0 = 1.75229
+Average X1 = 49.7606    rms X1 = 0.232384
+Histogram size is 1867
+
+./1-timeseries/75.0-50.5.dat
+./2-windowparams/75.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 74.8146    rms X0 = 1.75778
+Average X1 = 50.4499    rms X1 = 0.221995
+Histogram size is 1869
+
+./1-timeseries/75.0-51.2.dat
+./2-windowparams/75.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 75.0586    rms X0 = 1.72624
+Average X1 = 51.108    rms X1 = 0.221574
+Histogram size is 1874
+
+./1-timeseries/80.0-38.1.dat
+./2-windowparams/80.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 81.3667    rms X0 = 1.8007
+Average X1 = 38.1611    rms X1 = 0.226853
+Histogram size is 1880
+
+./1-timeseries/80.0-38.8.dat
+./2-windowparams/80.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 81.7647    rms X0 = 1.76843
+Average X1 = 38.9292    rms X1 = 0.223824
+Histogram size is 1884
+
+./1-timeseries/80.0-39.5.dat
+./2-windowparams/80.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 80.5158    rms X0 = 1.79274
+Average X1 = 39.5467    rms X1 = 0.223824
+Histogram size is 1884
+
+./1-timeseries/80.0-40.2.dat
+./2-windowparams/80.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 81.0835    rms X0 = 1.7808
+Average X1 = 40.2492    rms X1 = 0.225594
+Histogram size is 1886
+
+./1-timeseries/80.0-40.9.dat
+./2-windowparams/80.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 80.836    rms X0 = 2.3097
+Average X1 = 40.888    rms X1 = 0.22206
+Histogram size is 1890
+
+./1-timeseries/80.0-41.6.dat
+./2-windowparams/80.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 80.0434    rms X0 = 2.20124
+Average X1 = 41.5832    rms X1 = 0.200854
+Histogram size is 1892
+
+./1-timeseries/80.0-42.3.dat
+./2-windowparams/80.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 81.2973    rms X0 = 2.0432
+Average X1 = 42.2085    rms X1 = 0.218197
+Histogram size is 1896
+
+./1-timeseries/80.0-42.9.dat
+./2-windowparams/80.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 80.266    rms X0 = 1.76198
+Average X1 = 42.8545    rms X1 = 0.225069
+Histogram size is 1897
+
+./1-timeseries/80.0-43.6.dat
+./2-windowparams/80.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 80.4063    rms X0 = 1.7295
+Average X1 = 43.5378    rms X1 = 0.233445
+Histogram size is 1900
+
+./1-timeseries/80.0-44.3.dat
+./2-windowparams/80.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 80.0542    rms X0 = 1.69274
+Average X1 = 44.2228    rms X1 = 0.220266
+Histogram size is 1903
+
+./1-timeseries/80.0-45.0.dat
+./2-windowparams/80.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 80.4461    rms X0 = 1.73047
+Average X1 = 44.992    rms X1 = 0.218438
+Histogram size is 1907
+
+./1-timeseries/80.0-45.7.dat
+./2-windowparams/80.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 79.7116    rms X0 = 1.71758
+Average X1 = 45.7075    rms X1 = 0.220785
+Histogram size is 1909
+
+./1-timeseries/80.0-46.4.dat
+./2-windowparams/80.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 79.6443    rms X0 = 1.78275
+Average X1 = 46.3246    rms X1 = 0.214882
+Histogram size is 1911
+
+./1-timeseries/80.0-47.1.dat
+./2-windowparams/80.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 79.9997    rms X0 = 1.70048
+Average X1 = 46.9594    rms X1 = 0.22276
+Histogram size is 1912
+
+./1-timeseries/80.0-47.7.dat
+./2-windowparams/80.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 80.0654    rms X0 = 1.79705
+Average X1 = 47.5635    rms X1 = 0.229596
+Histogram size is 1915
+
+./1-timeseries/80.0-48.4.dat
+./2-windowparams/80.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 80.0074    rms X0 = 1.77568
+Average X1 = 48.3384    rms X1 = 0.223726
+Histogram size is 1918
+
+./1-timeseries/80.0-49.1.dat
+./2-windowparams/80.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 80.1415    rms X0 = 1.70454
+Average X1 = 49.053    rms X1 = 0.225629
+Histogram size is 1920
+
+./1-timeseries/80.0-49.8.dat
+./2-windowparams/80.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 80.0089    rms X0 = 1.73661
+Average X1 = 49.7479    rms X1 = 0.22868
+Histogram size is 1924
+
+./1-timeseries/80.0-50.5.dat
+./2-windowparams/80.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 79.9226    rms X0 = 1.74876
+Average X1 = 50.4228    rms X1 = 0.228942
+Histogram size is 1927
+
+./1-timeseries/80.0-51.2.dat
+./2-windowparams/80.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 79.9597    rms X0 = 1.75753
+Average X1 = 51.1398    rms X1 = 0.217284
+Histogram size is 1931
+
+./1-timeseries/85.0-38.1.dat
+./2-windowparams/85.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 87.1276    rms X0 = 1.6766
+Average X1 = 38.2686    rms X1 = 0.220713
+Histogram size is 1936
+
+./1-timeseries/85.0-38.8.dat
+./2-windowparams/85.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 87.2129    rms X0 = 1.7604
+Average X1 = 38.9141    rms X1 = 0.227367
+Histogram size is 1939
+
+./1-timeseries/85.0-39.5.dat
+./2-windowparams/85.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 85.2563    rms X0 = 1.80337
+Average X1 = 39.5361    rms X1 = 0.237266
+Histogram size is 1939
+
+./1-timeseries/85.0-40.2.dat
+./2-windowparams/85.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 85.7282    rms X0 = 1.91119
+Average X1 = 40.2055    rms X1 = 0.21402
+Histogram size is 1939
+
+./1-timeseries/85.0-40.9.dat
+./2-windowparams/85.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 86.6914    rms X0 = 1.95244
+Average X1 = 40.8667    rms X1 = 0.208686
+Histogram size is 1939
+
+./1-timeseries/85.0-41.6.dat
+./2-windowparams/85.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 86.5189    rms X0 = 1.85002
+Average X1 = 41.5621    rms X1 = 0.223481
+Histogram size is 1939
+
+./1-timeseries/85.0-42.3.dat
+./2-windowparams/85.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 86.3826    rms X0 = 1.92641
+Average X1 = 42.2672    rms X1 = 0.22139
+Histogram size is 1940
+
+./1-timeseries/85.0-42.9.dat
+./2-windowparams/85.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 85.5853    rms X0 = 1.81331
+Average X1 = 42.8583    rms X1 = 0.225441
+Histogram size is 1941
+
+./1-timeseries/85.0-43.6.dat
+./2-windowparams/85.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 85.1867    rms X0 = 1.72747
+Average X1 = 43.5235    rms X1 = 0.228661
+Histogram size is 1943
+
+./1-timeseries/85.0-44.3.dat
+./2-windowparams/85.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 85.2296    rms X0 = 1.75229
+Average X1 = 44.2487    rms X1 = 0.220631
+Histogram size is 1945
+
+./1-timeseries/85.0-45.0.dat
+./2-windowparams/85.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 84.6296    rms X0 = 1.80849
+Average X1 = 44.9693    rms X1 = 0.221369
+Histogram size is 1947
+
+./1-timeseries/85.0-45.7.dat
+./2-windowparams/85.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 85.2403    rms X0 = 1.78566
+Average X1 = 45.7163    rms X1 = 0.222099
+Histogram size is 1949
+
+./1-timeseries/85.0-46.4.dat
+./2-windowparams/85.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 84.5255    rms X0 = 1.67849
+Average X1 = 46.332    rms X1 = 0.223822
+Histogram size is 1950
+
+./1-timeseries/85.0-47.1.dat
+./2-windowparams/85.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 85.11    rms X0 = 1.66944
+Average X1 = 47.0247    rms X1 = 0.22907
+Histogram size is 1952
+
+./1-timeseries/85.0-47.7.dat
+./2-windowparams/85.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 84.8529    rms X0 = 1.76096
+Average X1 = 47.6756    rms X1 = 0.235219
+Histogram size is 1953
+
+./1-timeseries/85.0-48.4.dat
+./2-windowparams/85.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 85.0128    rms X0 = 1.68556
+Average X1 = 48.3308    rms X1 = 0.231044
+Histogram size is 1954
+
+./1-timeseries/85.0-49.1.dat
+./2-windowparams/85.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 84.9745    rms X0 = 1.71345
+Average X1 = 49.0806    rms X1 = 0.222458
+Histogram size is 1955
+
+./1-timeseries/85.0-49.8.dat
+./2-windowparams/85.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 85.1988    rms X0 = 1.69503
+Average X1 = 49.7257    rms X1 = 0.223849
+Histogram size is 1957
+
+./1-timeseries/85.0-50.5.dat
+./2-windowparams/85.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 84.971    rms X0 = 1.73812
+Average X1 = 50.471    rms X1 = 0.218448
+Histogram size is 1958
+
+./1-timeseries/85.0-51.2.dat
+./2-windowparams/85.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 84.8859    rms X0 = 1.7296
+Average X1 = 51.1809    rms X1 = 0.223931
+Histogram size is 1960
+
+./1-timeseries/90.0-38.1.dat
+./2-windowparams/90.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 90.9297    rms X0 = 1.71859
+Average X1 = 38.1987    rms X1 = 0.225649
+Histogram size is 1960
+
+./1-timeseries/90.0-38.8.dat
+./2-windowparams/90.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 91.2674    rms X0 = 1.96443
+Average X1 = 38.8245    rms X1 = 0.242423
+Histogram size is 1960
+
+./1-timeseries/90.0-39.5.dat
+./2-windowparams/90.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 91.6675    rms X0 = 1.71084
+Average X1 = 39.5757    rms X1 = 0.225213
+Histogram size is 1960
+
+./1-timeseries/90.0-40.2.dat
+./2-windowparams/90.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 90.7128    rms X0 = 2.10248
+Average X1 = 40.2604    rms X1 = 0.212643
+Histogram size is 1960
+
+./1-timeseries/90.0-40.9.dat
+./2-windowparams/90.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 90.5859    rms X0 = 1.63762
+Average X1 = 40.893    rms X1 = 0.211903
+Histogram size is 1960
+
+./1-timeseries/90.0-41.6.dat
+./2-windowparams/90.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 90.8712    rms X0 = 1.82599
+Average X1 = 41.5318    rms X1 = 0.21651
+Histogram size is 1960
+
+./1-timeseries/90.0-42.3.dat
+./2-windowparams/90.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 89.8977    rms X0 = 2.0547
+Average X1 = 42.259    rms X1 = 0.227768
+Histogram size is 1960
+
+./1-timeseries/90.0-42.9.dat
+./2-windowparams/90.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 90.6291    rms X0 = 1.78093
+Average X1 = 42.7949    rms X1 = 0.244751
+Histogram size is 1960
+
+./1-timeseries/90.0-43.6.dat
+./2-windowparams/90.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 90.4406    rms X0 = 1.81233
+Average X1 = 43.5662    rms X1 = 0.224414
+Histogram size is 1960
+
+./1-timeseries/90.0-44.3.dat
+./2-windowparams/90.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 89.91    rms X0 = 1.68557
+Average X1 = 44.2335    rms X1 = 0.229013
+Histogram size is 1960
+
+./1-timeseries/90.0-45.0.dat
+./2-windowparams/90.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 89.4007    rms X0 = 1.86055
+Average X1 = 44.8996    rms X1 = 0.220978
+Histogram size is 1960
+
+./1-timeseries/90.0-45.7.dat
+./2-windowparams/90.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 90.3709    rms X0 = 1.76043
+Average X1 = 45.5463    rms X1 = 0.219329
+Histogram size is 1960
+
+./1-timeseries/90.0-46.4.dat
+./2-windowparams/90.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 89.8795    rms X0 = 1.72394
+Average X1 = 46.334    rms X1 = 0.234764
+Histogram size is 1960
+
+./1-timeseries/90.0-47.1.dat
+./2-windowparams/90.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 90.1781    rms X0 = 1.84592
+Average X1 = 46.98    rms X1 = 0.223928
+Histogram size is 1960
+
+./1-timeseries/90.0-47.7.dat
+./2-windowparams/90.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 90.4216    rms X0 = 1.7479
+Average X1 = 47.576    rms X1 = 0.224841
+Histogram size is 1960
+
+./1-timeseries/90.0-48.4.dat
+./2-windowparams/90.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 90.1078    rms X0 = 1.76578
+Average X1 = 48.3815    rms X1 = 0.225576
+Histogram size is 1960
+
+./1-timeseries/90.0-49.1.dat
+./2-windowparams/90.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 90.1433    rms X0 = 1.72756
+Average X1 = 49.0574    rms X1 = 0.224874
+Histogram size is 1960
+
+./1-timeseries/90.0-49.8.dat
+./2-windowparams/90.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 89.8617    rms X0 = 1.7115
+Average X1 = 49.7122    rms X1 = 0.223557
+Histogram size is 1960
+
+./1-timeseries/90.0-50.5.dat
+./2-windowparams/90.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 89.7785    rms X0 = 1.73617
+Average X1 = 50.5158    rms X1 = 0.222484
+Histogram size is 1960
+
+./1-timeseries/90.0-51.2.dat
+./2-windowparams/90.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 89.9759    rms X0 = 1.79167
+Average X1 = 51.1196    rms X1 = 0.230316
+Histogram size is 1963
+
+./1-timeseries/95.0-38.1.dat
+./2-windowparams/95.0-38.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 96.4833    rms X0 = 1.75369
+Average X1 = 38.3244    rms X1 = 0.217106
+Histogram size is 1963
+
+./1-timeseries/95.0-38.8.dat
+./2-windowparams/95.0-38.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 95.6474    rms X0 = 1.65693
+Average X1 = 38.8816    rms X1 = 0.232659
+Histogram size is 1963
+
+./1-timeseries/95.0-39.5.dat
+./2-windowparams/95.0-39.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 96.0437    rms X0 = 1.71045
+Average X1 = 39.5721    rms X1 = 0.214715
+Histogram size is 1963
+
+./1-timeseries/95.0-40.2.dat
+./2-windowparams/95.0-40.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 95.8575    rms X0 = 1.83283
+Average X1 = 40.2442    rms X1 = 0.214155
+Histogram size is 1963
+
+./1-timeseries/95.0-40.9.dat
+./2-windowparams/95.0-40.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 95.8862    rms X0 = 1.72445
+Average X1 = 40.8817    rms X1 = 0.20997
+Histogram size is 1963
+
+./1-timeseries/95.0-41.6.dat
+./2-windowparams/95.0-41.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 95.4969    rms X0 = 1.62267
+Average X1 = 41.512    rms X1 = 0.216722
+Histogram size is 1963
+
+./1-timeseries/95.0-42.3.dat
+./2-windowparams/95.0-42.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 95.2523    rms X0 = 1.78389
+Average X1 = 42.2593    rms X1 = 0.219688
+Histogram size is 1963
+
+./1-timeseries/95.0-42.9.dat
+./2-windowparams/95.0-42.9.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 95.0931    rms X0 = 1.85457
+Average X1 = 42.8662    rms X1 = 0.220574
+Histogram size is 1963
+
+./1-timeseries/95.0-43.6.dat
+./2-windowparams/95.0-43.6.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 95.6852    rms X0 = 1.75134
+Average X1 = 43.516    rms X1 = 0.230636
+Histogram size is 1963
+
+./1-timeseries/95.0-44.3.dat
+./2-windowparams/95.0-44.3.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 95.2545    rms X0 = 1.7744
+Average X1 = 44.2405    rms X1 = 0.223704
+Histogram size is 1963
+
+./1-timeseries/95.0-45.0.dat
+./2-windowparams/95.0-45.0.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 94.764    rms X0 = 1.66897
+Average X1 = 44.9347    rms X1 = 0.222506
+Histogram size is 1963
+
+./1-timeseries/95.0-45.7.dat
+./2-windowparams/95.0-45.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 94.9535    rms X0 = 1.68759
+Average X1 = 45.5913    rms X1 = 0.22271
+Histogram size is 1963
+
+./1-timeseries/95.0-46.4.dat
+./2-windowparams/95.0-46.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 94.5646    rms X0 = 1.86411
+Average X1 = 46.2931    rms X1 = 0.224788
+Histogram size is 1963
+
+./1-timeseries/95.0-47.1.dat
+./2-windowparams/95.0-47.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 94.4935    rms X0 = 1.7947
+Average X1 = 47.0123    rms X1 = 0.224139
+Histogram size is 1963
+
+./1-timeseries/95.0-47.7.dat
+./2-windowparams/95.0-47.7.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 94.7992    rms X0 = 1.75858
+Average X1 = 47.6655    rms X1 = 0.213839
+Histogram size is 1963
+
+./1-timeseries/95.0-48.4.dat
+./2-windowparams/95.0-48.4.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 94.9515    rms X0 = 1.72584
+Average X1 = 48.3433    rms X1 = 0.227243
+Histogram size is 1963
+
+./1-timeseries/95.0-49.1.dat
+./2-windowparams/95.0-49.1.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 94.9632    rms X0 = 1.74247
+Average X1 = 49.0605    rms X1 = 0.226412
+Histogram size is 1963
+
+./1-timeseries/95.0-49.8.dat
+./2-windowparams/95.0-49.8.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 94.8065    rms X0 = 1.75717
+Average X1 = 49.7311    rms X1 = 0.2225
+Histogram size is 1963
+
+./1-timeseries/95.0-50.5.dat
+./2-windowparams/95.0-50.5.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 95.095    rms X0 = 1.72952
+Average X1 = 50.4228    rms X1 = 0.227453
+Histogram size is 1963
+
+./1-timeseries/95.0-51.2.dat
+./2-windowparams/95.0-51.2.k
+Number of data in the histogram    50000
+Last Timestep = 4.9999e+06
+Average X0 = 95.1714    rms X0 = 1.75421
+Average X1 = 51.1524    rms X1 = 0.227256
+Histogram size is 1963
+
+Iterating WHAM.... 
+Done! Number of iterations: 7772
+
+The converged F in window 0 = 0
+The converged F in window 1 = -1.14161
+The converged F in window 2 = -1.32516
+The converged F in window 3 = -1.07876
+The converged F in window 4 = -1.35006
+The converged F in window 5 = -2.94101
+The converged F in window 6 = -3.48877
+The converged F in window 7 = -3.48997
+The converged F in window 8 = -4.03944
+The converged F in window 9 = -4.36539
+The converged F in window 10 = -4.45685
+The converged F in window 11 = -5.03197
+The converged F in window 12 = -5.05815
+The converged F in window 13 = -5.21946
+The converged F in window 14 = -5.55743
+The converged F in window 15 = -5.58757
+The converged F in window 16 = -5.15262
+The converged F in window 17 = -5.08541
+The converged F in window 18 = -4.30157
+The converged F in window 19 = -2.66054
+The converged F in window 20 = -0.626311
+The converged F in window 21 = -1.87759
+The converged F in window 22 = -1.6884
+The converged F in window 23 = -1.73904
+The converged F in window 24 = -2.35215
+The converged F in window 25 = -3.54477
+The converged F in window 26 = -3.97063
+The converged F in window 27 = -4.00867
+The converged F in window 28 = -4.69728
+The converged F in window 29 = -5.33656
+The converged F in window 30 = -5.30281
+The converged F in window 31 = -5.7444
+The converged F in window 32 = -5.88013
+The converged F in window 33 = -6.2131
+The converged F in window 34 = -6.45753
+The converged F in window 35 = -6.19084
+The converged F in window 36 = -5.81547
+The converged F in window 37 = -5.59199
+The converged F in window 38 = -4.87517
+The converged F in window 39 = -3.38256
+The converged F in window 40 = -19.827
+The converged F in window 41 = -20.8876
+The converged F in window 42 = -21.0181
+The converged F in window 43 = -21.0569
+The converged F in window 44 = -20.8293
+The converged F in window 45 = -19.7874
+The converged F in window 46 = -18.9971
+The converged F in window 47 = -18.5002
+The converged F in window 48 = -17.3936
+The converged F in window 49 = -16.1971
+The converged F in window 50 = -15.3395
+The converged F in window 51 = -14.0581
+The converged F in window 52 = -13.2508
+The converged F in window 53 = -12.3415
+The converged F in window 54 = -12.0399
+The converged F in window 55 = -11.5975
+The converged F in window 56 = -10.7779
+The converged F in window 57 = -10.6211
+The converged F in window 58 = -10.1809
+The converged F in window 59 = -9.56235
+The converged F in window 60 = 1.13248
+The converged F in window 61 = -1.29047
+The converged F in window 62 = 0.216144
+The converged F in window 63 = -2.41437
+The converged F in window 64 = 0.608567
+The converged F in window 65 = -2.02813
+The converged F in window 66 = -0.0593212
+The converged F in window 67 = -2.80315
+The converged F in window 68 = -0.631163
+The converged F in window 69 = -3.53628
+The converged F in window 70 = -1.62886
+The converged F in window 71 = -4.1193
+The converged F in window 72 = -2.17844
+The converged F in window 73 = -4.41256
+The converged F in window 74 = -2.36729
+The converged F in window 75 = -4.49835
+The converged F in window 76 = -2.63069
+The converged F in window 77 = -5.2135
+The converged F in window 78 = -3.17093
+The converged F in window 79 = -6.03319
+The converged F in window 80 = -3.37162
+The converged F in window 81 = -6.14051
+The converged F in window 82 = -3.93293
+The converged F in window 83 = -6.79705
+The converged F in window 84 = -3.91437
+The converged F in window 85 = -6.83641
+The converged F in window 86 = -4.20096
+The converged F in window 87 = -7.02326
+The converged F in window 88 = -4.40861
+The converged F in window 89 = -7.24186
+The converged F in window 90 = -4.25285
+The converged F in window 91 = -6.95125
+The converged F in window 92 = -3.55917
+The converged F in window 93 = -6.516
+The converged F in window 94 = -3.33663
+The converged F in window 95 = -6.29226
+The converged F in window 96 = -2.47101
+The converged F in window 97 = -5.4726
+The converged F in window 98 = -1.317
+The converged F in window 99 = -3.93
+The converged F in window 100 = -20.2187
+The converged F in window 101 = -21.1345
+The converged F in window 102 = -21.2409
+The converged F in window 103 = -21.1056
+The converged F in window 104 = -20.7029
+The converged F in window 105 = -19.738
+The converged F in window 106 = -19.3355
+The converged F in window 107 = -18.661
+The converged F in window 108 = -17.3161
+The converged F in window 109 = -15.9191
+The converged F in window 110 = -15.1707
+The converged F in window 111 = -13.8599
+The converged F in window 112 = -13.0989
+The converged F in window 113 = -12.2871
+The converged F in window 114 = -12.0496
+The converged F in window 115 = -11.6191
+The converged F in window 116 = -10.8057
+The converged F in window 117 = -10.6696
+The converged F in window 118 = -10.2099
+The converged F in window 119 = -9.60945
+The converged F in window 120 = -20.572
+The converged F in window 121 = -21.2492
+The converged F in window 122 = -21.1684
+The converged F in window 123 = -21.0398
+The converged F in window 124 = -20.6413
+The converged F in window 125 = -19.7526
+The converged F in window 126 = -19.4108
+The converged F in window 127 = -18.5681
+The converged F in window 128 = -17.2271
+The converged F in window 129 = -15.9179
+The converged F in window 130 = -14.9038
+The converged F in window 131 = -13.6848
+The converged F in window 132 = -13.2013
+The converged F in window 133 = -12.3131
+The converged F in window 134 = -12.0538
+The converged F in window 135 = -11.6889
+The converged F in window 136 = -10.8845
+The converged F in window 137 = -10.7137
+The converged F in window 138 = -10.2605
+The converged F in window 139 = -9.6457
+The converged F in window 140 = -20.5581
+The converged F in window 141 = -21.1112
+The converged F in window 142 = -20.9967
+The converged F in window 143 = -20.7216
+The converged F in window 144 = -20.2697
+The converged F in window 145 = -19.5334
+The converged F in window 146 = -19.1223
+The converged F in window 147 = -18.3096
+The converged F in window 148 = -16.9922
+The converged F in window 149 = -15.744
+The converged F in window 150 = -14.862
+The converged F in window 151 = -13.6542
+The converged F in window 152 = -13.1859
+The converged F in window 153 = -12.381
+The converged F in window 154 = -12.1316
+The converged F in window 155 = -11.7174
+The converged F in window 156 = -10.9677
+The converged F in window 157 = -10.7848
+The converged F in window 158 = -10.2397
+The converged F in window 159 = -9.66875
+The converged F in window 160 = 1.53239
+The converged F in window 161 = -1.66396
+The converged F in window 162 = 0.689424
+The converged F in window 163 = -2.81328
+The converged F in window 164 = 1.15246
+The converged F in window 165 = -2.95424
+The converged F in window 166 = 0.477069
+The converged F in window 167 = -3.48789
+The converged F in window 168 = -0.0412824
+The converged F in window 169 = -4.02568
+The converged F in window 170 = -1.11575
+The converged F in window 171 = -4.53599
+The converged F in window 172 = -1.65268
+The converged F in window 173 = -5.06149
+The converged F in window 174 = -1.69342
+The converged F in window 175 = -5.11361
+The converged F in window 176 = -2.18795
+The converged F in window 177 = -5.59699
+The converged F in window 178 = -2.7978
+The converged F in window 179 = -6.26354
+The converged F in window 180 = -2.8957
+The converged F in window 181 = -6.61734
+The converged F in window 182 = -3.48362
+The converged F in window 183 = -7.31549
+The converged F in window 184 = -3.61982
+The converged F in window 185 = -7.36388
+The converged F in window 186 = -3.91472
+The converged F in window 187 = -7.37603
+The converged F in window 188 = -3.88162
+The converged F in window 189 = -7.72876
+The converged F in window 190 = -3.6179
+The converged F in window 191 = -7.78406
+The converged F in window 192 = -2.88738
+The converged F in window 193 = -7.14319
+The converged F in window 194 = -2.79544
+The converged F in window 195 = -6.94379
+The converged F in window 196 = -1.99397
+The converged F in window 197 = -5.91498
+The converged F in window 198 = -0.886691
+The converged F in window 199 = -4.46501
+The converged F in window 200 = 2.06683
+The converged F in window 201 = -2.05758
+The converged F in window 202 = 1.29635
+The converged F in window 203 = -2.93199
+The converged F in window 204 = 1.68622
+The converged F in window 205 = -3.60598
+The converged F in window 206 = 0.975984
+The converged F in window 207 = -4.72376
+The converged F in window 208 = 0.587744
+The converged F in window 209 = -5.03354
+The converged F in window 210 = -0.341733
+The converged F in window 211 = -5.60361
+The converged F in window 212 = -0.751219
+The converged F in window 213 = -6.1626
+The converged F in window 214 = -0.830793
+The converged F in window 215 = -6.07604
+The converged F in window 216 = -1.65555
+The converged F in window 217 = -6.54141
+The converged F in window 218 = -2.21806
+The converged F in window 219 = -7.18966
+The converged F in window 220 = -2.59527
+The converged F in window 221 = -7.38508
+The converged F in window 222 = -3.29654
+The converged F in window 223 = -7.72143
+The converged F in window 224 = -3.54877
+The converged F in window 225 = -7.68056
+The converged F in window 226 = -3.62003
+The converged F in window 227 = -7.52239
+The converged F in window 228 = -3.49381
+The converged F in window 229 = -7.93195
+The converged F in window 230 = -3.27858
+The converged F in window 231 = -8.02695
+The converged F in window 232 = -2.50579
+The converged F in window 233 = -7.68143
+The converged F in window 234 = -2.17312
+The converged F in window 235 = -7.56245
+The converged F in window 236 = -1.43036
+The converged F in window 237 = -6.5199
+The converged F in window 238 = -0.216172
+The converged F in window 239 = -4.87996
+The converged F in window 240 = 2.75339
+The converged F in window 241 = -2.77298
+The converged F in window 242 = 1.89069
+The converged F in window 243 = -3.6086
+The converged F in window 244 = 1.99212
+The converged F in window 245 = -4.85194
+The converged F in window 246 = 1.3667
+The converged F in window 247 = -5.89407
+The converged F in window 248 = 1.25646
+The converged F in window 249 = -6.13195
+The converged F in window 250 = 0.138506
+The converged F in window 251 = -6.911
+The converged F in window 252 = -0.312089
+The converged F in window 253 = -7.38898
+The converged F in window 254 = -0.453998
+The converged F in window 255 = -7.33648
+The converged F in window 256 = -1.13283
+The converged F in window 257 = -7.60712
+The converged F in window 258 = -1.91715
+The converged F in window 259 = -8.29088
+The converged F in window 260 = -2.45666
+The converged F in window 261 = -8.26826
+The converged F in window 262 = -3.15734
+The converged F in window 263 = -8.28728
+The converged F in window 264 = -3.41856
+The converged F in window 265 = -8.12664
+The converged F in window 266 = -3.29923
+The converged F in window 267 = -7.79885
+The converged F in window 268 = -3.08762
+The converged F in window 269 = -8.26892
+The converged F in window 270 = -2.91854
+The converged F in window 271 = -8.41586
+The converged F in window 272 = -2.33406
+The converged F in window 273 = -8.07451
+The converged F in window 274 = -1.85583
+The converged F in window 275 = -7.92729
+The converged F in window 276 = -0.953941
+The converged F in window 277 = -7.02667
+The converged F in window 278 = 0.421909
+The converged F in window 279 = -5.38229
+The converged F in window 280 = 3.19317
+The converged F in window 281 = -4.82576
+The converged F in window 282 = 2.21669
+The converged F in window 283 = -5.60139
+The converged F in window 284 = 2.13213
+The converged F in window 285 = -5.78407
+The converged F in window 286 = 1.69322
+The converged F in window 287 = -6.83286
+The converged F in window 288 = 1.58384
+The converged F in window 289 = -7.50088
+The converged F in window 290 = 0.3973
+The converged F in window 291 = -8.71148
+The converged F in window 292 = -0.0501257
+The converged F in window 293 = -9.0742
+The converged F in window 294 = -0.131656
+The converged F in window 295 = -8.80701
+The converged F in window 296 = -0.817063
+The converged F in window 297 = -8.68369
+The converged F in window 298 = -1.64491
+The converged F in window 299 = -9.1283
+The converged F in window 300 = -2.23948
+The converged F in window 301 = -8.90002
+The converged F in window 302 = -2.71514
+The converged F in window 303 = -8.85781
+The converged F in window 304 = -2.93564
+The converged F in window 305 = -8.44463
+The converged F in window 306 = -2.77445
+The converged F in window 307 = -8.35316
+The converged F in window 308 = -2.59206
+The converged F in window 309 = -8.7758
+The converged F in window 310 = -2.35258
+The converged F in window 311 = -8.84652
+The converged F in window 312 = -1.55869
+The converged F in window 313 = -8.24555
+The converged F in window 314 = -1.22587
+The converged F in window 315 = -7.87511
+The converged F in window 316 = -0.369804
+The converged F in window 317 = -7.22968
+The converged F in window 318 = 0.930374
+The converged F in window 319 = -5.89474
+The converged F in window 320 = 3.53243
+The converged F in window 321 = -6.43451
+The converged F in window 322 = 2.60124
+The converged F in window 323 = -7.2315
+The converged F in window 324 = 2.54803
+The converged F in window 325 = -7.62185
+The converged F in window 326 = 1.78748
+The converged F in window 327 = -8.72315
+The converged F in window 328 = 1.64643
+The converged F in window 329 = -9.37044
+The converged F in window 330 = 0.877932
+The converged F in window 331 = -9.78253
+The converged F in window 332 = 0.567883
+The converged F in window 333 = -9.89204
+The converged F in window 334 = 0.44237
+The converged F in window 335 = -9.6314
+The converged F in window 336 = -0.588557
+The converged F in window 337 = -9.20823
+The converged F in window 338 = -1.47948
+The converged F in window 339 = -9.55891
+The converged F in window 340 = -1.89226
+The converged F in window 341 = -9.26584
+The converged F in window 342 = -2.42711
+The converged F in window 343 = -9.31002
+The converged F in window 344 = -2.38915
+The converged F in window 345 = -9.16207
+The converged F in window 346 = -2.16694
+The converged F in window 347 = -9.03522
+The converged F in window 348 = -2.01727
+The converged F in window 349 = -9.11002
+The converged F in window 350 = -1.55239
+The converged F in window 351 = -9.00915
+The converged F in window 352 = -0.711456
+The converged F in window 353 = -8.33132
+The converged F in window 354 = -0.530606
+The converged F in window 355 = -7.89275
+The converged F in window 356 = 0.0509922
+The converged F in window 357 = -7.42566
+The converged F in window 358 = 1.10038
+The converged F in window 359 = -6.14575
+The converged F in window 360 = -7.82673
+The converged F in window 361 = -8.42509
+The converged F in window 362 = -9.70663
+The converged F in window 363 = -10.4526
+The converged F in window 364 = -10.7828
+The converged F in window 365 = -10.9208
+The converged F in window 366 = -10.683
+The converged F in window 367 = -10.4941
+The converged F in window 368 = -9.97065
+The converged F in window 369 = -10.2699
+The converged F in window 370 = -9.93422
+The converged F in window 371 = -10.1719
+The converged F in window 372 = -10.0195
+The converged F in window 373 = -9.60907
+The converged F in window 374 = -9.67399
+The converged F in window 375 = -9.34784
+The converged F in window 376 = -8.53806
+The converged F in window 377 = -8.11774
+The converged F in window 378 = -7.44484
+The converged F in window 379 = -6.43063
+The converged F in window 380 = -8.65111
+The converged F in window 381 = -9.59994
+The converged F in window 382 = -10.9542
+The converged F in window 383 = -11.9429
+The converged F in window 384 = -12.3565
+The converged F in window 385 = -11.9666
+The converged F in window 386 = -11.7277
+The converged F in window 387 = -11.4752
+The converged F in window 388 = -11.2101
+The converged F in window 389 = -11.2448
+The converged F in window 390 = -10.7132
+The converged F in window 391 = -10.8323
+The converged F in window 392 = -10.6978
+The converged F in window 393 = -10.1288
+The converged F in window 394 = -10.2746
+The converged F in window 395 = -9.86741
+The converged F in window 396 = -8.84178
+The converged F in window 397 = -8.44662
+The converged F in window 398 = -7.81302
+The converged F in window 399 = -7.07485
+The converged F in window 400 = -9.97038
+The converged F in window 401 = -11.1644
+The converged F in window 402 = -12.108
+The converged F in window 403 = -13.0565
+The converged F in window 404 = -13.3748
+The converged F in window 405 = -13.0665
+The converged F in window 406 = -12.9047
+The converged F in window 407 = -12.6887
+The converged F in window 408 = -12.3424
+The converged F in window 409 = -12.4334
+The converged F in window 410 = -11.8287
+The converged F in window 411 = -11.5079
+The converged F in window 412 = -11.306
+The converged F in window 413 = -10.5738
+The converged F in window 414 = -10.7261
+The converged F in window 415 = -10.2534
+The converged F in window 416 = -9.22632
+The converged F in window 417 = -8.85958
+The converged F in window 418 = -8.22249
+The converged F in window 419 = -7.51643
+The converged F in window 420 = 0.587667
+The converged F in window 421 = -0.528062
+The converged F in window 422 = -0.412047
+The converged F in window 423 = -0.504779
+The converged F in window 424 = -1.01752
+The converged F in window 425 = -2.32179
+The converged F in window 426 = -2.75891
+The converged F in window 427 = -2.79332
+The converged F in window 428 = -3.24247
+The converged F in window 429 = -3.57983
+The converged F in window 430 = -3.83571
+The converged F in window 431 = -4.42211
+The converged F in window 432 = -4.4078
+The converged F in window 433 = -4.46916
+The converged F in window 434 = -4.85592
+The converged F in window 435 = -4.87983
+The converged F in window 436 = -4.26237
+The converged F in window 437 = -4.26361
+The converged F in window 438 = -3.34496
+The converged F in window 439 = -1.89925
+The converged F in window 440 = -11.5853
+The converged F in window 441 = -12.3688
+The converged F in window 442 = -13.304
+The converged F in window 443 = -14.2974
+The converged F in window 444 = -14.459
+The converged F in window 445 = -13.9032
+The converged F in window 446 = -13.9986
+The converged F in window 447 = -13.7576
+The converged F in window 448 = -13.3056
+The converged F in window 449 = -13.5229
+The converged F in window 450 = -12.8635
+The converged F in window 451 = -12.4964
+The converged F in window 452 = -12.1816
+The converged F in window 453 = -11.2428
+The converged F in window 454 = -11.0605
+The converged F in window 455 = -10.6291
+The converged F in window 456 = -9.66715
+The converged F in window 457 = -9.33578
+The converged F in window 458 = -8.73169
+The converged F in window 459 = -7.90062
+The converged F in window 460 = -12.5984
+The converged F in window 461 = -13.4882
+The converged F in window 462 = -14.0839
+The converged F in window 463 = -15.0175
+The converged F in window 464 = -15.2985
+The converged F in window 465 = -14.8388
+The converged F in window 466 = -14.8011
+The converged F in window 467 = -14.5118
+The converged F in window 468 = -14.1365
+The converged F in window 469 = -14.1751
+The converged F in window 470 = -13.66
+The converged F in window 471 = -13.4995
+The converged F in window 472 = -12.9745
+The converged F in window 473 = -11.7546
+The converged F in window 474 = -11.4008
+The converged F in window 475 = -10.8771
+The converged F in window 476 = -9.83305
+The converged F in window 477 = -9.57994
+The converged F in window 478 = -9.01165
+The converged F in window 479 = -8.36824
+The converged F in window 480 = -13.4703
+The converged F in window 481 = -14.298
+The converged F in window 482 = -14.5334
+The converged F in window 483 = -15.2839
+The converged F in window 484 = -15.704
+The converged F in window 485 = -15.4272
+The converged F in window 486 = -15.3467
+The converged F in window 487 = -15.1874
+The converged F in window 488 = -14.6135
+The converged F in window 489 = -14.5836
+The converged F in window 490 = -14.1022
+The converged F in window 491 = -13.6875
+The converged F in window 492 = -13.2054
+The converged F in window 493 = -12.0297
+The converged F in window 494 = -11.4477
+The converged F in window 495 = -11.0329
+The converged F in window 496 = -10.0936
+The converged F in window 497 = -9.68842
+The converged F in window 498 = -9.09197
+The converged F in window 499 = -8.57746
+The converged F in window 500 = -14.9713
+The converged F in window 501 = -15.5606
+The converged F in window 502 = -15.558
+The converged F in window 503 = -16.0187
+The converged F in window 504 = -16.2758
+The converged F in window 505 = -16.0522
+The converged F in window 506 = -16.0451
+The converged F in window 507 = -15.7567
+The converged F in window 508 = -15.0222
+The converged F in window 509 = -14.8431
+The converged F in window 510 = -14.3834
+The converged F in window 511 = -13.8028
+The converged F in window 512 = -13.3603
+The converged F in window 513 = -12.2031
+The converged F in window 514 = -11.4547
+The converged F in window 515 = -11.0864
+The converged F in window 516 = -10.1797
+The converged F in window 517 = -9.93034
+The converged F in window 518 = -9.32222
+The converged F in window 519 = -8.64501
+The converged F in window 520 = -15.9206
+The converged F in window 521 = -16.5175
+The converged F in window 522 = -16.7555
+The converged F in window 523 = -17.1359
+The converged F in window 524 = -17.1079
+The converged F in window 525 = -16.7393
+The converged F in window 526 = -16.7218
+The converged F in window 527 = -16.3581
+The converged F in window 528 = -15.5391
+The converged F in window 529 = -15.2326
+The converged F in window 530 = -14.6167
+The converged F in window 531 = -13.887
+The converged F in window 532 = -13.3836
+The converged F in window 533 = -12.2571
+The converged F in window 534 = -11.5001
+The converged F in window 535 = -11.1372
+The converged F in window 536 = -10.278
+The converged F in window 537 = -10.0924
+The converged F in window 538 = -9.53927
+The converged F in window 539 = -8.88007
+The converged F in window 540 = -16.6822
+The converged F in window 541 = -17.5233
+The converged F in window 542 = -17.8016
+The converged F in window 543 = -18.3831
+The converged F in window 544 = -18.2974
+The converged F in window 545 = -17.3963
+The converged F in window 546 = -17.1912
+The converged F in window 547 = -16.7772
+The converged F in window 548 = -16.0223
+The converged F in window 549 = -15.5787
+The converged F in window 550 = -14.905
+The converged F in window 551 = -13.9193
+The converged F in window 552 = -13.5166
+The converged F in window 553 = -12.3274
+The converged F in window 554 = -11.5771
+The converged F in window 555 = -11.1364
+The converged F in window 556 = -10.4462
+The converged F in window 557 = -10.2304
+The converged F in window 558 = -9.62129
+The converged F in window 559 = -9.10841
+The converged F in window 560 = -17.6522
+The converged F in window 561 = -18.4946
+The converged F in window 562 = -18.4699
+The converged F in window 563 = -19.1734
+The converged F in window 564 = -19.1324
+The converged F in window 565 = -18.2911
+The converged F in window 566 = -18.0013
+The converged F in window 567 = -17.4364
+The converged F in window 568 = -16.3728
+The converged F in window 569 = -15.8735
+The converged F in window 570 = -15.1591
+The converged F in window 571 = -13.9582
+The converged F in window 572 = -13.5445
+The converged F in window 573 = -12.4303
+The converged F in window 574 = -11.6843
+The converged F in window 575 = -11.2876
+The converged F in window 576 = -10.5857
+The converged F in window 577 = -10.3945
+The converged F in window 578 = -9.79073
+The converged F in window 579 = -9.29672
+The converged F in window 580 = -18.7697
+The converged F in window 581 = -19.4862
+The converged F in window 582 = -19.3871
+The converged F in window 583 = -20.0014
+The converged F in window 584 = -20.0899
+The converged F in window 585 = -19.2478
+The converged F in window 586 = -18.5531
+The converged F in window 587 = -17.9458
+The converged F in window 588 = -16.7212
+The converged F in window 589 = -16.0815
+The converged F in window 590 = -15.2669
+The converged F in window 591 = -14.1296
+The converged F in window 592 = -13.5344
+The converged F in window 593 = -12.5317
+The converged F in window 594 = -11.8394
+The converged F in window 595 = -11.4129
+The converged F in window 596 = -10.7293
+The converged F in window 597 = -10.4916
+The converged F in window 598 = -9.88502
+The converged F in window 599 = -9.33985
+The converged F in window 600 = -19.3165
+The converged F in window 601 = -20.3729
+The converged F in window 602 = -20.4306
+The converged F in window 603 = -20.7659
+The converged F in window 604 = -20.6957
+The converged F in window 605 = -19.8556
+The converged F in window 606 = -18.8523
+The converged F in window 607 = -18.306
+The converged F in window 608 = -17.1709
+The converged F in window 609 = -16.1645
+The converged F in window 610 = -15.3702
+The converged F in window 611 = -14.1987
+The converged F in window 612 = -13.4781
+The converged F in window 613 = -12.454
+The converged F in window 614 = -12.0176
+The converged F in window 615 = -11.6031
+The converged F in window 616 = -10.7997
+The converged F in window 617 = -10.5792
+The converged F in window 618 = -9.97509
+The converged F in window 619 = -9.45294
+
+Maximum density at:
+ X0 = 122.55
+ X1 = 38.55
+
+Maximum free energy set to: inf kcal/mol
