@@ -33,11 +33,11 @@ Activate the environment before running the workflow:
 ```bash
 conda activate AmberTools23
 
-Prepare unbiased MD simulations with tleap for Amber 
+# Prepare unbiased MD simulations with tleap for Amber 
 ./pre-automate.sh
 
-Submit equilibration and production runs
+# Submit equilibration and production runs
 ./pmemd-submit.sh
 
-Analysis of minimum free energy pathway states
+# Analysis of minimum free energy pathway states
 ./post-automate.sh
