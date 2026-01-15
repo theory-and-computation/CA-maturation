@@ -1,7 +1,6 @@
 
 Analysis of the Minimum Free Energy Pathway
 
-# Step 1: Setup
 # Minimum Free Energy Pathway (MFEP) Workflow
 
 This repository contains a workflow for preparing, running, and analyzing molecular dynamics simulations to HIV-1 capsid maturation. 
