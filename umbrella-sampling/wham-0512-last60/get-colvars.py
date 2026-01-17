@@ -5,6 +5,9 @@ import os
 import glob
 import re
 
+# open NAMD output files across different runs
+# with given CV coordinates
+# and copy data to 1-timeseries/ in one file
 def write_timeseries (jobstep, xi1, xi2, output):
   global last_ts
   
@@ -31,10 +34,9 @@ def write_timeseries (jobstep, xi1, xi2, output):
     line = line.split()
     if line[0] != '#':                       # Skip the comments
       timestep = int(line[0])
-      if True: # just ignore this
-        ac = float(line[1])
-        bd = float(line[2])
-        output.write('%8d     %.5f       %.5f\n' % (timestep, bd, ac))
+      ac = float(line[1])
+      bd = float(line[2])
+      output.write('%8d     %.5f       %.5f\n' % (timestep, bd, ac))
 
   last_ts = timestep
 
@@ -64,21 +66,20 @@ def write_timeseries (jobstep, xi1, xi2, output):
 # Main #
 #------#
 
+# get list of all CV pairs
 colvars_list = sorted(glob.glob('../umb-012825/output/*/*.colvars.traj'))
-endjobstep = 2
 
+# collect data from all CV pairs
 for line in colvars_list:
- 
+
+  # get CV values as strings from path name
   fname = os.path.basename(line)
   match = re.match('(-?[0-9]+.0)-([0-9]+.[0-9]).colvars.traj', fname) 
   xi1 = match.group(1)
   xi2 = match.group(2)
 
-  #if (float(xi1) % 2 == 0): # even angles only
   basename = '%s-%s' % (xi1, xi2)
   output = open('1-timeseries/' + basename + '.dat', 'w')
-  last_ts = 0
     
-  for jobstep in range(1, endjobstep):
-    write_timeseries(jobstep, xi1, xi2, output)
+  write_timeseries(1, xi1, xi2, output)
 

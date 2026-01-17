@@ -3,18 +3,21 @@
 import os 
 import re
 
+# print list of all data files to timeseries_files
 os.system('ls -1 1-timeseries/*.dat > timeseries_files')
 
+
 files  = open('timeseries_files', 'r').readlines()
-output = open('wham-cc.inp', 'w')
+output = open('wham-cc.inp', 'w') # input config file for WHAM program
 
 output.write("""\
-bia-1.dat
-rho-1.dat
-pmf-1.dat\n""")
+bia.dat
+rho.dat
+pmf.dat\n""")
 
-# Write the minimum and maximum values:
+# number of dimensions in histogram
 ndims = 2
+# for each CV: min, max, step size for WHAM histogram
 var_range = [(-36.2, 118.8, 2.5), 
              (37.3, 51.3, 0.5)]
 
