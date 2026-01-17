@@ -108,14 +108,13 @@ def submit(fname, params=''):
 # Main Routine #
 #--------------#
 
+# submit jobs for all CV pairs found in older directory
 for jobstep, state in enumerate(os.listdir("../steer-2d-1111/output")):
   if (state != "run.stk"):
     theta = float(state.split(".0-")[0]);
     dist = float(state.split(".0-")[1]);
-    if (jobstep >= 500 and jobstep < 600):
-      script = gen_sub(theta, dist, jobstep)
-      jobid = submit(script)  
-
-#gen_sub(38, 40, jobstep)
+    
+    script = gen_sub(theta, dist, jobstep)
+    jobid = submit(script)  
 
 
