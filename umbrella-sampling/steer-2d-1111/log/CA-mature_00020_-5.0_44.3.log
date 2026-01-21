@@ -1,0 +1,894 @@
+Charm++> No provisioning arguments specified. Running with a single PE.
+         Use +auto-provision to fully subscribe resources or +p1 to silence this message.
+Charm++: standalone mode (not using charmrun)
+Charm++> Running in Multicore mode: 1 threads (PEs)
+Charm++> Using recursive bisection (scheme 3) for topology aware partitions
+Converse/Charm++ Commit ID: 
+CharmLB> Load balancer assumes all CPUs are same.
+Charm++> Running on 1 hosts (2 sockets x 1 cores x 1 PUs = 2-way SMP)
+Charm++> cpu topology info is gathered in 0.001 seconds.
+Info: Built with CUDA version 11080
+Did not find +devices i,j,k,... argument, using all
+Pe 0 physical rank 0 binding to CUDA device 0 on hpc3-gpu-k54-04: 'NVIDIA A30'  Mem: 24062MB  Rev: 8.0  PCI: 0:65:0
+Info: NAMD 3.0b3 for Linux-x86_64-multicore-CUDA
+Info: 
+Info: Please visit http://www.ks.uiuc.edu/Research/namd/
+Info: for updates, documentation, and support information.
+Info: 
+Info: Please cite Phillips et al., J. Chem. Phys. 153:044130 (2020) doi:10.1063/5.0014475
+Info: in all publications reporting results obtained with NAMD.
+Info: 
+Info: Based on Charm++/Converse 70000 for multicore-linux-x86_64-gcc
+Info: Built Mon May 1 12:29:32 CDT 2023 by dhardy on athine.ks.uiuc.edu
+Info: 1 NAMD  3.0b3  Linux-x86_64-multicore-CUDA  1    hpc3-gpu-k54-04  cannistc
+Info: Running on 1 processors, 1 nodes, 1 physical nodes.
+Info: CPU topology information available.
+Info: Charm++/Converse parallel runtime startup completed at 0.261668 s
+CkLoopLib is used in SMP with simple dynamic scheduling (converse-level notification)
+Info: 0 MB of memory in use based on /proc/self/stat
+Info: Configuration file is equil.conf
+Info: Working in the current directory /dfs6/pub/cannistc/umb_111423/steer-2d-1111
+TCL: Suspending until startup complete.
+Info: EXTENDED SYSTEM FILE   output/00.0-44.3/00.0-44.3.restart.xsc
+Warning: The Langevin gamma parameters differ over the particles,
+Warning: requiring extra work per step to constrain rigid bonds.
+Info: Enabling PMEOffload because PMEInterpOrder > 4.
+Info: SIMULATION PARAMETERS:
+Info: TIMESTEP               2
+Info: NUMBER OF STEPS        0
+Info: STEPS PER CYCLE        20
+Info: PERIODIC CELL BASIS 1  83.4137 0 0
+Info: PERIODIC CELL BASIS 2  0 83.4137 0
+Info: PERIODIC CELL BASIS 3  0 0 83.4137
+Info: PERIODIC CELL CENTER   0 0 0
+Info: WRAPPING ALL CLUSTERS AROUND PERIODIC BOUNDARIES ON OUTPUT.
+Info: LOAD BALANCER  Centralized
+Info: LOAD BALANCING STRATEGY  New Load Balancers -- DEFAULT
+Info: LDB PERIOD             4000 steps
+Info: FIRST LDB TIMESTEP     100
+Info: LAST LDB TIMESTEP     -1
+Info: LDB BACKGROUND SCALING 1
+Info: HOM BACKGROUND SCALING 1
+Info: PME BACKGROUND SCALING 1
+Info: MIN ATOMS PER PATCH    40
+Info: EMPTY PATCH LOAD       40 ATOMS
+Info: VELOCITY FILE          output/00.0-44.3/00.0-44.3.restart.vel
+Info: CENTER OF MASS MOVING INITIALLY? NO
+Info: DIELECTRIC             1
+Info: EXCLUDE                SCALED ONE-FOUR
+Info: 1-4 ELECTROSTATICS SCALED BY 1
+Info: MODIFIED 1-4 VDW PARAMETERS WILL BE USED
+Info: DCD FILENAME           output/-5.0-44.3/-5.0-44.3.dcd
+Info: DCD FREQUENCY          10000
+Info: DCD FIRST STEP         10000
+Info: DCD FILE WILL CONTAIN UNIT CELL DATA
+Info: XST FILENAME           output/-5.0-44.3/-5.0-44.3.xst
+Info: XST FREQUENCY          10000
+Info: NO VELOCITY DCD OUTPUT
+Info: NO FORCE DCD OUTPUT
+Info: OUTPUT FILENAME        output/-5.0-44.3/-5.0-44.3
+Info: BINARY OUTPUT FILES WILL BE USED
+Info: RESTART FILENAME       output/-5.0-44.3/-5.0-44.3.restart
+Info: RESTART FREQUENCY      10000
+Info: BINARY RESTART FILES WILL BE USED
+Info: SWITCHING ACTIVE
+Info: SWITCHING ON           10
+Info: SWITCHING OFF          12
+Info: PAIRLIST DISTANCE      13.5
+Info: PAIRLIST SHRINK RATE   0.01
+Info: PAIRLIST GROW RATE     0.01
+Info: PAIRLIST TRIGGER       0.3
+Info: PAIRLISTS PER CYCLE    2
+Info: PAIRLISTS ENABLED
+Info: MARGIN                 0.48
+Info: HYDROGEN GROUP CUTOFF  2.5
+Info: PATCH DIMENSION        16.48
+Info: ENERGY OUTPUT STEPS    10000
+Info: ENERGY EVALUATION STEPS    10000
+Info: OUTPUT ENERGY PRECISION 4
+Info: OUPUT ENERGY PRECISION 4
+Info: CROSSTERM ENERGY INCLUDED IN DIHEDRAL
+Info: TIMING OUTPUT STEPS    10000
+Info: COLLECTIVE VARIABLES CALCULATION REQUESTED
+Info: COLLECTIVE VARIABLES CONFIGURATION   colvarsconfig/CA-mature_-5.0_44.3.cvc
+Info: LANGEVIN DYNAMICS ACTIVE
+Info: LANGEVIN TEMPERATURE   310
+Info: LANGEVIN USING BBK INTEGRATOR
+Info: LANGEVIN DAMPING COEFFICIENT IS 5 INVERSE PS
+Info: LANGEVIN DYNAMICS NOT APPLIED TO HYDROGENS
+Info: LANGEVIN PISTON PRESSURE CONTROL ACTIVE
+Info:        TARGET PRESSURE IS 1.01325 BAR
+Info:     OSCILLATION PERIOD IS 200 FS
+Info:             DECAY TIME IS 100 FS
+Info:     PISTON TEMPERATURE IS 310 K
+Info:       PRESSURE CONTROL IS GROUP-BASED
+Info:    INITIAL STRAIN RATE IS -6.51062e-07 -6.51062e-07 -6.51062e-07
+Info:       CELL FLUCTUATION IS ISOTROPIC
+Info: PARTICLE MESH EWALD (PME) ACTIVE
+Info: PME TOLERANCE               1e-06
+Info: PME EWALD COEFFICIENT       0.257952
+Info: PME INTERPOLATION ORDER     6
+Info: PME GRID DIMENSIONS         84 84 84
+Info: PME MAXIMUM GRID SPACING    1
+Info: PME RECIPROCAL SUM OFFLOADED TO GPU
+Info: Attempting to read FFTW data from FFTW_NAMD_3.0b3_Linux-x86_64-multicore-CUDA.txt
+Info: Optimizing 6 FFT steps.  1... 2... 3... 4... 5... 6...   Done.
+Info: Writing FFTW data to FFTW_NAMD_3.0b3_Linux-x86_64-multicore-CUDA.txt
+Info: FULL ELECTROSTATIC EVALUATION FREQUENCY      2
+Info: USING VERLET I (r-RESPA) MTS SCHEME.
+Info: C1 SPLITTING OF LONG RANGE ELECTROSTATICS
+Info: PLACING ATOMS IN PATCHES BY HYDROGEN GROUPS
+Info: RIGID BONDS TO HYDROGEN : ALL
+Info:         ERROR TOLERANCE : 1e-08
+Info:          MAX ITERATIONS : 100
+Info: RIGID WATER USING SETTLE ALGORITHM
+Info: RANDOM NUMBER SEED     1731751858
+Info: USE HYDROGEN BONDS?    NO
+Info: COORDINATE PDB         CA-mature.pdb
+Info: STRUCTURE FILE         CA-mature.psf
+Info: PARAMETER file: CHARMM format! 
+Info: PARAMETERS             ff/par_all36_prot.prm
+Info: PARAMETERS             ff/par_all36_lipid.prm
+Info: PARAMETERS             ff/par_all36_carb.prm
+Info: PARAMETERS             ff/par_all36_cgenff.prm
+Info: PARAMETERS             ff/par_all36_na.prm
+Info: PARAMETERS             ff/toppar_water_ions_namd.str
+Info: PARAMETERS             ff/ip6.prm
+Info: USING ARITHMETIC MEAN TO COMBINE L-J SIGMA PARAMETERS
+Info: BINARY COORDINATES     output/00.0-44.3/00.0-44.3.restart.coor
+Info: SKIPPING rtf SECTION IN STREAM FILE
+Info: SUMMARY OF PARAMETERS:
+Info: 953 BONDS
+Info: 2801 ANGLES
+Info: 6885 DIHEDRAL
+Info: 196 IMPROPER
+Info: 6 CROSSTERM
+Info: 355 VDW
+Info: 10 VDW_PAIRS
+Info: 0 NBTHOLE_PAIRS
+Info: TIME FOR READING PSF FILE: 0.851059
+Info: Reading pdb file CA-mature.pdb
+Info: TIME FOR READING PDB FILE: 0.171304
+Info: 
+Info: ****************************
+Info: STRUCTURE SUMMARY:
+Info: 58658 ATOMS
+Info: 40231 BONDS
+Info: 24726 ANGLES
+Info: 9324 DIHEDRALS
+Info: 625 IMPROPERS
+Info: 219 CROSSTERMS
+Info: 0 EXCLUSIONS
+Info: 56831 RIGID BONDS
+Info: 119143 DEGREES OF FREEDOM
+Info: 20195 HYDROGEN GROUPS
+Info: 4 ATOMS IN LARGEST HYDROGEN GROUP
+Info: 20195 MIGRATION GROUPS
+Info: 4 ATOMS IN LARGEST MIGRATION GROUP
+Info: TOTAL MASS = 358421 amu
+Info: TOTAL CHARGE = 2.57231e-06 e
+Info: MASS DENSITY = 1.02551 g/cm^3
+Info: ATOM DENSITY = 0.101068 atoms/A^3
+Info: *****************************
+Info: Reading from binary file output/00.0-44.3/00.0-44.3.restart.coor
+Info: 
+Info: Entering startup at 1.62901 s, 0 MB of memory in use
+Info: Startup phase 0 took 0.000317373 s, 0 MB of memory in use
+Info: ADDED 74102 IMPLICIT EXCLUSIONS
+Info: Startup phase 1 took 0.0186348 s, 0 MB of memory in use
+Info: NONBONDED TABLE R-SQUARED SPACING: 0.0625
+Info: NONBONDED TABLE SIZE: 769 POINTS
+Info: INCONSISTENCY IN FAST TABLE ENERGY VS FORCE: 0.000325096 AT 11.9556
+Info: INCONSISTENCY IN SCOR TABLE ENERGY VS FORCE: 0.000324844 AT 11.9556
+Info: INCONSISTENCY IN VDWA TABLE ENERGY VS FORCE: 0.0040507 AT 0.251946
+Info: INCONSISTENCY IN VDWB TABLE ENERGY VS FORCE: 0.00150189 AT 0.251946
+Info: Startup phase 2 took 0.0024969 s, 0 MB of memory in use
+Info: Startup phase 3 took 2.7227e-05 s, 0 MB of memory in use
+Info: Startup phase 4 took 0.000168337 s, 0 MB of memory in use
+Info: Startup phase 5 took 1.0156e-05 s, 0 MB of memory in use
+Info: PATCH GRID IS 5 (PERIODIC) BY 5 (PERIODIC) BY 5 (PERIODIC)
+Info: PATCH GRID IS 1-AWAY BY 1-AWAY BY 1-AWAY
+Info: Reading from binary file output/00.0-44.3/00.0-44.3.restart.vel
+Info: REMOVING COM VELOCITY 0.00689711 -0.0418697 -0.0035909
+Info: LARGEST PATCH (81) HAS 518 ATOMS
+Info: TORUS A SIZE 1 USING 0
+Info: TORUS B SIZE 1 USING 0
+Info: TORUS C SIZE 1 USING 0
+Info: TORUS MINIMAL MESH SIZE IS 1 BY 1 BY 1
+Info: Placed 100% of base nodes on same physical node as patch
+Info: Startup phase 6 took 0.0528152 s, 0 MB of memory in use
+Info: Use 3D box decompostion in PME FFT.
+Info: PME using 1 x 1 x 1 pencil grid for FFT and reciprocal sum.
+Info: Startup phase 7 took 9.0338e-05 s, 0 MB of memory in use
+Info: Updated CUDA force table with 4096 elements.
+Info: Updated CUDA LJ table with 355 x 355 elements.
+Info: Startup phase 8 took 0.0023596 s, 0 MB of memory in use
+Info: Startup phase 9 took 4.9491e-05 s, 0 MB of memory in use
+Info: Startup phase 10 took 1.0093e-05 s, 0 MB of memory in use
+Info: Startup phase 11 took 0.000672524 s, 0 MB of memory in use
+LDB: Central LB being created...
+Info: Startup phase 12 took 0.00216747 s, 0 MB of memory in use
+Info: CREATING 2634 COMPUTE OBJECTS
+colvars: ----------------------------------------------------------------------
+colvars: Initializing the collective variables module, version 2023-01-31.
+colvars: Please cite Fiorin et al, Mol Phys 2013:
+colvars:   https://doi.org/10.1080/00268976.2013.813594
+colvars: as well as all other papers listed below for individual features used.
+colvars: SMP parallelism is enabled; if needed, use "smp off" to override this.
+colvars: This version was built with the C++11 standard or higher.
+colvars: Redefining the Tcl "cv" command to the new script interface.
+colvars: Using NAMD interface, version "2023-01-31".
+colvars: ----------------------------------------------------------------------
+colvars: Reading new configuration from file "colvarsconfig/CA-mature_-5.0_44.3.cvc":
+colvars: # units = "" [default]
+colvars: # smp = on [default]
+colvars: # colvarsTrajFrequency = 100 [default]
+colvars: # colvarsRestartFrequency = 10000 [default]
+colvars: # scriptedColvarForces = off [default]
+colvars: # scriptingAfterBiases = off [default]
+colvars: # sourceTclFile = "" [default]
+colvars: ----------------------------------------------------------------------
+colvars:   Initializing a new collective variable.
+colvars:   # name = "dist"
+colvars:   Initializing a new "distance" component.
+colvars:     # name = "" [default]
+colvars:     # componentCoeff = 1 [default]
+colvars:     # componentExp = 1 [default]
+colvars:     # period = 0 [default]
+colvars:     # wrapAround = 0 [default]
+colvars:     # forceNoPBC = off [default]
+colvars:     # scalable = on [default]
+colvars:       Initializing atom group "group1".
+colvars:       # name = "" [default]
+colvars:       # centerToOrigin = off [default]
+colvars:       # centerToReference = off [default]
+colvars:       # rotateToReference = off [default]
+colvars:       # atomsOfGroup = "" [default]
+colvars:       # indexGroup = "" [default]
+colvars:       # psfSegID =  [default]
+colvars:       # atomsFile = "restraints/CA-mature.rstrnt.pdb"
+colvars:       # atomsCol = "O"
+colvars:       # atomsColValue = 4
+colvars:       # dummyAtom = ( 0 , 0 , 0 ) [default]
+colvars:       # enableFitGradients = on [default]
+colvars:       Enabling scalable calculation for group "group1".
+colvars:       # printAtomIDs = off [default]
+colvars:       Atom group "group1" defined with 20 atoms requested: total mass = 270.14, total charge = -2.
+colvars:       Initializing atom group "group2".
+colvars:       # name = "" [default]
+colvars:       # centerToOrigin = off [default]
+colvars:       # centerToReference = off [default]
+colvars:       # rotateToReference = off [default]
+colvars:       # atomsOfGroup = "" [default]
+colvars:       # indexGroup = "" [default]
+colvars:       # psfSegID =  [default]
+colvars:       # atomsFile = "restraints/CA-mature.rstrnt.pdb"
+colvars:       # atomsCol = "O"
+colvars:       # atomsColValue = 7
+colvars:       # dummyAtom = ( 0 , 0 , 0 ) [default]
+colvars:       # enableFitGradients = on [default]
+colvars:       Enabling scalable calculation for group "group2".
+colvars:       # printAtomIDs = off [default]
+colvars:       Atom group "group2" defined with 32 atoms requested: total mass = 432.224, total charge = -3.2.
+colvars:     # oneSiteSystemForce = off [default]
+colvars:     # oneSiteTotalForce = off [default]
+colvars:   All components initialized.
+colvars:   # timeStepFactor = 1 [default]
+colvars:   # width = 1 [default]
+colvars:   # lowerBoundary = 0 [default]
+colvars:   # upperBoundary = 1 [default]
+colvars:   # hardLowerBoundary = on [default]
+colvars:   # hardUpperBoundary = off [default]
+colvars:   # expandBoundaries = off [default]
+colvars:   # extendedLagrangian = off [default]
+colvars:   # outputValue = on [default]
+colvars:   # outputVelocity = off [default]
+colvars:   # outputTotalForce = off [default]
+colvars:   # outputAppliedForce = off [default]
+colvars:   # subtractAppliedForce = off [default]
+colvars:   # runAve = off [default]
+colvars:   # corrFunc = off [default]
+colvars: ----------------------------------------------------------------------
+colvars:   Initializing a new collective variable.
+colvars:   # name = "theta"
+colvars:   Initializing a new "dihedral" component.
+colvars:     # name = "" [default]
+colvars:     # componentCoeff = 1 [default]
+colvars:     # componentExp = 1 [default]
+colvars:     # period = 0 [default]
+colvars:     # wrapAround = 0 [default]
+colvars:     # forceNoPBC = off [default]
+colvars:     # scalable = on [default]
+colvars:       Initializing atom group "group1".
+colvars:       # name = "" [default]
+colvars:       # centerToOrigin = off [default]
+colvars:       # centerToReference = off [default]
+colvars:       # rotateToReference = off [default]
+colvars:       # atomsOfGroup = "" [default]
+colvars:       # indexGroup = "" [default]
+colvars:       # psfSegID =  [default]
+colvars:       # atomsFile = "restraints/CA-mature.rstrnt.pdb"
+colvars:       # atomsCol = "O"
+colvars:       # atomsColValue = 1
+colvars:       # dummyAtom = ( 0 , 0 , 0 ) [default]
+colvars:       # enableFitGradients = on [default]
+colvars:       Enabling scalable calculation for group "group1".
+colvars:       # printAtomIDs = off [default]
+colvars:       Atom group "group1" defined with 120 atoms requested: total mass = 1620.84, total charge = -11.7.
+colvars:       Initializing atom group "group2".
+colvars:       # name = "" [default]
+colvars:       # centerToOrigin = off [default]
+colvars:       # centerToReference = off [default]
+colvars:       # rotateToReference = off [default]
+colvars:       # atomsOfGroup = "" [default]
+colvars:       # indexGroup = "" [default]
+colvars:       # psfSegID =  [default]
+colvars:       # atomsFile = "restraints/CA-mature.rstrnt.pdb"
+colvars:       # atomsCol = "O"
+colvars:       # atomsColValue = 4
+colvars:       # dummyAtom = ( 0 , 0 , 0 ) [default]
+colvars:       # enableFitGradients = on [default]
+colvars:       Enabling scalable calculation for group "group2".
+colvars:       # printAtomIDs = off [default]
+colvars:       Atom group "group2" defined with 20 atoms requested: total mass = 270.14, total charge = -2.
+colvars:       Initializing atom group "group3".
+colvars:       # name = "" [default]
+colvars:       # centerToOrigin = off [default]
+colvars:       # centerToReference = off [default]
+colvars:       # rotateToReference = off [default]
+colvars:       # atomsOfGroup = "" [default]
+colvars:       # indexGroup = "" [default]
+colvars:       # psfSegID =  [default]
+colvars:       # atomsFile = "restraints/CA-mature.rstrnt.pdb"
+colvars:       # atomsCol = "O"
+colvars:       # atomsColValue = 5
+colvars:       # dummyAtom = ( 0 , 0 , 0 ) [default]
+colvars:       # enableFitGradients = on [default]
+colvars:       Enabling scalable calculation for group "group3".
+colvars:       # printAtomIDs = off [default]
+colvars:       Atom group "group3" defined with 40 atoms requested: total mass = 540.28, total charge = -4.09.
+colvars:       Initializing atom group "group4".
+colvars:       # name = "" [default]
+colvars:       # centerToOrigin = off [default]
+colvars:       # centerToReference = off [default]
+colvars:       # rotateToReference = off [default]
+colvars:       # atomsOfGroup = "" [default]
+colvars:       # indexGroup = "" [default]
+colvars:       # psfSegID =  [default]
+colvars:       # atomsFile = "restraints/CA-mature.rstrnt.pdb"
+colvars:       # atomsCol = "O"
+colvars:       # atomsColValue = 6
+colvars:       # dummyAtom = ( 0 , 0 , 0 ) [default]
+colvars:       # enableFitGradients = on [default]
+colvars:       Enabling scalable calculation for group "group4".
+colvars:       # printAtomIDs = off [default]
+colvars:       Atom group "group4" defined with 40 atoms requested: total mass = 540.28, total charge = -4.
+colvars:     # oneSiteSystemForce = off [default]
+colvars:     # oneSiteTotalForce = off [default]
+colvars:   All components initialized.
+colvars:   # timeStepFactor = 1 [default]
+colvars:   # width = 1 [default]
+colvars:   # lowerBoundary = -180 [default]
+colvars:   # upperBoundary = 180 [default]
+colvars:   # hardLowerBoundary = on [default]
+colvars:   # hardUpperBoundary = on [default]
+colvars:   # expandBoundaries = off [default]
+colvars:   # extendedLagrangian = off [default]
+colvars:   # outputValue = on [default]
+colvars:   # outputVelocity = off [default]
+colvars:   # outputTotalForce = off [default]
+colvars:   # outputAppliedForce = off [default]
+colvars:   # subtractAppliedForce = off [default]
+colvars:   # runAve = off [default]
+colvars:   # corrFunc = off [default]
+colvars: ----------------------------------------------------------------------
+colvars:   Initializing a new collective variable.
+colvars:   # name = "alpha2"
+colvars:   Initializing a new "alpha" component.
+colvars:     # name = "" [default]
+colvars:     # componentCoeff = 1 [default]
+colvars:     # componentExp = 1 [default]
+colvars:     # period = 0 [default]
+colvars:     # wrapAround = 0 [default]
+colvars:     # forceNoPBC = off [default]
+colvars:     # scalable = on [default]
+colvars:     # psfSegID = "0A0"
+colvars:     # hBondCoeff = 0.5 [default]
+colvars:     # angleRef = 88 [default]
+colvars:     # angleTol = 15 [default]
+colvars:     # hBondCutoff = 3.3 [default]
+colvars:     # hBondExpNumer = 6 [default]
+colvars:     # hBondExpDenom = 8 [default]
+colvars:   All components initialized.
+colvars:   # timeStepFactor = 1 [default]
+colvars:   # width = 1 [default]
+colvars:   # lowerBoundary = 0 [default]
+colvars:   # upperBoundary = 1 [default]
+colvars:   # hardLowerBoundary = off [default]
+colvars:   # hardUpperBoundary = off [default]
+colvars:   # expandBoundaries = off [default]
+colvars:   # extendedLagrangian = off [default]
+colvars:   # outputValue = on [default]
+colvars:   # outputVelocity = off [default]
+colvars:   # outputTotalForce = off [default]
+colvars:   # outputAppliedForce = off [default]
+colvars:   # subtractAppliedForce = off [default]
+colvars:   # runAve = off [default]
+colvars:   # corrFunc = off [default]
+colvars: ----------------------------------------------------------------------
+colvars:   Initializing a new collective variable.
+colvars:   # name = "alpha3"
+colvars:   Initializing a new "alpha" component.
+colvars:     # name = "" [default]
+colvars:     # componentCoeff = 1 [default]
+colvars:     # componentExp = 1 [default]
+colvars:     # period = 0 [default]
+colvars:     # wrapAround = 0 [default]
+colvars:     # forceNoPBC = off [default]
+colvars:     # scalable = on [default]
+colvars:     # psfSegID = "0A0"
+colvars:     # hBondCoeff = 0.5 [default]
+colvars:     # angleRef = 88 [default]
+colvars:     # angleTol = 15 [default]
+colvars:     # hBondCutoff = 3.3 [default]
+colvars:     # hBondExpNumer = 6 [default]
+colvars:     # hBondExpDenom = 8 [default]
+colvars:   All components initialized.
+colvars:   # timeStepFactor = 1 [default]
+colvars:   # width = 1 [default]
+colvars:   # lowerBoundary = 0 [default]
+colvars:   # upperBoundary = 1 [default]
+colvars:   # hardLowerBoundary = off [default]
+colvars:   # hardUpperBoundary = off [default]
+colvars:   # expandBoundaries = off [default]
+colvars:   # extendedLagrangian = off [default]
+colvars:   # outputValue = on [default]
+colvars:   # outputVelocity = off [default]
+colvars:   # outputTotalForce = off [default]
+colvars:   # outputAppliedForce = off [default]
+colvars:   # subtractAppliedForce = off [default]
+colvars:   # runAve = off [default]
+colvars:   # corrFunc = off [default]
+colvars: ----------------------------------------------------------------------
+colvars: Collective variables initialized, 4 in total.
+colvars: ----------------------------------------------------------------------
+colvars:   Initializing a new "harmonic" instance.
+colvars:   # name = "theta-trans"
+colvars:   # colvars = { theta }
+colvars:   # stepZeroData = off [default]
+colvars:   # outputEnergy = off [default]
+colvars:   # outputFreq = 10000 [default]
+colvars:   # timeStepFactor = 1 [default]
+colvars:   # writeTISamples = off [default]
+colvars:   # writeTIPMF = off [default]
+colvars:   # centers = { -5 }
+colvars:   # targetCenters = { -5 } [default]
+colvars:   # outputCenters = off [default]
+colvars:   # forceConstant = 1
+colvars:   # decoupling = off [default]
+colvars:   # targetForceConstant = -1 [default]
+colvars:   The force constant for colvar "theta" will be rescaled to 1 according to the specified width (1).
+colvars: ----------------------------------------------------------------------
+colvars:   Initializing a new "harmonic" instance.
+colvars:   # name = "dist-trans"
+colvars:   # colvars = { dist }
+colvars:   # stepZeroData = off [default]
+colvars:   # outputEnergy = off [default]
+colvars:   # outputFreq = 10000 [default]
+colvars:   # timeStepFactor = 1 [default]
+colvars:   # writeTISamples = off [default]
+colvars:   # writeTIPMF = off [default]
+colvars:   # centers = { 44.3 }
+colvars:   # targetCenters = { 44.3 } [default]
+colvars:   # outputCenters = off [default]
+colvars:   # forceConstant = 3
+colvars:   # decoupling = off [default]
+colvars:   # targetForceConstant = -1 [default]
+colvars:   The force constant for colvar "dist" will be rescaled to 3 according to the specified width (1).
+colvars: ----------------------------------------------------------------------
+colvars:   Initializing a new "harmonic" instance.
+colvars:   # name = "alpha-rstrnt"
+colvars:   # colvars = { alpha2, alpha3 }
+colvars:   # stepZeroData = off [default]
+colvars:   # outputEnergy = off [default]
+colvars:   # outputFreq = 10000 [default]
+colvars:   # timeStepFactor = 1 [default]
+colvars:   # writeTISamples = off [default]
+colvars:   # writeTIPMF = off [default]
+colvars:   # centers = { 0.9, 0.9 }
+colvars:   # targetCenters = { 0.9, 0.9 } [default]
+colvars:   # outputCenters = off [default]
+colvars:   # forceConstant = 10
+colvars:   # decoupling = off [default]
+colvars:   # targetForceConstant = -1 [default]
+colvars:   The force constant for colvar "alpha2" will be rescaled to 10 according to the specified width (1).
+colvars:   The force constant for colvar "alpha3" will be rescaled to 10 according to the specified width (1).
+colvars: ----------------------------------------------------------------------
+colvars: Collective variables biases initialized, 3 in total.
+colvars: ----------------------------------------------------------------------
+colvars: Collective variables module (re)initialized.
+colvars: ----------------------------------------------------------------------
+colvars: Updating NAMD interface:
+colvars: Warning: enabling wrapAll can lead to inconsistent results for Colvars calculations: please disable wrapAll, as is the default option in NAMD.
+colvars: updating atomic data (53 atoms).
+colvars: updating group data (5 scalable groups, 252 atoms in total).
+colvars: updating grid object data (0 grid objects in total).
+colvars: 
+colvars: SUMMARY OF COLVARS FEATURES USED SO FAR AND THEIR CITATIONS:
+colvars: 
+colvars: - Colvars module:
+colvars: - Colvars-NAMD interface:
+colvars: - Harmonic colvar bias implementation:
+colvars: - Optimal rotation via flexible fitting:
+colvars: - alpha colvar component:
+colvars: - angle colvar component:
+colvars: - dihedral colvar component:
+colvars: - distance colvar component:
+colvars: - hBond colvar component:
+colvars:   Fiorin2013 https://doi.org/10.1080/00268976.2013.813594
+colvars: 
+colvars: - NAMD engine:
+colvars: - Scalable center-of-mass computation (NAMD):
+colvars:   Phillips2020 https://doi.org/10.1063/5.0014475
+colvars: 
+colvars: updating target temperature (T = 310 K).
+colvars: Re-initialized atom group for variable "dist":0/0. 20 atoms: total mass = 270.14, total charge = -2.
+colvars: Re-initialized atom group for variable "dist":0/1. 32 atoms: total mass = 432.224, total charge = -3.2.
+colvars: Re-initialized atom group for variable "theta":0/0. 120 atoms: total mass = 1620.84, total charge = -11.7.
+colvars: Re-initialized atom group for variable "theta":0/1. 20 atoms: total mass = 270.14, total charge = -2.
+colvars: Re-initialized atom group for variable "theta":0/2. 40 atoms: total mass = 540.28, total charge = -4.09.
+colvars: Re-initialized atom group for variable "theta":0/3. 40 atoms: total mass = 540.28, total charge = -4.
+colvars: Re-initialized atom group for variable "alpha2":0/0. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/1. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/2. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/3. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/4. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/5. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/6. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/7. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/8. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/9. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/10. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/11. 1 atoms: total mass = 12.011, total charge = -0.02.
+colvars: Re-initialized atom group for variable "alpha2":0/12. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/13. 1 atoms: total mass = 12.011, total charge = -0.02.
+colvars: Re-initialized atom group for variable "alpha2":0/14. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/15. 1 atoms: total mass = 12.011, total charge = -0.02.
+colvars: Re-initialized atom group for variable "alpha2":0/16. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/17. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/18. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha2":0/19. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha2":0/20. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha2":0/21. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/0. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/1. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/2. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/3. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/4. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/5. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/6. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/7. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/8. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/9. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/10. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/11. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/12. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/13. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/14. 1 atoms: total mass = 12.011, total charge = -0.02.
+colvars: Re-initialized atom group for variable "alpha3":0/15. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/16. 1 atoms: total mass = 12.011, total charge = -0.02.
+colvars: Re-initialized atom group for variable "alpha3":0/17. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/18. 1 atoms: total mass = 12.011, total charge = -0.02.
+colvars: Re-initialized atom group for variable "alpha3":0/19. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/20. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/21. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/22. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/23. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/24. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/25. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/26. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/27. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/28. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/29. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/30. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/31. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/32. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/33. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/34. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/35. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/36. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/37. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/38. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/39. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/40. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/41. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/42. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/43. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/44. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/45. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/46. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/47. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/48. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/49. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: The restart output state file will be "output/-5.0-44.3/-5.0-44.3.restart.colvars.state".
+colvars: The final output state file will be "output/-5.0-44.3/-5.0-44.3.colvars.state".
+Info: Found 303 unique exclusion lists needing 1220 bytes
+Info: Startup phase 13 took 0.637725 s, 0 MB of memory in use
+Info: Startup phase 14 took 5.5341e-05 s, 0 MB of memory in use
+Info: Startup phase 15 took 0.000259934 s, 0 MB of memory in use
+Info: Finished startup at 2.34687 s, 0 MB of memory in use
+
+TCL: Running for 50000 steps
+colvars: Updating NAMD interface:
+colvars: Warning: enabling wrapAll can lead to inconsistent results for Colvars calculations: please disable wrapAll, as is the default option in NAMD.
+colvars: updating atomic data (53 atoms).
+colvars: updating group data (5 scalable groups, 252 atoms in total).
+colvars: updating grid object data (0 grid objects in total).
+colvars: updating target temperature (T = 310 K).
+colvars: Re-initialized atom group for variable "dist":0/0. 20 atoms: total mass = 270.14, total charge = -2.
+colvars: Re-initialized atom group for variable "dist":0/1. 32 atoms: total mass = 432.224, total charge = -3.2.
+colvars: Re-initialized atom group for variable "theta":0/0. 120 atoms: total mass = 1620.84, total charge = -11.7.
+colvars: Re-initialized atom group for variable "theta":0/1. 20 atoms: total mass = 270.14, total charge = -2.
+colvars: Re-initialized atom group for variable "theta":0/2. 40 atoms: total mass = 540.28, total charge = -4.09.
+colvars: Re-initialized atom group for variable "theta":0/3. 40 atoms: total mass = 540.28, total charge = -4.
+colvars: Re-initialized atom group for variable "alpha2":0/0. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/1. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/2. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/3. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/4. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/5. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/6. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/7. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/8. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/9. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/10. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/11. 1 atoms: total mass = 12.011, total charge = -0.02.
+colvars: Re-initialized atom group for variable "alpha2":0/12. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/13. 1 atoms: total mass = 12.011, total charge = -0.02.
+colvars: Re-initialized atom group for variable "alpha2":0/14. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/15. 1 atoms: total mass = 12.011, total charge = -0.02.
+colvars: Re-initialized atom group for variable "alpha2":0/16. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/17. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha2":0/18. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha2":0/19. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha2":0/20. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha2":0/21. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/0. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/1. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/2. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/3. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/4. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/5. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/6. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/7. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/8. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/9. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/10. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/11. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/12. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/13. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/14. 1 atoms: total mass = 12.011, total charge = -0.02.
+colvars: Re-initialized atom group for variable "alpha3":0/15. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/16. 1 atoms: total mass = 12.011, total charge = -0.02.
+colvars: Re-initialized atom group for variable "alpha3":0/17. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/18. 1 atoms: total mass = 12.011, total charge = -0.02.
+colvars: Re-initialized atom group for variable "alpha3":0/19. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/20. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/21. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/22. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/23. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/24. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/25. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/26. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/27. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/28. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/29. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/30. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/31. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/32. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/33. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/34. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/35. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/36. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/37. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/38. 1 atoms: total mass = 12.011, total charge = 0.07.
+colvars: Re-initialized atom group for variable "alpha3":0/39. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/40. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/41. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/42. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/43. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/44. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/45. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/46. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/47. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/48. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: Re-initialized atom group for variable "alpha3":0/49. 2 atoms: total mass = 30.006, total charge = -0.98.
+colvars: The restart output state file will be "output/-5.0-44.3/-5.0-44.3.restart.colvars.state".
+colvars: The final output state file will be "output/-5.0-44.3/-5.0-44.3.colvars.state".
+colvars: Synchronizing (emptying the buffer of) trajectory file "output/-5.0-44.3/-5.0-44.3.colvars.traj".
+ETITLE:      TS           BOND          ANGLE          DIHED          IMPRP               ELECT            VDW       BOUNDARY           MISC        KINETIC               TOTAL           TEMP      POTENTIAL         TOTAL3        TEMPAVG            PRESSURE      GPRESSURE         VOLUME       PRESSAVG      GPRESSAVG
+
+ENERGY:       0       732.3850      2121.6898      2081.0896       100.7801        -214373.6388     18298.4292         0.0000        11.3224     36617.5900        -154410.3527       309.3226   -191027.9427   -154309.0881       309.3226             32.3908        65.8139    580379.5316        32.3908        65.8139
+
+OPENING EXTENDED SYSTEM TRAJECTORY FILE
+LDB: ============= START OF LOAD BALANCING ============== 2.66029
+LDB: ============== END OF LOAD BALANCING =============== 2.66032
+LDB: =============== DONE WITH MIGRATION ================ 2.66043
+LDB: ============= START OF LOAD BALANCING ============== 3.83286
+LDB: ============== END OF LOAD BALANCING =============== 3.8329
+LDB: =============== DONE WITH MIGRATION ================ 3.83316
+Info: Initial time: 1 CPUs 0.0146115 s/step 0.0845574 days/ns 0 MB memory
+LDB: ============= START OF LOAD BALANCING ============== 4.11907
+LDB: ============== END OF LOAD BALANCING =============== 4.1191
+LDB: =============== DONE WITH MIGRATION ================ 4.11921
+LDB: ============= START OF LOAD BALANCING ============== 5.27686
+LDB: ============== END OF LOAD BALANCING =============== 5.27692
+LDB: =============== DONE WITH MIGRATION ================ 5.27722
+Info: Initial time: 1 CPUs 0.0145018 s/step 0.0839225 days/ns 0 MB memory
+LDB: ============= START OF LOAD BALANCING ============== 6.72803
+LDB: ============== END OF LOAD BALANCING =============== 6.72807
+LDB: =============== DONE WITH MIGRATION ================ 6.72828
+Info: Initial time: 1 CPUs 0.0144421 s/step 0.0835769 days/ns 0 MB memory
+LDB: ============= START OF LOAD BALANCING ============== 8.17362
+LDB: ============== END OF LOAD BALANCING =============== 8.17368
+LDB: =============== DONE WITH MIGRATION ================ 8.17395
+Info: Benchmark time: 1 CPUs 0.0145081 s/step 0.0839587 days/ns 0 MB memory
+Info: Benchmark time: 1 CPUs 0.0144751 s/step 0.083768 days/ns 0 MB memory
+Info: Benchmark time: 1 CPUs 0.0143669 s/step 0.0831416 days/ns 0 MB memory
+Info: Benchmark time: 1 CPUs 0.0145003 s/step 0.0839136 days/ns 0 MB memory
+Info: Benchmark time: 1 CPUs 0.014412 s/step 0.0834029 days/ns 0 MB memory
+Info: Benchmark time: 1 CPUs 0.0144407 s/step 0.0835688 days/ns 0 MB memory
+LDB: ============= START OF LOAD BALANCING ============== 64.6132
+LDB: ============== END OF LOAD BALANCING =============== 64.6133
+LDB: =============== DONE WITH MIGRATION ================ 64.6134
+LDB: ============= START OF LOAD BALANCING ============== 66.0749
+LDB: ============== END OF LOAD BALANCING =============== 66.0749
+LDB: =============== DONE WITH MIGRATION ================ 66.0751
+LDB: ============= START OF LOAD BALANCING ============== 122.563
+LDB: ============== END OF LOAD BALANCING =============== 122.563
+LDB: =============== DONE WITH MIGRATION ================ 122.563
+LDB: ============= START OF LOAD BALANCING ============== 124.02
+LDB: ============== END OF LOAD BALANCING =============== 124.02
+LDB: =============== DONE WITH MIGRATION ================ 124.02
+colvars: Synchronizing (emptying the buffer of) trajectory file "output/-5.0-44.3/-5.0-44.3.colvars.traj".
+colvars: Saving collective variables state to "output/-5.0-44.3/-5.0-44.3.restart.colvars.state".
+TIMING: 10000  CPU: 144.439, 0.0144378/step  Wall: 144.927, 0.0144864/step, 0.16096 hours remaining, 0.000000 MB of memory in use.
+PERFORMANCE: 10000  averaging 11.9284 ns/day, 0.0144864 sec/step with standard deviation 0
+ENERGY:   10000       784.2284      2167.8324      2077.0454       112.1537        -214201.5355     18222.5083         0.0000         1.3828     36539.2807        -154297.1038       308.6611   -190836.3844   -154211.5442       309.5516            -22.1914         8.8635    582185.5582        -0.0189         0.0605
+
+WRITING EXTENDED SYSTEM TO RESTART FILE AT STEP 10000
+OPENING COORDINATE DCD FILE
+WRITING COORDINATES TO DCD FILE output/-5.0-44.3/-5.0-44.3.dcd AT STEP 10000
+WRITING COORDINATES TO RESTART FILE AT STEP 10000
+FINISHED WRITING RESTART COORDINATES
+The last position output (seq=10000) takes 0.008 seconds, 0.000 MB of memory in use
+WRITING VELOCITIES TO RESTART FILE AT STEP 10000
+FINISHED WRITING RESTART VELOCITIES
+The last velocity output (seq=10000) takes 0.003 seconds, 0.000 MB of memory in use
+LDB: ============= START OF LOAD BALANCING ============== 180.586
+LDB: ============== END OF LOAD BALANCING =============== 180.586
+LDB: =============== DONE WITH MIGRATION ================ 180.586
+LDB: ============= START OF LOAD BALANCING ============== 182.042
+LDB: ============== END OF LOAD BALANCING =============== 182.042
+LDB: =============== DONE WITH MIGRATION ================ 182.042
+LDB: ============= START OF LOAD BALANCING ============== 238.598
+LDB: ============== END OF LOAD BALANCING =============== 238.598
+LDB: =============== DONE WITH MIGRATION ================ 238.598
+LDB: ============= START OF LOAD BALANCING ============== 240.046
+LDB: ============== END OF LOAD BALANCING =============== 240.046
+LDB: =============== DONE WITH MIGRATION ================ 240.047
+colvars: Synchronizing (emptying the buffer of) trajectory file "output/-5.0-44.3/-5.0-44.3.colvars.traj".
+colvars: Saving collective variables state to "output/-5.0-44.3/-5.0-44.3.restart.colvars.state".
+TIMING: 20000  CPU: 289.023, 0.0144585/step  Wall: 290.013, 0.0145086/step, 0.120905 hours remaining, 0.000000 MB of memory in use.
+PERFORMANCE: 20000  averaging 11.9193 ns/day, 0.0144975 sec/step with standard deviation 1.56811e-05
+ENERGY:   20000       769.9850      2153.2664      2071.4723       129.0404        -214443.9680     18221.5861         0.0000         0.6832     36379.8508        -154718.0839       307.3143   -191097.9347   -154629.6930       309.4959             32.1768        57.7601    578165.8452        -0.6817        -0.7153
+
+WRITING EXTENDED SYSTEM TO RESTART FILE AT STEP 20000
+WRITING COORDINATES TO DCD FILE output/-5.0-44.3/-5.0-44.3.dcd AT STEP 20000
+WRITING COORDINATES TO RESTART FILE AT STEP 20000
+FINISHED WRITING RESTART COORDINATES
+The last position output (seq=20000) takes 0.143 seconds, 0.000 MB of memory in use
+WRITING VELOCITIES TO RESTART FILE AT STEP 20000
+FINISHED WRITING RESTART VELOCITIES
+The last velocity output (seq=20000) takes 0.004 seconds, 0.000 MB of memory in use
+LDB: ============= START OF LOAD BALANCING ============== 296.819
+LDB: ============== END OF LOAD BALANCING =============== 296.819
+LDB: =============== DONE WITH MIGRATION ================ 296.819
+LDB: ============= START OF LOAD BALANCING ============== 298.273
+LDB: ============== END OF LOAD BALANCING =============== 298.273
+LDB: =============== DONE WITH MIGRATION ================ 298.273
+LDB: ============= START OF LOAD BALANCING ============== 354.808
+LDB: ============== END OF LOAD BALANCING =============== 354.808
+LDB: =============== DONE WITH MIGRATION ================ 354.808
+LDB: ============= START OF LOAD BALANCING ============== 356.257
+LDB: ============== END OF LOAD BALANCING =============== 356.257
+LDB: =============== DONE WITH MIGRATION ================ 356.258
+LDB: ============= START OF LOAD BALANCING ============== 412.874
+LDB: ============== END OF LOAD BALANCING =============== 412.874
+LDB: =============== DONE WITH MIGRATION ================ 412.874
+LDB: ============= START OF LOAD BALANCING ============== 414.327
+LDB: ============== END OF LOAD BALANCING =============== 414.327
+LDB: =============== DONE WITH MIGRATION ================ 414.327
+colvars: Synchronizing (emptying the buffer of) trajectory file "output/-5.0-44.3/-5.0-44.3.colvars.traj".
+colvars: Saving collective variables state to "output/-5.0-44.3/-5.0-44.3.restart.colvars.state".
+TIMING: 30000  CPU: 433.605, 0.0144582/step  Wall: 435.237, 0.0145224/step, 0.08068 hours remaining, 0.000000 MB of memory in use.
+PERFORMANCE: 30000  averaging 11.9125 ns/day, 0.0145058 sec/step with standard deviation 1.81469e-05
+ENERGY:   30000       723.4689      2082.7623      2094.1679       121.2403        -213850.7701     17817.3429         0.0000         1.4997     36697.4040        -154312.8841       309.9968   -191010.2881   -154227.1079       309.0796           -199.8838      -159.9885    582117.5885         0.6919         0.6466
+
+WRITING EXTENDED SYSTEM TO RESTART FILE AT STEP 30000
+WRITING COORDINATES TO DCD FILE output/-5.0-44.3/-5.0-44.3.dcd AT STEP 30000
+WRITING COORDINATES TO RESTART FILE AT STEP 30000
+FINISHED WRITING RESTART COORDINATES
+The last position output (seq=30000) takes 0.065 seconds, 0.000 MB of memory in use
+WRITING VELOCITIES TO RESTART FILE AT STEP 30000
+FINISHED WRITING RESTART VELOCITIES
+The last velocity output (seq=30000) takes 0.015 seconds, 0.000 MB of memory in use
+LDB: ============= START OF LOAD BALANCING ============== 471.01
+LDB: ============== END OF LOAD BALANCING =============== 471.01
+LDB: =============== DONE WITH MIGRATION ================ 471.01
+LDB: ============= START OF LOAD BALANCING ============== 472.463
+LDB: ============== END OF LOAD BALANCING =============== 472.463
+LDB: =============== DONE WITH MIGRATION ================ 472.463
+LDB: ============= START OF LOAD BALANCING ============== 529.03
+LDB: ============== END OF LOAD BALANCING =============== 529.03
+LDB: =============== DONE WITH MIGRATION ================ 529.03
+LDB: ============= START OF LOAD BALANCING ============== 530.48
+LDB: ============== END OF LOAD BALANCING =============== 530.481
+LDB: =============== DONE WITH MIGRATION ================ 530.481
+colvars: Synchronizing (emptying the buffer of) trajectory file "output/-5.0-44.3/-5.0-44.3.colvars.traj".
+colvars: Saving collective variables state to "output/-5.0-44.3/-5.0-44.3.restart.colvars.state".
+TIMING: 40000  CPU: 578.202, 0.0144597/step  Wall: 580.396, 0.0145159/step, 0.040322 hours remaining, 0.000000 MB of memory in use.
+PERFORMANCE: 40000  averaging 11.9104 ns/day, 0.0145083 sec/step with standard deviation 1.56533e-05
+ENERGY:   40000       766.7129      2116.1221      2079.6223       125.1209        -214157.5767     17946.5988         0.0000         1.8510     36653.1306        -154468.4182       309.6228   -191121.5487   -154373.3015       309.1554             19.0317        51.0405    579993.2310         1.5442         1.5188
+
+WRITING EXTENDED SYSTEM TO RESTART FILE AT STEP 40000
+WRITING COORDINATES TO DCD FILE output/-5.0-44.3/-5.0-44.3.dcd AT STEP 40000
+WRITING COORDINATES TO RESTART FILE AT STEP 40000
+FINISHED WRITING RESTART COORDINATES
+The last position output (seq=40000) takes 0.063 seconds, 0.000 MB of memory in use
+WRITING VELOCITIES TO RESTART FILE AT STEP 40000
+FINISHED WRITING RESTART VELOCITIES
+The last velocity output (seq=40000) takes 0.005 seconds, 0.000 MB of memory in use
+LDB: ============= START OF LOAD BALANCING ============== 587.138
+LDB: ============== END OF LOAD BALANCING =============== 587.138
+LDB: =============== DONE WITH MIGRATION ================ 587.138
+LDB: ============= START OF LOAD BALANCING ============== 588.588
+LDB: ============== END OF LOAD BALANCING =============== 588.588
+LDB: =============== DONE WITH MIGRATION ================ 588.589
+LDB: ============= START OF LOAD BALANCING ============== 645.196
+LDB: ============== END OF LOAD BALANCING =============== 645.196
+LDB: =============== DONE WITH MIGRATION ================ 645.196
+LDB: ============= START OF LOAD BALANCING ============== 646.65
+LDB: ============== END OF LOAD BALANCING =============== 646.65
+LDB: =============== DONE WITH MIGRATION ================ 646.65
+LDB: ============= START OF LOAD BALANCING ============== 703.226
+LDB: ============== END OF LOAD BALANCING =============== 703.226
+LDB: =============== DONE WITH MIGRATION ================ 703.226
+LDB: ============= START OF LOAD BALANCING ============== 704.684
+LDB: ============== END OF LOAD BALANCING =============== 704.684
+LDB: =============== DONE WITH MIGRATION ================ 704.685
+colvars: Synchronizing (emptying the buffer of) trajectory file "output/-5.0-44.3/-5.0-44.3.colvars.traj".
+colvars: Saving collective variables state to "output/-5.0-44.3/-5.0-44.3.restart.colvars.state".
+colvars: Saving collective variables state to "output/-5.0-44.3/-5.0-44.3.colvars.state".
+TIMING: 50000  CPU: 722.819, 0.0144617/step  Wall: 725.568, 0.0145171/step, 0 hours remaining, 0.000000 MB of memory in use.
+PERFORMANCE: 50000  averaging 11.909 ns/day, 0.0145101 sec/step with standard deviation 1.4117e-05
+ENERGY:   50000       754.6114      2131.5812      2089.7228       118.4897        -213739.3306     17815.9884         0.0000         0.3802     36553.1630        -154275.3938       308.7783   -190828.5569   -154175.7357       309.7359           -112.0396       -85.2620    578974.3535         0.6038         0.6476
+
+WRITING EXTENDED SYSTEM TO RESTART FILE AT STEP 50000
+WRITING COORDINATES TO DCD FILE output/-5.0-44.3/-5.0-44.3.dcd AT STEP 50000
+WRITING COORDINATES TO RESTART FILE AT STEP 50000
+FINISHED WRITING RESTART COORDINATES
+The last position output (seq=50000) takes 0.068 seconds, 0.000 MB of memory in use
+WRITING VELOCITIES TO RESTART FILE AT STEP 50000
+FINISHED WRITING RESTART VELOCITIES
+The last velocity output (seq=50000) takes 0.018 seconds, 0.000 MB of memory in use
+WRITING EXTENDED SYSTEM TO OUTPUT FILE AT STEP 50000
+CLOSING EXTENDED SYSTEM TRAJECTORY FILE
+WRITING COORDINATES TO OUTPUT FILE AT STEP 50000
+CLOSING COORDINATE DCD FILE output/-5.0-44.3/-5.0-44.3.dcd
+The last position output (seq=-2) takes 0.058 seconds, 0.000 MB of memory in use
+WRITING VELOCITIES TO OUTPUT FILE AT STEP 50000
+====================================================
+
+WallClock: 728.084900  CPUTime: 724.310242  Memory: 0.000000 MB
+[Partition 0][Node 0] End of program

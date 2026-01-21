@@ -1,0 +1,47 @@
+configuration {
+  step        50000
+  dt 2.000000e+00
+  version 2023-01-31
+}
+
+colvar {
+  name dist
+  x  4.94663201745296e+01
+}
+
+colvar {
+  name theta
+  x -3.94863426361105e+00
+}
+
+colvar {
+  name alpha2
+  x  8.65500195922610e-01
+}
+
+colvar {
+  name alpha3
+  x  8.64378052472119e-01
+}
+
+restraint {
+  configuration {
+    step 50000
+    name theta-trans
+  }
+}
+
+restraint {
+  configuration {
+    step 50000
+    name dist-trans
+  }
+}
+
+restraint {
+  configuration {
+    step 50000
+    name alpha-rstrnt
+  }
+}
+
