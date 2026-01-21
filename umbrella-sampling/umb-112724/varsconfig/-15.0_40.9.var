@@ -1,0 +1,19 @@
+
+##########################
+# NAMD Runtime Variables #
+##########################
+
+set cv1         -15.0
+set cv2         40.9
+
+set basename    CA-mature
+set nsteps      10000000
+set outputname  output/-15.0-40.9/-15.0-40.9
+set rstname     ../steer-2d-1111/output/-15.0-40.9/-15.0-40.9.restart
+set firstjob    no
+set temperature 310
+
+set lPP         200
+set lPD         100
+set rstFreq     10000
+
