@@ -15,33 +15,7 @@ colvar {
 }
 
 colvar {
-  name theta
-  dihedral {
-    group1 {
-      atomsFile         restraints/CA-mature.rstrnt.pdb
-      atomsCol          O
-      atomsColValue     8.0
-    }
-    group2 {
-      atomsFile         restraints/CA-mature.rstrnt.pdb
-      atomsCol          O
-      atomsColValue     4.0
-    }
-    group3 {
-      atomsFile         restraints/CA-mature.rstrnt.pdb
-      atomsCol          O
-      atomsColValue     5.0
-    }
-    group4 {
-         atomsFile       restraints/CA-mature.rstrnt.pdb
-         atomsCol        O
-         atomsColValue   6.0
-    }
-  }
-}
-
-colvar {
-   name thetaOld
+   name theta
    dihedral {
       group1 { 
          atomsFile       restraints/CA-mature.rstrnt.pdb

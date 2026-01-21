@@ -9,6 +9,9 @@ import numpy as np
 # Function Definitions #
 #----------------------#
 
+# make input file for NAMD colvars module
+# to set harmonic restraints on distance and dihedral CV
+# using colvarstemplate.in as a template
 def genColVarConfig(basename, params):
   template = open('colvarstemplate.in', 'r').read()
   output  = open('colvarsconfig/%s_%s_%s.cvc' % (basename, params[0], params[1]), 'w')
@@ -22,13 +25,11 @@ def gen_sub(jobstep, params, params_prev):
   output = open(script_name, 'w')  
 
   basename = 'CA-mature'
-  # three colvars
+  # two colvars
   cv1 = '%04.1f' % params[0]
   cv2 = '%04.1f' % params[1]
-  #cv3 = '%04.1f' % params[2]
   prev_cv1 = '%04.1f' % params_prev[0]
   prev_cv2 = '%04.1f' % params_prev[1]
-  #prev_cv3 = '%04.1f' % params_prev[2]
   if jobstep == 0:
     first_run = 'yes'
   else:
@@ -100,17 +101,16 @@ def submit(fname, params=''):
 # Main Routine #
 #--------------#
 
-# let's make a library of colvar points
-nsteps = 19;
-# dihedral H6-H4-H4b-H8: immature (30) to mature (100)
-theta = np.linspace(190,10,nsteps); 
-#psi = np.linspace(90,-45,nsteps);
-theta[theta < -180] += 360;
-#psi[psi < -180] += 360;
-dist = np.linspace(40.2,49.8,nsteps);
-# angle H7-H8+9-H10
-#ang = np.append(np.linspace(150,125,nsteps-5),125*np.ones(5));
+# make a path through 2D CV space from mature to immature
+nsteps = 20;
+# dihedral H1+2-H7-H7b-H8+9: mature (110) to immature (-30)
+# hold dihedral fixed for first 5 steps while changing dist
+theta = np.append(110*np.ones(5),np.linspace(110,-30,nsteps-5)); 
+# dist H7b-H10: mature (40.2) to immature (49.8)
+# hold dist fixed for last 5 steps while changing dihedral
+dist = np.append(np.linspace(40.2,49.8,nsteps-5),49.8*np.ones(5));
 
+# generate jobs, run in sequence
 for i in range(nsteps): 
   now = (theta[i],dist[i])
   if i==0:
