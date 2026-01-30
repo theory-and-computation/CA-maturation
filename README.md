@@ -7,8 +7,8 @@ Simulations and analysis tools for studying how the HIV-1 capsid protein changes
 This repository contains computational workflows to study the transition pathway between the HIV-1 capsid (CA) protein: immature-like and mature-like states. 
 
 **What this does:**
-- **Umbrella sampling** - Systematically sample different protein shapes
-- **String method** - Find the lowest energy pathway between shapes
+- **Umbrella sampling** - Systematically sample different protein conformations
+- **String method** - Find the lowest energy pathway between conformations
 - **Energy calculations** - Measure the energy of intermediate structures along the pathway and reveals key structural interactions
 
 
@@ -27,7 +27,7 @@ We find the most likely transition pathway using:
 
 ### 3. Analyzing Intermediate Shapes
 
-We analyze the protein shapes along the pathway to:
+We analyze the protein conformation along the pathway to:
 - Characterize structural features
 - Calculate energy differences between structures
 - Identify which interactions are most important
