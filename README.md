@@ -1,4 +1,4 @@
-# HIV-1 Capsid Shape Changes
+# HIV-1 Capsid Protein Maturation
 
 Simulations and analysis tools for studying how the HIV-1 capsid protein changes shape during virus maturation.
 
@@ -6,7 +6,7 @@ Simulations and analysis tools for studying how the HIV-1 capsid protein changes
 
 This repository contains computational workflows to study the transition pathway between the HIV-1 capsid (CA) protein: immature-like and mature-like states. 
 
-**What we do:**
+**What this does:**
 - **Umbrella sampling** - Systematically sample different protein shapes
 - **String method** - Find the lowest energy pathway between shapes
 - **Energy calculations** - Measure the energy of intermediate structures along the pathway and reveals key structural interactions
