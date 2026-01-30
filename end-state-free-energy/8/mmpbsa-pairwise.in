@@ -1,7 +1,7 @@
 &general
    startframe=1,
    endframe=500,
-   interval=500,
+   interval=20,
    verbose=1,
    keep_files=0,
 /
