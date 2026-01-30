@@ -1,4 +1,4 @@
-##### Overview
+### Overview
 
 This repository contains workflows and analysis scripts for characterizing conformational transitions of the HIV-1 capsid (CA) protein using molecular simulation and free-energy methods.
 
@@ -8,5 +8,6 @@ Contents
 Simulation setup: Input structures, force-field parameters, and umbrella sampling definitions
 Sampling workflow: Window generation, restraint definitions, and production protocols
 Free-energy reconstruction: WHAM/string-based analysis used to recover the MFEP
+
 Intermediate analysis: End-state free-energy calculations and structural characterization
 Post-processing scripts: Tools for reproducing figures and numerical results
