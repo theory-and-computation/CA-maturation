@@ -33,6 +33,8 @@ All steps were run using an AmberTools23 Conda environment.
 
 Activate the environment before running the workflow:
 
+Structure directories should be moved out of structure/ into the same directory as run script
+
 ```bash
 conda activate AmberTools23
 
