@@ -3,9 +3,7 @@ Analysis of the Minimum Free Energy Pathway
 
 # Minimum Free Energy Pathway (MFEP) Workflow
 
-=======
 This repository contains a workflow for preparing, running, and analyzing molecular dynamics simulations monomeric maturation in AMBER.
-
 
 ---
 
@@ -21,10 +19,9 @@ This repository contains a workflow for preparing, running, and analyzing molecu
 - Bash shell (Linux/macOS)
 
 
-The following executables must be available in your `$PATH`:
-=======
+
+
 The following executables must be available:
->>>>>>> 592b5f7 (update and overwrite)
 - `tleap`
 - `pmemd.cuda` or `pmemd` or `sander`
 
