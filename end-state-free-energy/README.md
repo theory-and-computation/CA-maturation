@@ -3,11 +3,9 @@ Analysis of the Minimum Free Energy Pathway
 
 # Minimum Free Energy Pathway (MFEP) Workflow
 
-<<<<<<< HEAD
-This repository contains a workflow for preparing, running, and analyzing molecular dynamics simulations to HIV-1 capsid maturation. 
 =======
 This repository contains a workflow for preparing, running, and analyzing molecular dynamics simulations monomeric maturation in AMBER.
->>>>>>> 592b5f7 (update and overwrite)
+
 
 ---
 
@@ -22,7 +20,7 @@ This repository contains a workflow for preparing, running, and analyzing molecu
   - `sander` (CPU)
 - Bash shell (Linux/macOS)
 
-<<<<<<< HEAD
+
 The following executables must be available in your `$PATH`:
 =======
 The following executables must be available:
