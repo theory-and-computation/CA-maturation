@@ -1,6 +1,7 @@
 #!/bin/bash
 
 for dir in */; do
+    # Skip if not a numeric directory
     [[ -d "$dir" && "$dir" =~ ^[0-9]+/$ ]] || continue
 
     if [ -f "${dir}pmemd-equil.sh" ] && [ -f "${dir}pmemd-run.sh" ]; then

@@ -1,0 +1,212 @@
+| Run on Thu Jan 29 15:38:07 2026
+|
+|Input file:
+|--------------------------------------------------------------
+|&general
+|   startframe=1,
+|   endframe=500,
+|   interval=500,
+|   verbose=1,
+|   keep_files=0,
+|/
+|&gb
+|   igb=2,
+|   saltcon=0.150,
+|   surften=0.00542,
+|/
+|&pb
+|   istrng=0.150,
+|   ipb=2,
+|   inp=1,
+|/
+|&decomp
+|   idecomp=1,
+|   dec_verbose=2,
+|/
+|
+|--------------------------------------------------------------
+|MMPBSA.py Version=14.0
+|Solvated complex topology file:  complex-solvated.prmtop
+|Complex topology file:           frame.prmtop
+|Receptor topology file:          frame-ntd.prmtop
+|Ligand topology file:            frame-ctd.prmtop
+|Initial mdcrd(s):                prod1.nc
+|
+|Receptor mask:                  ":1-150"
+|Ligand mask:                    ":151-221"
+|
+|Calculations performed using 1.998 complex frames.
+|Poisson Boltzmann calculations performed using internal PBSA solver in sander.
+|
+|Generalized Born ESURF calculated using 'LCPO' surface areas
+|
+|All units are reported in kcal/mole.
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+GENERALIZED BORN:
+
+WARNING: INCONSISTENCIES EXIST WITHIN INTERNAL POTENTIAL
+TERMS. THE VALIDITY OF THESE RESULTS ARE HIGHLY QUESTIONABLE
+Complex:
+Energy Component            Average              Std. Dev.   Std. Err. of Mean
+-------------------------------------------------------------------------------
+BOND                       686.0598                0.0000              0.0000
+ANGLE                     1760.5601                0.0000              0.0000
+DIHED                     2882.9133                0.0000              0.0000
+VDWAALS                  -1653.4411                0.0000              0.0000
+EEL                     -15257.9710                0.0000              0.0000
+1-4 VDW                    801.2262                0.0000              0.0000
+1-4 EEL                   8603.7508                0.0000              0.0000
+EGB                      -2678.0247                0.0000              0.0000
+ESURF                       75.8527                0.0000              0.0000
+
+G gas                    -2176.9019                0.0000              0.0000
+G solv                   -2602.1720                0.0000              0.0000
+
+TOTAL                    -4779.0739                0.0000              0.0000
+
+
+Receptor:
+Energy Component            Average              Std. Dev.   Std. Err. of Mean
+-------------------------------------------------------------------------------
+BOND                       471.4589                0.0000              0.0000
+ANGLE                     1225.6405                0.0000              0.0000
+DIHED                     1948.6853                0.0000              0.0000
+VDWAALS                  -1112.1159                0.0000              0.0000
+EEL                     -10306.5390                0.0000              0.0000
+1-4 VDW                    541.5056                0.0000              0.0000
+1-4 EEL                   5964.8479                0.0000              0.0000
+EGB                      -1546.3053                0.0000              0.0000
+ESURF                       51.3956                0.0000              0.0000
+
+G gas                    -1266.5167                0.0000              0.0000
+G solv                   -1494.9097                0.0000              0.0000
+
+TOTAL                    -2761.4264                0.0000              0.0000
+
+
+Ligand:
+Energy Component            Average              Std. Dev.   Std. Err. of Mean
+-------------------------------------------------------------------------------
+BOND                       214.5973                0.0000              0.0000
+ANGLE                      533.9476                0.0000              0.0000
+DIHED                      924.7221                0.0000              0.0000
+VDWAALS                   -510.2251                0.0000              0.0000
+EEL                      -4867.3549                0.0000              0.0000
+1-4 VDW                    257.0052                0.0000              0.0000
+1-4 EEL                   2610.0730                0.0000              0.0000
+EGB                      -1185.4296                0.0000              0.0000
+ESURF                       28.3269                0.0000              0.0000
+
+G gas                     -837.2348                0.0000              0.0000
+G solv                   -1157.1027                0.0000              0.0000
+
+TOTAL                    -1994.3375                0.0000              0.0000
+
+
+Differences (Complex - Receptor - Ligand):
+Energy Component            Average              Std. Dev.   Std. Err. of Mean
+-------------------------------------------------------------------------------
+BOND                         0.0036                0.0000              0.0000
+ANGLE                        0.9720                0.0000              0.0000
+DIHED                        9.5059                0.0000              0.0000
+VDWAALS                    -31.1001                0.0000              0.0000
+EEL                        -84.0771                0.0000              0.0000
+1-4 VDW                      2.7154                0.0000              0.0000
+1-4 EEL                     28.8299                0.0000              0.0000
+EGB                         53.7102                0.0000              0.0000
+ESURF                       -3.8698                0.0000              0.0000
+
+DELTA G gas                -73.1504                0.0000              0.0000
+DELTA G solv                49.8404                0.0000              0.0000
+
+DELTA TOTAL                -23.3100                0.0000              0.0000
+
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
+
+POISSON BOLTZMANN:
+
+WARNING: INCONSISTENCIES EXIST WITHIN INTERNAL POTENTIAL
+TERMS. THE VALIDITY OF THESE RESULTS ARE HIGHLY QUESTIONABLE
+Complex:
+Energy Component            Average              Std. Dev.   Std. Err. of Mean
+-------------------------------------------------------------------------------
+BOND                       686.0598                0.0000              0.0000
+ANGLE                     1760.5601                0.0000              0.0000
+DIHED                     2882.9133                0.0000              0.0000
+VDWAALS                  -1653.4411                0.0000              0.0000
+EEL                     -15257.9710                0.0000              0.0000
+1-4 VDW                    801.2262                0.0000              0.0000
+1-4 EEL                   8603.7508                0.0000              0.0000
+EPB                      -2429.5332                0.0000              0.0000
+ENPOLAR                     67.7714                0.0000              0.0000
+
+G gas                    -2176.9019                0.0000              0.0000
+G solv                   -2361.7618                0.0000              0.0000
+
+TOTAL                    -4538.6637                0.0000              0.0000
+
+
+Receptor:
+Energy Component            Average              Std. Dev.   Std. Err. of Mean
+-------------------------------------------------------------------------------
+BOND                       471.4589                0.0000              0.0000
+ANGLE                     1225.6405                0.0000              0.0000
+DIHED                     1948.6853                0.0000              0.0000
+VDWAALS                  -1112.1159                0.0000              0.0000
+EEL                     -10306.5390                0.0000              0.0000
+1-4 VDW                    541.5056                0.0000              0.0000
+1-4 EEL                   5964.8479                0.0000              0.0000
+EPB                      -1362.2590                0.0000              0.0000
+ENPOLAR                     46.6217                0.0000              0.0000
+
+G gas                    -1266.5167                0.0000              0.0000
+G solv                   -1315.6373                0.0000              0.0000
+
+TOTAL                    -2582.1540                0.0000              0.0000
+
+
+Ligand:
+Energy Component            Average              Std. Dev.   Std. Err. of Mean
+-------------------------------------------------------------------------------
+BOND                       214.5973                0.0000              0.0000
+ANGLE                      533.9476                0.0000              0.0000
+DIHED                      924.7221                0.0000              0.0000
+VDWAALS                   -510.2251                0.0000              0.0000
+EEL                      -4867.3549                0.0000              0.0000
+1-4 VDW                    257.0052                0.0000              0.0000
+1-4 EEL                   2610.0730                0.0000              0.0000
+EPB                      -1119.4929                0.0000              0.0000
+ENPOLAR                     25.3705                0.0000              0.0000
+
+G gas                     -837.2348                0.0000              0.0000
+G solv                   -1094.1224                0.0000              0.0000
+
+TOTAL                    -1931.3572                0.0000              0.0000
+
+
+Differences (Complex - Receptor - Ligand):
+Energy Component            Average              Std. Dev.   Std. Err. of Mean
+-------------------------------------------------------------------------------
+BOND                         0.0036                0.0000              0.0000
+ANGLE                        0.9720                0.0000              0.0000
+DIHED                        9.5059                0.0000              0.0000
+VDWAALS                    -31.1001                0.0000              0.0000
+EEL                        -84.0771                0.0000              0.0000
+1-4 VDW                      2.7154                0.0000              0.0000
+1-4 EEL                     28.8299                0.0000              0.0000
+EPB                         52.2187                0.0000              0.0000
+ENPOLAR                     -4.2208                0.0000              0.0000
+EDISPER                      0.0000                0.0000              0.0000
+
+DELTA G gas                -73.1504                0.0000              0.0000
+DELTA G solv                47.9979                0.0000              0.0000
+
+DELTA TOTAL                -25.1525                0.0000              0.0000
+
+
+-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------

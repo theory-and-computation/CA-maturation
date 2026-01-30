@@ -27,6 +27,8 @@ addions com Na+ 4
 addionsrand com Na+ 50
 addionsrand com Cl- 50
 charge com
+charge com
+charge com
 
 saveamberparm com complex-solvated.prmtop complex-solvated.inpcrd
 

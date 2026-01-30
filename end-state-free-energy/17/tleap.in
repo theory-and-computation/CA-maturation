@@ -5,14 +5,9 @@ com = loadpdb done.pdb
 set default PBRadii mbondi2
 
 saveamberparm com frame.prmtop frame.inpcrd
-solvatebox com TIP3PBOX 16.0
+solvatebox com TIP3PBOX 12.0
 charge com
-
 addions com Na+ 4
-addionsrand com Na+ 50
-addionsrand com Cl- 50
-charge com
-charge com
 charge com
 
 saveamberparm com complex-solvated.prmtop complex-solvated.inpcrd
