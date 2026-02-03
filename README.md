@@ -1,39 +1,61 @@
 # HIV-1 Capsid Protein Maturation
 
-Simulations and analysis tools for studying how the HIV-1 capsid protein changes shape during virus maturation.
+Simulations and analysis tools for studying how the HIV-1 capsid protein changes conformation during virus maturation.
 
 ## Overview
 
 This repository contains computational workflows to study the transition pathway between the HIV-1 capsid (CA) protein: immature-like and mature-like states. 
 
-**What this does:**
-- **Umbrella sampling** - Systematically sample different protein conformations
-- **String method** - Find the lowest energy pathway between conformations
-- **Energy calculations** - Measure the energy of intermediate structures along the pathway and reveals key structural interactions
 
 
-## Methodology
 
-### 1. Umbrella Sampling Setup
 
-We explore the protein shape changes using umbrella sampling. This technique uses constraints to sample different structures between the starting (immature) and ending (mature) states.
 
-### 2. Finding the Energy Pathway
 
-We find the most likely transition pathway using:
-- **WHAM** - Combines data from all simulations to estimate energy differences
-- **String method** - Refines the pathway to find the lowest energy route
-- **Free energy calculations** - Reveals key structural interactions
 
-### 3. Analyzing Intermediate Shapes
+# Minimum Free Energy Pathway Analysis
 
-We analyze the protein conformation along the pathway to:
-- Characterize structural features
-- Calculate energy differences between structures
-- Identify which interactions are most important
+This repository contains a workflow for preparing, running, and analyzing molecular dynamics simulations monomeric maturation in AMBER.
 
-## Includes
+---
 
-- Simulation input files
-- Automated scripts for setting up simulations
-- Scripts to reproduce all figures
+## Requirements
+
+- Conda
+- AmberTools23
+  Installation instructions: https://ambermd.org/AmberTools.php
+- Amber MD engine:
+  - `pmemd.cuda` (GPU), or
+  - `pmemd` (CPU), or
+  - `sander` (CPU)
+- Bash shell (Linux/macOS)
+
+
+
+
+The following executables must be available:
+- `tleap`
+- `pmemd.cuda` or `pmemd` or `sander`
+
+---
+
+## Environment Setup
+
+All steps were run using an AmberTools23 Conda environment.
+
+Activate the environment before running the workflow:
+
+### Structure directories should be moved out of structure/ into the same directory as run script
+
+```bash
+conda activate AmberTools23
+
+# Prepare unbiased MD simulations with tleap for Amber
+./pre-automate.sh
+
+# Submit equilibration and production runs
+./pmemd-submit.sh
+
+# Analysis of minimum free energy pathway states
+./post-automate.sh
+~                        
