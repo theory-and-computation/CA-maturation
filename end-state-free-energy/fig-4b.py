@@ -157,6 +157,7 @@ for energy_label, col_index in energy_terms.items():
 
             plt.tight_layout(pad=1.0)
             plt.savefig(os.path.join(output_dir, f"{out_stem}_{region_label}_zoom.svg"), dpi=600)
+            plt.show()
 
             plt.close()
             
