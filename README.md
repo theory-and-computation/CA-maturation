@@ -23,7 +23,7 @@ Find it in the `umbrella-sampling/` folder.
 - Python 3
 - Bash shell (Linux/macOS)
 
-## Directory guide
+### Directory guide
 
 steer-1022/: 1D steering from mature to immature. Includes scripts to run NAMD and input and output files.
 
@@ -37,7 +37,7 @@ umb-010525/: next 20 ns umbrella sampling. Includes scripts to run NAMD.
 
 umb-012825/: final 20 ns umbrella sampling. Includes scripts to run NAMD.
 
-# WHAM data guide
+## WHAM data guide
 
 wham-0512-last60/: WHAM on last 60 ns of biased trajectories
 
@@ -60,7 +60,7 @@ Figure S1: run plot_pmf_error.py
 
 
 
-# Minimum Free Energy Pathway Analysis
+## Minimum Free Energy Pathway Analysis
 
 This repository contains a workflow for preparing, running, and analyzing molecular dynamics simulations monomeric maturation in AMBER.
 
@@ -86,13 +86,13 @@ The following executables must be available:
 
 ---
 
-## Environment Setup
+### Environment Setup
 
 All steps were run using an AmberTools23 Conda environment.
 
 Activate the environment before running the workflow:
 
-### Structure directories should be moved out of structure/ into the same directory as run script
+#### Structure directories should be moved out of structure/ into the same directory as run script
 
 ```bash
 conda activate AmberTools23
