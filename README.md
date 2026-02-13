@@ -70,8 +70,6 @@ The following executables must be available: `tleap`, and one of `pmemd.cuda`, `
 
 ### Environment Setup
 
-All steps were run using an AmberTools23 Conda environment. Structure directories should be moved out of `structure/` into the same directory as the run scripts.
-
 ```bash
 conda activate AmberTools23
 
