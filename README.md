@@ -62,6 +62,8 @@ The following executables must be available: `tleap`, and one of `pmemd.cuda`, `
 | Figure 2B | Run `pmf-MFEP.py` |
 | Figure 2C | Run `rmsf.py` |
 | Figures 3A–C | Run `pmf-MFEP.py` |
+| Figure 4A | Run 'fig-4a.py'|
+| Figure 4B | Run 'fig-4b.py'|
 | Figure S1 | Run `plot_pmf_error.py` |
 
 ---
